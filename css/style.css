@@ -635,3 +635,23 @@ a:hover{color:var(--mintd)}
 :lang(ja) .hero h1,:lang(ja) .hero p.lead{word-break:auto-phrase;text-wrap:balance}
 :lang(zh) .hero h1{text-wrap:balance}
 .tag[data-r="cn"]{background:#F6C3B0;color:var(--navy)}
+
+/* region tags: 18 distinct pastel colours */
+.tag[data-r="cn"]{background:#FFA29E;color:var(--navy)}
+.tag[data-r="jp"]{background:#FFCFC4;color:var(--navy)}
+.tag[data-r="il"]{background:#E8B181;color:var(--navy)}
+.tag[data-r="eu"]{background:#E3B44F;color:var(--navy)}
+.tag[data-r="ar"]{background:#F0E8AF;color:var(--navy)}
+.tag[data-r="sea"]{background:#B1C460;color:var(--navy)}
+.tag[data-r="tw"]{background:#CFF8A2;color:var(--navy)}
+.tag[data-r="uk"]{background:#E3A3F3;color:var(--navy)}
+.tag[data-r="kr"]{background:#97C5AC;color:var(--navy)}
+.tag[data-r="mx"]{background:#7CFFDD;color:var(--navy)}
+.tag[data-r="br"]{background:#B0F7F1;color:var(--navy)}
+.tag[data-r="au"]{background:#30DAE1;color:var(--navy)}
+.tag[data-r="us"]{background:#8AC6DA;color:var(--navy)}
+.tag[data-r="ke"]{background:#85BEFD;color:var(--navy)}
+.tag[data-r="me"]{background:#BCB6DB;color:var(--navy)}
+.tag[data-r="ca"]{background:#82D993;color:var(--navy)}
+.tag[data-r="za"]{background:#FCBFE0;color:var(--navy)}
+.tag[data-r="intl"]{background:#E2E5EE;color:var(--navy)}
