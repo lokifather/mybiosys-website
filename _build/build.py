@@ -151,6 +151,9 @@ def header(c):
 <button class="menu-btn" type="button" aria-expanded="false" aria-controls="nav" aria-label="{t["menu"]}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 7h18M3 12h18M3 17h18"/></svg></button></div>
 </div></header>'''
 
+import hashlib
+ASSET_V = {k: hashlib.md5(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", f), "rb").read()).hexdigest()[:8] for k, f in (("css", "css/style.css"), ("js", "js/main.js"))}
+
 def footer(c):
     t = c.t
     svc = "".join(f'<li><a href="{c.link("services/" + s["slug"] + ".html")}">{s[c.lang]["name"]}</a></li>' for s in SERVICES)
@@ -201,7 +204,7 @@ def page(c, title, desc, body, schema=None):
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-kr@5/400.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-kr@5/500.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-kr@5/700.css">
-<link rel="stylesheet" href="{c.asset("css/style.css")}">
+<link rel="stylesheet" href="{c.asset("css/style.css")}?v={ASSET_V["css"]}">
 {sch}
 </head>
 <body class="{"home" if c.logical == "index.html" else "inner"}">
@@ -210,7 +213,7 @@ def page(c, title, desc, body, schema=None):
 {body}
 </main>
 {footer(c)}
-<script src="{c.asset("js/main.js")}" defer></script>
+<script src="{c.asset("js/main.js")}?v={ASSET_V["js"]}" defer></script>
 </body></html>'''
     p = os.path.join(OUT, c.cur)
     os.makedirs(os.path.dirname(p), exist_ok=True)
