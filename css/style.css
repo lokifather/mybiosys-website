@@ -628,3 +628,4 @@ a:hover{color:var(--mintd)}
 :lang(zh) .hero h1{text-wrap:balance}
 /* region tags: one uniform colour */
 .tag{background:#D9CFF3;color:var(--navy)}
+.site-header .pill.fill.cta-pill{font-weight:500!important;font-size:1rem}
