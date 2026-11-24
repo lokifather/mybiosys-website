@@ -618,7 +618,7 @@ a:hover{color:var(--mintd)}
 
 .tag[data-r="ar"]{background:#CFE8F7}.tag[data-r="il"]{background:#DDD6F3}.tag[data-r="ke"]{background:#F3D9B1}.tag[data-r="mx"]{background:#C9EBC3}.tag[data-r="za"]{background:#F6D3D3}.tag[data-r="tw"]{background:#D2E7E4}
 
-.partners{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px}
+.partners{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,440px),1fr));gap:20px}
 .pcard{display:flex;flex-direction:column;gap:8px;height:100%;padding:24px;background:#fff;border:1px solid var(--rule);border-top:3px solid var(--navy);color:inherit;text-decoration:none}
 .pcard:hover{border-top-color:#2F6F73;box-shadow:0 6px 20px rgba(0,0,0,.08)}
 .pcard strong{font-size:1.35rem}
