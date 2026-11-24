@@ -314,7 +314,7 @@ def home(lang):
 <p class="status" role="status" aria-live="polite"></p>
 </form></div></section>'''
     schema = {"@context": "https://schema.org", "@type": "ProfessionalService", "@id": f"https://{DOMAIN}/#org", "name": "mybiosys", "url": f"https://{DOMAIN}/", "description": t["home_desc"],
-              "email": "contact@mybiosys.com", "inLanguage": t["html_lang"], "availableLanguage": ["ko", "en", "zh", "ja"],
+              "email": "contact@mybiosys.com", "sameAs": ["https://www.linkedin.com/in/minyong-choi-78040369/"], "inLanguage": t["html_lang"], "availableLanguage": ["ko", "en", "zh", "ja"],
               "serviceType": [x[lang]["name"] for x in SERVICES],
               "hasOfferCatalog": {"@type": "OfferCatalog", "name": "mybiosys",
                                   "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": x[lang]["name"], "url": f"https://{DOMAIN}/" + out_path(lang, f"services/{x['slug']}.html")}} for x in SERVICES]}}
