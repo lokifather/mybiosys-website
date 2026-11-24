@@ -30,6 +30,7 @@ UI["en"].update({"nd_points": "Key points", "nd_sources": "Official sources", "n
  "nd_related": "Related service", "nd_more": "Read more", "nd_ask": "Ask about this topic", "nd_notice": "A summary of official announcements for reference. The original documents are authoritative."})
 
 import i18n_zh, i18n_ja
+from flags import flag
 import i18n_es, i18n_pt, i18n_ru, i18n_fr, i18n_de
 NEWLANG = (i18n_es, i18n_pt, i18n_ru, i18n_fr, i18n_de)  # news text falls back to English
 from extra_services import EXTRA, STD_EXTRA
@@ -384,7 +385,7 @@ def news_li(c, n, i):
     d = n[c.lang]; t = c.t
     href = c.link("news/" + n["slug"] + ".html")
     return (f'<li class="news-item" id="n{i}" data-region="{n["region"]}"><time datetime="{n["date"]}">{n["date"]}</time>'
-            f'<div><span class="tag" data-r="{n["region"]}">{REGIONS[n["region"]][c.lang]}</span>'
+            f'<div><span class="tag" data-r="{n["region"]}">{flag(n["region"])}{REGIONS[n["region"]][c.lang]}</span>'
             f'<h3><a href="{href}">{esc(d["title"])}</a></h3><p>{esc(d["sum"])}</p>'
             f'<p class="more-link"><a href="{href}">{t["nd_more"]}</a></p></div></li>')
 
@@ -400,7 +401,7 @@ def news_detail(lang, n):
     ask = c.link("index.html") + f"?topic={n['svc'] or 'other'}#contact"
     body = f'''<div class="wrap"><div class="page-head">
 <p class="crumb"><a href="{c.link("index.html")}">{t["crumb_home"]}</a> / <a href="{c.link("news.html")}">{t["nav_insights"]}</a></p>
-<p class="meta"><span class="tag" data-r="{n["region"]}">{REGIONS[n["region"]][lang]}</span> <time datetime="{n["date"]}">{n["date"]}</time></p>
+<p class="meta"><span class="tag" data-r="{n["region"]}">{flag(n["region"])}{REGIONS[n["region"]][lang]}</span> <time datetime="{n["date"]}">{n["date"]}</time></p>
 <h1 class="nd-title">{esc(d["title"])}</h1><p class="lead">{esc(d["sum"])}</p></div>
 <div class="two"><div>
 <section><h2>{t["nd_points"]}</h2><ul class="bullets">{pts}</ul></section>
@@ -419,7 +420,7 @@ def news_page(lang):
     items = "".join(news_li(c, n, i) for i, n in enumerate(NEWS))
     used = [k for k in REGIONS if any(n["region"] == k for n in NEWS)]
     chips = f'<button type="button" class="chip on" data-r="all">{t["all"]}</button>' + "".join(
-        f'<button type="button" class="chip" data-r="{k}">{REGIONS[k][lang]}</button>' for k in used)
+        f'<button type="button" class="chip" data-r="{k}">{flag(k)}{REGIONS[k][lang]}</button>' for k in used)
     body = f'''<div class="wrap"><div class="page-head"><h1>{t["ins_h"]}</h1><p class="lead">{t["ins_p"]}</p>
 <p class="muted" style="margin-top:12px;font-size:.92rem">{t["news_updated"]}: {UPDATED}</p></div>
 <div class="chips" role="group">{chips}</div><ul class="news">{items}</ul>

@@ -655,3 +655,7 @@ a:hover{color:var(--mintd)}
 .tag[data-r="ca"]{background:#82D993;color:var(--navy)}
 .tag[data-r="za"]{background:#FCBFE0;color:var(--navy)}
 .tag[data-r="intl"]{background:#E2E5EE;color:var(--navy)}
+/* region tags with flags: neutral pill, colour comes from the flag */
+.tag[data-r]{display:inline-flex;align-items:center;gap:6px;background:#fff;color:var(--navy);border:1px solid var(--rule);border-radius:999px;padding:2px 11px 2px 8px}
+.tag .flag,.chip .flag{border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.12);flex:none}
+.chip{display:inline-flex;align-items:center;gap:6px}
