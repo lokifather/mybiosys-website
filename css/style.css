@@ -629,7 +629,6 @@ a:hover{color:var(--mintd)}
 /* region tags: one uniform colour */
 .tag{background:#D9CFF3;color:var(--navy)}
 .site-header .pill.fill.cta-pill{font-weight:500!important;font-size:1rem}
-/* region filter buttons: same lavender as the region tags */
-.chip{background:#D9CFF3;border-color:#D9CFF3;color:var(--navy)}
-.chip:hover{background:#C8BBEB;border-color:#C8BBEB}
+/* region filter buttons: lavender only on hover */
+.chip:hover{background:#D9CFF3}
 .chip.on,.chip.on:hover{background:var(--navy);border-color:var(--navy);color:#fff}
