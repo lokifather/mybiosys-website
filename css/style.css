@@ -634,3 +634,4 @@ a:hover{color:var(--mintd)}
 @media(max-width:900px){:lang(zh) .hero h1,:lang(ja) .hero h1{margin-left:0}}
 :lang(ja) .hero h1,:lang(ja) .hero p.lead{word-break:auto-phrase;text-wrap:balance}
 :lang(zh) .hero h1{text-wrap:balance}
+.tag[data-r="cn"]{background:#F6C3B0;color:var(--navy)}
