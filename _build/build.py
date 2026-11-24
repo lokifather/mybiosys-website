@@ -149,6 +149,7 @@ def footer(c):
 <p class="copy">© 2026 mybiosys</p>
 </div></footer>'''
 
+OG_LOCALE = {"ko": "ko_KR", "en": "en_US", "zh-CN": "zh_CN", "ja": "ja_JP"}
 SERIF = {'ko': 'Noto+Serif+KR', 'en': 'Noto+Serif+KR', 'zh': 'Noto+Serif+SC', 'ja': 'Noto+Serif+JP'}
 def page(c, title, desc, body, schema=None):
     t = c.t
@@ -168,6 +169,8 @@ def page(c, title, desc, body, schema=None):
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="mybiosys">
+<meta property="og:locale" content="{OG_LOCALE.get(t["html_lang"], "ko_KR")}">
 <meta property="og:url" content="{url}">
 <meta name="theme-color" content="#1D2640">
 <link rel="icon" href="{c.asset("favicon.svg")}" type="image/svg+xml">
@@ -310,7 +313,11 @@ def home(lang):
 <div><button class="btn" type="submit">{t["f_submit"]}</button></div>
 <p class="status" role="status" aria-live="polite"></p>
 </form></div></section>'''
-    schema = {"@context": "https://schema.org", "@type": "ProfessionalService", "name": "mybiosys", "url": f"https://{DOMAIN}/", "description": t["home_desc"]}
+    schema = {"@context": "https://schema.org", "@type": "ProfessionalService", "@id": f"https://{DOMAIN}/#org", "name": "mybiosys", "url": f"https://{DOMAIN}/", "description": t["home_desc"],
+              "email": "contact@mybiosys.com", "inLanguage": t["html_lang"], "availableLanguage": ["ko", "en", "zh", "ja"],
+              "serviceType": [x[lang]["name"] for x in SERVICES],
+              "hasOfferCatalog": {"@type": "OfferCatalog", "name": "mybiosys",
+                                  "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": x[lang]["name"], "url": f"https://{DOMAIN}/" + out_path(lang, f"services/{x['slug']}.html")}} for x in SERVICES]}}
     page(c, t["home_title"], t["home_desc"], body, schema)
 
 def service(lang, s):
@@ -328,7 +335,9 @@ def service(lang, s):
 <section><h2>{t["when_h"]}</h2><ul>{when}</ul></section></div>
 <aside><div class="aside-box"><h2>{t["std_h"]}</h2><ul>{std}</ul><a class="btn lime" href="{ask}">{t["ask"]}</a></div></aside></div>
 <div class="others"><strong>{t["others"]}</strong><ul>{others}</ul></div></div>'''
-    page(c, f'{d["name"]} | mybiosys', d["lead"][:150], body)
+    sch = {"@context": "https://schema.org", "@type": "Service", "name": d["name"], "description": d["lead"][:150], "inLanguage": t["html_lang"],
+           "url": "https://" + DOMAIN + "/" + c.cur, "provider": {"@type": "ProfessionalService", "@id": f"https://{DOMAIN}/#org", "name": "mybiosys"}}
+    page(c, f'{d["name"]} | mybiosys', d["lead"][:150], body, sch)
 
 def news_li(c, n, i):
     d = n[c.lang]; t = c.t
@@ -359,7 +368,10 @@ def news_detail(lang, n):
 <p style="margin-top:28px"><a class="btn-ghost" href="{c.link("news.html")}">{t["nd_back"]}</a></p></div>
 <aside><div class="aside-box"><h2>{t["nd_sources"]}</h2><ul class="srcs">{srcs}</ul>{rel}
 <a class="btn lime" href="{ask}">{t["nd_ask"]}</a></div></aside></div></div>'''
-    page(c, f'{d["title"]} | mybiosys', d["sum"][:150], body)
+    sch = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": d["title"][:110], "description": d["sum"][:150], "datePublished": n["date"],
+           "inLanguage": t["html_lang"], "mainEntityOfPage": "https://" + DOMAIN + "/" + c.cur,
+           "publisher": {"@type": "Organization", "name": "mybiosys", "url": f"https://{DOMAIN}/"}, "citation": [u for _k, _e, u in n["src"]]}
+    page(c, f'{d["title"]} | mybiosys', d["sum"][:150], body, sch)
 
 def news_page(lang):
     c = Ctx(lang, "news.html"); t = c.t
@@ -403,11 +415,15 @@ open(os.path.join(OUT, "favicon.svg"), "w").write(logo_svg("#1D2640", True))
 open(os.path.join(OUT, "CNAME"), "w").write(DOMAIN + "\n")
 open(os.path.join(OUT, ".nojekyll"), "w").write("")
 open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: https://{DOMAIN}/sitemap.xml\n")
-urls = []
-for lang in LANGS:
-    for lp in ["index.html", "news.html", "privacy.html"] + [f"services/{s['slug']}.html" for s in SERVICES] + [f"news/{n['slug']}.html" for n in NEWS]:
-        urls.append(f"https://{DOMAIN}/" + out_path(lang, lp))
+_pages = ["index.html", "news.html", "privacy.html"] + [f"services/{s['slug']}.html" for s in SERVICES] + [f"news/{n['slug']}.html" for n in NEWS]
+_mod = {f"news/{n['slug']}.html": n["date"] for n in NEWS}
+_ent = []
+for lp in _pages:
+    alts = "".join(f'<xhtml:link rel="alternate" hreflang="{lg}" href="https://{DOMAIN}/{out_path(lg, lp)}"/>' for lg in LANGS)
+    alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="https://{DOMAIN}/{out_path("ko", lp)}"/>'
+    for lang in LANGS:
+        _ent.append(f"<url><loc>https://{DOMAIN}/{out_path(lang, lp)}</loc><lastmod>{_mod.get(lp, UPDATED)}</lastmod>{alts}</url>\n")
+urls = _ent
 open(os.path.join(OUT, "sitemap.xml"), "w").write(
- '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
- "".join(f"<url><loc>{u}</loc></url>\n" for u in urls) + "</urlset>\n")
+ '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "".join(_ent) + "</urlset>\n")
 print("built", len(urls), "pages")
