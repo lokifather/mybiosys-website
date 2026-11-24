@@ -288,6 +288,19 @@ HERO_ART = '''<svg class="hero-art" viewBox="0 0 1440 700" preserveAspectRatio="
 <circle cx="1310" cy="520" r="26" fill="#fff"/>
 </svg>'''
 
+PARTNER = {
+ "ko": ("비즈니스 파트너", "mybiosys와 협력하는 의료기기 규제 전문 기업입니다.", "중국 상하이", "중국 상하이에 기반을 두고 의료기기 규제 컨설팅, 의료기기 허가 및 등록, CRO(임상시험수탁기관), 교육 서비스를 제공하는 회사입니다.", "웹사이트 방문"),
+ "en": ("Business partners", "Companies we work with in medical device regulatory affairs.", "Shanghai, China", "Based in Shanghai, China, providing medical device regulatory consulting, device approval and registration, CRO (contract research organization) and training services.", "Visit website"),
+ "zh": ("业务合作伙伴", "与 mybiosys 合作的医疗器械法规专业机构。", "中国上海", "总部位于中国上海，提供医疗器械法规咨询、医疗器械注册与备案、CRO（合同研究组织）及培训服务的公司。", "访问网站"),
+ "ja": ("ビジネスパートナー", "mybiosys と協力する医療機器規制の専門企業です。", "中国・上海", "中国・上海に拠点を置き、医療機器規制コンサルティング、医療機器の承認・登録、CRO（開発業務受託機関）、教育・研修サービスを提供する会社です。", "ウェブサイトを見る"),
+ "es": ("Socios comerciales", "Empresas con las que colaboramos en asuntos regulatorios de productos sanitarios.", "Shanghái, China", "Con sede en Shanghái (China), ofrece consultoría regulatoria, autorización y registro de productos sanitarios, servicios de CRO (organización de investigación por contrato) y formación.", "Visitar el sitio web"),
+ "pt": ("Parceiros de negócio", "Empresas com as quais colaboramos em assuntos regulamentares de dispositivos médicos.", "Xangai, China", "Com sede em Xangai (China), presta consultoria regulamentar, autorização e registo de dispositivos médicos, serviços de CRO (organização de investigação por contrato) e formação.", "Visitar o sítio Web"),
+ "ru": ("Деловые партнёры", "Компании, с которыми мы сотрудничаем в сфере регулирования медицинских изделий.", "Шанхай, Китай", "Компания из Шанхая (Китай): консалтинг по регулированию, разрешение и регистрация медицинских изделий, услуги CRO (контрактной исследовательской организации) и обучение.", "Перейти на сайт"),
+ "fr": ("Partenaires commerciaux", "Entreprises avec lesquelles nous collaborons en affaires réglementaires des dispositifs médicaux.", "Shanghai, Chine", "Basée à Shanghai (Chine), elle propose du conseil réglementaire, l'autorisation et l'enregistrement des dispositifs médicaux, des services de CRO (organisation de recherche sous contrat) et des formations.", "Visiter le site web"),
+ "de": ("Geschäftspartner", "Unternehmen, mit denen wir im Bereich Medizinprodukterecht zusammenarbeiten.", "Shanghai, China", "Mit Sitz in Shanghai (China); bietet Regulierungsberatung, Zulassung und Registrierung von Medizinprodukten, CRO-Leistungen (Auftragsforschungsinstitut) sowie Schulungen.", "Website besuchen"),
+}
+PARTNERS = [("MedWheat", "https://www.medwheat.com/")]
+
 def home(lang):
     c = Ctx(lang, "index.html"); t = c.t
     tiles = "".join(
@@ -298,6 +311,8 @@ def home(lang):
     steps = "".join(f"<li><h3>{h}</h3><p>{p}</p></li>" for h, p in t["steps"])
     nl = "".join(news_li(c, n, i) for i, n in enumerate(NEWS[:5]))
     opts = "".join(f'<option value="{s["slug"]}">{s[lang]["name"]}</option>' for s in SERVICES) + f'<option value="other">{t["f_other"]}</option>'
+    ph, pi, ploc, pd, pv = PARTNER[lang]
+    pcards = "".join(f'<li><a class="pcard" href="{u}" target="_blank" rel="noopener"><span class="ploc">{ploc}</span><strong>{n}</strong><span class="pdesc">{pd}</span><span class="more">{pv}</span></a></li>' for n, u in PARTNERS)
     consent = t["f_consent"].replace("{priv}", c.link("privacy.html"))
     photo = ""
     for ext in ("webp", "jpg", "jpeg", "png"):
@@ -323,6 +338,9 @@ def home(lang):
 <div class="section-head"><h2>{t["ins_h"]}</h2><p>{t["ins_p"]}</p></div>
 <ul class="news">{nl}</ul>
 <p style="margin-top:24px"><a class="btn-ghost" href="{c.link("news.html")}">{t["ins_all"]}</a></p></div></section>
+<section class="section" id="partners"><div class="wrap">
+<div class="section-head"><h2>{ph}</h2><p>{pi}</p></div>
+<ul class="partners">{pcards}</ul></div></section>
 <section class="section on-navy" id="contact"><div class="wrap contact-grid">
 <div class="side"><h2>{t["con_h"]}</h2><p>{t["con_p"]}</p><p><a href="mailto:{EMAIL}">{EMAIL}</a></p></div>
 <form class="contact" novalidate data-endpoint="{FORM_ENDPOINT}" data-key="{FORM_KEY}" data-mailto="{EMAIL}" data-msg-ok="{t["msg_ok"]}" data-msg-err="{t["msg_err"]}" data-msg-mail="{t["msg_mail"]}" data-msg-sending="{t["msg_sending"]}">
