@@ -627,4 +627,4 @@ a:hover{color:var(--mintd)}
 :lang(ja) .hero h1,:lang(ja) .hero p.lead{word-break:auto-phrase;text-wrap:balance}
 :lang(zh) .hero h1{text-wrap:balance}
 /* region tags: one uniform colour */
-.tag{background:#E6F8EF;color:var(--navy)}
+.tag{background:#D9CFF3;color:var(--navy)}
