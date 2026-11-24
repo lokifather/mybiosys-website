@@ -30,15 +30,18 @@ UI["en"].update({"nd_points": "Key points", "nd_sources": "Official sources", "n
  "nd_related": "Related service", "nd_more": "Read more", "nd_ask": "Ask about this topic", "nd_notice": "A summary of official announcements for reference. The original documents are authoritative."})
 
 import i18n_zh, i18n_ja
+import i18n_es, i18n_pt, i18n_ru, i18n_fr, i18n_de
+NEWLANG = (i18n_es, i18n_pt, i18n_ru, i18n_fr, i18n_de)  # news text falls back to English
 from extra_services import EXTRA, STD_EXTRA
 SERVICES.extend(EXTRA)
-LANGS = ["ko", "en", "zh", "ja"]
+LANGS = ["ko", "en", "zh", "ja", "es", "pt", "ru", "fr", "de"]
 UI["ko"]["hero_tag"] = "의료기기 규제 컨설팅"; UI["en"]["hero_tag"] = "Medical device regulatory consulting"; 
 UI["ko"]["label"] = "한국어"; UI["en"]["label"] = "English"
 UI["ko"]["h1"] = "의료기기 규제 대응을<br class='pc-br'> [[하나의 체계]]로 설계합니다"
 UI["en"]["h1"] = "We design medical device compliance as [[one system]]"
 for _m, _hl in ((i18n_zh, "一个完整体系"), (i18n_ja, "ひとつの体系")):
     UI[_m.LANG] = dict(_m.UI)
+for _m in NEWLANG: UI[_m.LANG] = dict(_m.UI)
 UI["zh"]["hero_tag"] = "医疗器械法规咨询"; UI["ja"]["hero_tag"] = "医療機器規制コンサルティング"
 UI["zh"]["h1"] = "把医疗器械法规合规设计成[[一个完整体系]]"
 UI["ja"]["h1"] = "医療機器の規制対応を、[[ひとつの体系]]として設計します"
@@ -66,10 +69,22 @@ for _m in (i18n_zh, i18n_ja):
     PRIVACY[L] = _m.PRIVACY
     for k in REGIONS: REGIONS[k][L] = _m.REGIONS[k]
     for n in NEWS: n[L] = _m.NEWS[n["slug"]]
+for _m in NEWLANG:
+    L = _m.LANG
+    for k in MAP_NODES: MAP_NODES[k][1][L] = _m.MAP[k]
+    for sv in SERVICES:
+        sv[L] = _m.SERVICES[sv["slug"]]
+    PRIVACY[L] = _m.PRIVACY
+    for k in REGIONS: REGIONS[k][L] = _m.REGIONS[k]
+    for n in NEWS: n[L] = n["en"]
 STD_EN = {"KGMP(의료기기 제조 및 품질관리 기준)": "KGMP (Korean GMP for medical devices)", "MFDS 기술문서 심사": "MFDS technical file review", "임상평가(CEP·CER)": "Clinical evaluation (CEP, CER)",
           "FDA Human Factors 지침": "FDA human factors guidance", "MFDS 사용적합성 가이드라인": "MFDS usability guideline", "FDA Premarket Cybersecurity 지침": "FDA premarket cybersecurity guidance", "MFDS 사이버보안 가이드라인": "MFDS cybersecurity guideline"}
+_GSPR = {"en": "GSPR checklist", "zh": "GSPR 检查清单", "ja": "GSPRチェックリスト", "es": "Lista de verificación GSPR", "pt": "Lista de verificação GSPR",
+         "ru": "Контрольный перечень GSPR", "fr": "Liste de contrôle GSPR", "de": "GSPR-Checkliste"}
+STD_EN["GSPR 체크리스트"] = _GSPR["en"]; i18n_zh.STD["GSPR 체크리스트"] = _GSPR["zh"]; i18n_ja.STD["GSPR 체크리스트"] = _GSPR["ja"]
+for _m in NEWLANG: _m.STD["GSPR 체크리스트"] = _GSPR[_m.LANG]
 STD_EN.update(STD_EXTRA["en"]); i18n_zh.STD.update(STD_EXTRA["zh"]); i18n_ja.STD.update(STD_EXTRA["ja"])
-STDMAP = {"en": STD_EN, "zh": i18n_zh.STD, "ja": i18n_ja.STD}
+STDMAP = {"en": STD_EN, "zh": i18n_zh.STD, "ja": i18n_ja.STD, **{_m.LANG: _m.STD for _m in NEWLANG}}
 def std_for(sv, lang):
     return [STDMAP.get(lang, {}).get(x, x) for x in sv["std"]]
 
@@ -149,7 +164,7 @@ def footer(c):
 <p class="copy">© 2026 mybiosys</p>
 </div></footer>'''
 
-OG_LOCALE = {"ko": "ko_KR", "en": "en_US", "zh-CN": "zh_CN", "ja": "ja_JP"}
+OG_LOCALE = {"ko": "ko_KR", "en": "en_US", "zh-CN": "zh_CN", "ja": "ja_JP", "es": "es_ES", "pt": "pt_PT", "ru": "ru_RU", "fr": "fr_FR", "de": "de_DE"}
 SERIF = {'ko': 'Noto+Serif+KR', 'en': 'Noto+Serif+KR', 'zh': 'Noto+Serif+SC', 'ja': 'Noto+Serif+JP'}
 def page(c, title, desc, body, schema=None):
     t = c.t
@@ -322,7 +337,7 @@ def home(lang):
 <p class="status" role="status" aria-live="polite"></p>
 </form></div></section>'''
     schema = {"@context": "https://schema.org", "@type": "ProfessionalService", "@id": f"https://{DOMAIN}/#org", "name": "mybiosys", "url": f"https://{DOMAIN}/", "description": t["home_desc"],
-              "email": "contact@mybiosys.com", "sameAs": ["https://www.linkedin.com/in/minyong-choi-78040369/"], "inLanguage": t["html_lang"], "availableLanguage": ["ko", "en", "zh", "ja"],
+              "email": "contact@mybiosys.com", "sameAs": ["https://www.linkedin.com/in/minyong-choi-78040369/"], "inLanguage": t["html_lang"], "availableLanguage": LANGS,
               "serviceType": [x[lang]["name"] for x in SERVICES],
               "hasOfferCatalog": {"@type": "OfferCatalog", "name": "mybiosys",
                                   "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": x[lang]["name"], "url": f"https://{DOMAIN}/" + out_path(lang, f"services/{x['slug']}.html")}} for x in SERVICES]}}
@@ -403,10 +418,15 @@ def notfound():
     c = Ctx("ko", "404.html"); t = UI["ko"]; e = UI["en"]
     body = f'''<div class="wrap"><div class="page-head" style="padding-bottom:96px"><h1>{t["notfound_h"]}</h1><p class="lead">{t["notfound_p"]}</p>
 <p style="margin-top:24px"><a class="btn" href="/">{t["notfound_a"]}</a></p>
-<p class="muted" style="margin-top:32px">{e["notfound_h"]}. <a href="/en/">English</a> · <a href="/zh/">中文</a> · <a href="/ja/">日本語</a></p></div></div>'''
+<p class="muted" style="margin-top:32px">{e["notfound_h"]}. <a href="/en/">English</a> · <a href="/zh/">中文</a> · <a href="/ja/">日本語</a> · <a href="/es/">Español</a> · <a href="/pt/">Português</a> · <a href="/ru/">Русский</a> · <a href="/fr/">Français</a> · <a href="/de/">Deutsch</a></p></div></div>'''
     page(c, t["notfound_h"] + " | mybiosys", t["notfound_p"], body)
     p = os.path.join(OUT, "404.html")
     s = open(p, encoding="utf-8").read()
+    s = re.sub(r'<link rel="alternate" hreflang="[^"]*" href="[^"]*">\n?', "", s)
+    s = re.sub(r'<link rel="canonical" href="[^"]*">\n?', "", s)
+    s = s.replace('<meta name="robots"', '<meta name="robots"')
+    s = s.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n<meta name="robots" content="noindex">', 1)
+    s = re.sub(r'href="(?:\.\./)?(en|zh|ja|es|pt|ru|fr|de)/404\.html"', r'href="/\1/"', s)
     for a in ["css/style.css", "js/main.js", "favicon.svg"]:
         s = s.replace('"' + a + '"', '"/' + a + '"')
     s = re.sub(r'href="(index\.html)([^"]*)"', r'href="/\1\2"', s)
