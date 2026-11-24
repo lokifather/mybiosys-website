@@ -24,7 +24,7 @@ UI = {
  ],
  "ins_h": "Regulatorische Neuigkeiten", "ins_p": "Kurze Meldungen zu Vorschriften, Leitlinien und Normen nach Ländern.", "ins_all": "Alle regulatorischen Neuigkeiten",
  "ins_page_title": "Regulatorische Neuigkeiten | mybiosys", "ins_page_desc": "Änderungen der Medizinprodukteregulierung, Veröffentlichungen von Leitlinien und Normenaktualisierungen nach Ländern.",
- "news_note": "Die Zusammenfassungen stützen sich ausschließlich auf offizielle Veröffentlichungen von Behörden, öffentlichen Stellen und Normungsorganisationen. Sie dienen der Orientierung und sind keine Rechtsberatung. Prüfen Sie die Originaldokumente, bevor Sie sich darauf verlassen. Die Nachrichtentexte werden auf Englisch angezeigt.", "news_updated": "Zuletzt aktualisiert", "src": "Quelle", "all": "Alle",
+ "news_note": "Die Zusammenfassungen stützen sich ausschließlich auf offizielle Veröffentlichungen von Behörden, öffentlichen Stellen und Normungsorganisationen. Sie dienen der Orientierung und sind keine Rechtsberatung. Prüfen Sie die Originaldokumente, bevor Sie sich darauf verlassen.", "news_updated": "Zuletzt aktualisiert", "src": "Quelle", "all": "Alle",
  "con_h": "Kontakt", "con_p": "Nennen Sie uns Ihr Produkt, die Zielmärkte und den Zeitrahmen. Wir antworten per E-Mail, sobald wir Ihre Anfrage geprüft haben.",
  "f_name": "Name", "f_company": "Unternehmen", "f_email": "E-Mail", "f_topic": "Thema", "f_msg": "Nachricht",
  "f_other": "Sonstiges / nicht sicher", "f_submit": "Nachricht senden",

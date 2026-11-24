@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os, json, posixpath, html, re
+import importlib, os, json, posixpath, html, re
 from content import *
 from news import *
 
@@ -46,6 +46,7 @@ UI["zh"]["hero_tag"] = "医疗器械法规咨询"; UI["ja"]["hero_tag"] = "医�
 UI["zh"]["h1"] = "把医疗器械法规合规设计成[[一个完整体系]]"
 UI["ja"]["h1"] = "医療機器の規制対応を、[[ひとつの体系]]として設計します"
 # --- 자동 갱신용 뉴스 피드 (news_feed.json): 공식 출처 사실만 담는다 ---
+_FEED_LANG = {}
 _FEED = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news_feed.json")
 if os.path.exists(_FEED):
     _SVC = {s["slug"] for s in SERVICES}
@@ -55,6 +56,8 @@ if os.path.exists(_FEED):
         _it["svc"] = _it.get("svc") if _it.get("svc") in _SVC else "qms"
         _it["src"] = [tuple(s) for s in _it["src"]]
         _ko, _en = _it["ko"], _it["en"]
+        for _l in ("es", "pt", "ru", "fr", "de"):
+            if _it.get(_l): _FEED_LANG[(_it["slug"], _l)] = _it[_l]
         i18n_zh.NEWS[_it["slug"]] = _it.get("zh") or _en
         i18n_ja.NEWS[_it["slug"]] = _it.get("ja") or _en
         NEWS.append({k: _it[k] for k in ("slug", "date", "region", "svc", "ko", "en", "src")})
@@ -76,7 +79,12 @@ for _m in NEWLANG:
         sv[L] = _m.SERVICES[sv["slug"]]
     PRIVACY[L] = _m.PRIVACY
     for k in REGIONS: REGIONS[k][L] = _m.REGIONS[k]
-    for n in NEWS: n[L] = n["en"]
+    try:
+        _nm = importlib.import_module("i18n_news_" + L)
+        _tr = _nm.NEWS
+    except ImportError:
+        _tr = {}
+    for n in NEWS: n[L] = _tr.get(n["slug"]) or _FEED_LANG.get((n["slug"], L)) or n["en"]
 STD_EN = {"KGMP(의료기기 제조 및 품질관리 기준)": "KGMP (Korean GMP for medical devices)", "MFDS 기술문서 심사": "MFDS technical file review", "임상평가(CEP·CER)": "Clinical evaluation (CEP, CER)",
           "FDA Human Factors 지침": "FDA human factors guidance", "MFDS 사용적합성 가이드라인": "MFDS usability guideline", "FDA Premarket Cybersecurity 지침": "FDA premarket cybersecurity guidance", "MFDS 사이버보안 가이드라인": "MFDS cybersecurity guideline"}
 _GSPR = {"en": "GSPR checklist", "zh": "GSPR 检查清单", "ja": "GSPRチェックリスト", "es": "Lista de verificación GSPR", "pt": "Lista de verificação GSPR",

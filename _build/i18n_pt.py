@@ -24,7 +24,7 @@ UI = {
  ],
  "ins_h": "Novidades regulamentares", "ins_p": "Breves atualizações sobre regulamentos, orientações e normas por país.", "ins_all": "Todas as novidades regulamentares",
  "ins_page_title": "Novidades regulamentares | mybiosys", "ins_page_desc": "Alterações à regulamentação de dispositivos médicos, publicação de orientações e atualizações de normas por país.",
- "news_note": "Os resumos baseiam-se apenas em comunicados oficiais de autoridades, organismos públicos e organizações de normalização. São informação de referência e não constituem aconselhamento jurídico. Consulte os documentos originais antes de se basear neles. Os textos das notícias são apresentados em inglês.", "news_updated": "Última atualização", "src": "Fonte", "all": "Todas",
+ "news_note": "Os resumos baseiam-se apenas em comunicados oficiais de autoridades, organismos públicos e organizações de normalização. São informação de referência e não constituem aconselhamento jurídico. Consulte os documentos originais antes de se basear neles.", "news_updated": "Última atualização", "src": "Fonte", "all": "Todas",
  "con_h": "Contacto", "con_p": "Diga-nos qual é o seu produto, os mercados de destino e o calendário. Responderemos por correio eletrónico depois de analisarmos o pedido.",
  "f_name": "Nome", "f_company": "Empresa", "f_email": "Correio eletrónico", "f_topic": "Assunto", "f_msg": "Mensagem",
  "f_other": "Outro / não tenho a certeza", "f_submit": "Enviar mensagem",
