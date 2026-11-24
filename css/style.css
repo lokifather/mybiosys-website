@@ -627,3 +627,5 @@ a:hover{color:var(--mintd)}
 .pcard .more{margin-top:auto;padding-top:8px;font-weight:700}
 .pcard .plogo{display:flex;align-items:center;height:96px;margin-bottom:8px}
 .pcard .plogo img{max-height:100%;max-width:100%;width:auto;height:auto}
+.pcard .plegal{font-size:.9rem;color:var(--muted);margin-top:-4px}
+.pcard .pmail{font-size:.95rem;font-weight:600}

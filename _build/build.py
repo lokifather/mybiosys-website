@@ -299,7 +299,7 @@ PARTNER = {
  "fr": ("Partenaires commerciaux", "Entreprises avec lesquelles nous collaborons en affaires réglementaires des dispositifs médicaux.", "Shanghai, Chine", "Filiale chinoise du groupe MEDWHEAT (fondée en 2014, district de Minhang, Shanghai). Spécialisée dans l'enregistrement international des dispositifs médicaux et la conduite d'activités de CRO clinique à l'étranger, avec une capacité d'enregistrement dans près de 20 pays. Riche expérience des implants d'origine animale et de l'intervention cardiovasculaire ; propose aux fabricants de dispositifs innovants et à haut risque l'enregistrement à l'étranger et des solutions fondées sur des données rétrospectives pour se dispenser d'étude clinique. Propose aussi des formations.", "Visiter le site web"),
  "de": ("Geschäftspartner", "Unternehmen, mit denen wir im Bereich Medizinprodukterecht zusammenarbeiten.", "Shanghai, China", "Chinesische Tochtergesellschaft der MEDWHEAT-Gruppe (gegründet 2014, Bezirk Minhang, Shanghai). Spezialisiert auf die internationale Registrierung von Medizinprodukten und den Betrieb von CRO-Leistungen für klinische Prüfungen im Ausland; Registrierungen in knapp 20 Ländern. Große Erfahrung mit Implantaten tierischen Ursprungs und kardiovaskulären Interventionsprodukten. Für Hersteller innovativer Hochrisikoprodukte bietet das Unternehmen Auslandsregistrierung und Lösungen auf Basis retrospektiver Daten zur Vermeidung klinischer Studien. Außerdem Schulungen.", "Website besuchen"),
 }
-PARTNERS = [("MedWheat", "https://www.medwheat.com/", "img/partner-medwheat.png", "MedWheat 麦祥", 485, 184)]
+PARTNERS = [("MedWheat", "https://www.medwheat.com/", "img/partner-medwheat.png", "MedWheat 麦祥", 485, 184, "麦祥医药科技（上海）有限公司", "info@medwheat.com")]
 
 def home(lang):
     c = Ctx(lang, "index.html"); t = c.t
@@ -312,7 +312,7 @@ def home(lang):
     nl = "".join(news_li(c, n, i) for i, n in enumerate(NEWS[:5]))
     opts = "".join(f'<option value="{s["slug"]}">{s[lang]["name"]}</option>' for s in SERVICES) + f'<option value="other">{t["f_other"]}</option>'
     ph, pi, ploc, pd, pv = PARTNER[lang]
-    pcards = "".join(f'<li><a class="pcard" href="{u}" target="_blank" rel="noopener"><span class="plogo"><img src="{c.asset(lg)}" alt="{alt}" width="{lw}" height="{lh}" loading="lazy"></span><span class="ploc">{ploc}</span><strong>{n}</strong><span class="pdesc">{pd}</span><span class="more">{pv}</span></a></li>' for n, u, lg, alt, lw, lh in PARTNERS)
+    pcards = "".join(f'<li><a class="pcard" href="{u}" target="_blank" rel="noopener"><span class="plogo"><img src="{c.asset(lg)}" alt="{alt}" width="{lw}" height="{lh}" loading="lazy"></span><span class="ploc">{ploc}</span><strong>{n}</strong><span class="plegal">{legal}</span><span class="pdesc">{pd}</span><span class="pmail">{mail}</span><span class="more">{pv}</span></a></li>' for n, u, lg, alt, lw, lh, legal, mail in PARTNERS)
     consent = t["f_consent"].replace("{priv}", c.link("privacy.html"))
     photo = ""
     for ext in ("webp", "jpg", "jpeg", "png"):
