@@ -172,6 +172,14 @@ def page(c, title, desc, body, schema=None):
 <meta property="og:site_name" content="mybiosys">
 <meta property="og:locale" content="{OG_LOCALE.get(t["html_lang"], "ko_KR")}">
 <meta property="og:url" content="{url}">
+<meta property="og:image" content="https://{DOMAIN}/img/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="mybiosys">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(title)}">
+<meta name="twitter:description" content="{esc(desc)}">
+<meta name="twitter:image" content="https://{DOMAIN}/img/og-image.png">
 <meta name="theme-color" content="#1D2640">
 <link rel="icon" href="{c.asset("favicon.svg")}" type="image/svg+xml">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>

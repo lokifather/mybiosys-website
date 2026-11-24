@@ -16,6 +16,12 @@ REGIONS = {
     "br": {"ko": "브라질", "en": "Brazil"},
     "me": {"ko": "중동", "en": "Middle East"},
     "sea": {"ko": "동남아", "en": "Southeast Asia"},
+    "ar": {"ko": "아르헨티나", "en": "Argentina"},
+    "il": {"ko": "이스라엘", "en": "Israel"},
+    "ke": {"ko": "케냐", "en": "Kenya"},
+    "mx": {"ko": "멕시코", "en": "Mexico"},
+    "za": {"ko": "남아공", "en": "South Africa"},
+    "tw": {"ko": "대만", "en": "Taiwan"},
 }
 
 NEWS = [
