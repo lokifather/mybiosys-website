@@ -44,7 +44,7 @@ UI = {
  "trace_p": "Organizamos uma só vez os riscos, os requisitos e os registos de verificação, para que todos os documentos assentem na mesma evidência. Os documentos mantêm-se coerentes à medida que aumentam, e os avaliadores conseguem rastrear a evidência com rapidez.",
  "principles": [("Um só sistema", "O sistema de gestão da qualidade, a documentação técnica, a gestão do risco, a usabilidade e a cibersegurança partilham os mesmos riscos e requisitos."),
                 ("Evidência rastreável", "Pode ver a que controlos de risco e registos de verificação conduz cada requisito."),
-                ("Consigo durante a avaliação", "Apoiamos as perguntas, os pedidos de esclarecimento e as constatações de auditoria de organismos notificados e autoridades.")],
+                ("Ao seu lado durante a avaliação", "Apoiamos as perguntas, os pedidos de esclarecimento e as constatações de auditoria de organismos notificados e autoridades.")],
  "learn": "Saber mais",
  "tile_h": "Não sabe qual o serviço adequado?", "tile_p": "Fale-nos do seu produto e dos mercados de destino e definiremos o âmbito em conjunto.", "tile_a": "Iniciar um projeto",
  "nd_points": "Pontos principais", "nd_sources": "Fontes oficiais", "nd_back": "Voltar às novidades regulamentares", "nd_check": "Convém verificar",
