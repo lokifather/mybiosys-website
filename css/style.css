@@ -629,3 +629,8 @@ a:hover{color:var(--mintd)}
 .pcard .plogo img{max-height:100%;max-width:100%;width:auto;height:auto}
 .pcard .plegal{font-size:.9rem;color:var(--muted);margin-top:-4px}
 .pcard .pmail{font-size:.95rem;font-weight:600}
+/* zh/ja hero heading: keep the same right offset as the other languages */
+:lang(zh) .hero h1,:lang(ja) .hero h1{margin-left:clamp(0px,24vw,360px);margin-right:0;text-align:left}
+@media(max-width:900px){:lang(zh) .hero h1,:lang(ja) .hero h1{margin-left:0}}
+:lang(ja) .hero h1,:lang(ja) .hero p.lead{word-break:auto-phrase;text-wrap:balance}
+:lang(zh) .hero h1{text-wrap:balance}
