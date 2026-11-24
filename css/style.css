@@ -165,12 +165,6 @@ p{margin:0 0 1em}
 .news-item p{margin:0;color:var(--muted);font-size:.97rem}
 .news-item .src{margin-top:8px;font-size:.88rem}
 .tag{display:inline-block;font-size:.8rem;font-weight:800;color:var(--navy);background:var(--peri);border-radius:999px;padding:1px 11px}
-.tag[data-r="kr"]{background:var(--lime)}
-.tag[data-r="eu"]{background:var(--peri)}
-.tag[data-r="us"]{background:var(--sun)}
-.tag[data-r="cn"]{background:var(--coral)}
-.tag[data-r="uk"]{background:#9FE3D0}
-.tag[data-r="intl"]{background:#E2E5EE}
 .note{font-size:.88rem;margin:20px 0 72px;max-width:44em}
 @media(max-width:600px){.news-item{grid-template-columns:1fr;gap:2px}}
 
@@ -246,7 +240,6 @@ form.contact{display:grid;gap:18px;background:#fff;color:var(--navy);border-radi
 .news-item h3 a{color:inherit;text-decoration:none}
 .news-item h3 a:hover{text-decoration:underline;text-underline-offset:4px}
 
-.tag[data-r="jp"]{background:#FFC9D6}.tag[data-r="au"]{background:#FFE08A}.tag[data-r="ca"]{background:#FFB3A7}.tag[data-r="br"]{background:#B8EFA0}.tag[data-r="me"]{background:#F6C99B}.tag[data-r="sea"]{background:#B9D7FF}
 
 /* ---- v2 theme: calm teal, white page, typographic hero ---- */
 body{background:#fff}
@@ -616,7 +609,6 @@ a:hover{color:var(--mintd)}
 .btn-ghost::after,.btn:hover::after{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 16' fill='none' stroke='%2316282F' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2 2l6 6-6 6'/%3E%3C/svg%3E")}
 .btn-ghost:hover::after{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 16' fill='none' stroke='%23ffffff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M2 2l6 6-6 6'/%3E%3C/svg%3E")}
 
-.tag[data-r="ar"]{background:#CFE8F7}.tag[data-r="il"]{background:#DDD6F3}.tag[data-r="ke"]{background:#F3D9B1}.tag[data-r="mx"]{background:#C9EBC3}.tag[data-r="za"]{background:#F6D3D3}.tag[data-r="tw"]{background:#D2E7E4}
 
 .partners{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,440px),1fr));gap:20px}
 .pcard{display:flex;flex-direction:column;gap:8px;height:100%;padding:24px;background:#fff;border:1px solid var(--rule);border-top:3px solid var(--navy);color:inherit;text-decoration:none}
@@ -634,28 +626,5 @@ a:hover{color:var(--mintd)}
 @media(max-width:900px){:lang(zh) .hero h1,:lang(ja) .hero h1{margin-left:0}}
 :lang(ja) .hero h1,:lang(ja) .hero p.lead{word-break:auto-phrase;text-wrap:balance}
 :lang(zh) .hero h1{text-wrap:balance}
-.tag[data-r="cn"]{background:#F6C3B0;color:var(--navy)}
-
-/* region tags: 18 distinct pastel colours */
-.tag[data-r="cn"]{background:#FFA29E;color:var(--navy)}
-.tag[data-r="jp"]{background:#FFCFC4;color:var(--navy)}
-.tag[data-r="il"]{background:#E8B181;color:var(--navy)}
-.tag[data-r="eu"]{background:#E3B44F;color:var(--navy)}
-.tag[data-r="ar"]{background:#F0E8AF;color:var(--navy)}
-.tag[data-r="sea"]{background:#B1C460;color:var(--navy)}
-.tag[data-r="tw"]{background:#CFF8A2;color:var(--navy)}
-.tag[data-r="uk"]{background:#E3A3F3;color:var(--navy)}
-.tag[data-r="kr"]{background:#97C5AC;color:var(--navy)}
-.tag[data-r="mx"]{background:#7CFFDD;color:var(--navy)}
-.tag[data-r="br"]{background:#B0F7F1;color:var(--navy)}
-.tag[data-r="au"]{background:#30DAE1;color:var(--navy)}
-.tag[data-r="us"]{background:#8AC6DA;color:var(--navy)}
-.tag[data-r="ke"]{background:#85BEFD;color:var(--navy)}
-.tag[data-r="me"]{background:#BCB6DB;color:var(--navy)}
-.tag[data-r="ca"]{background:#82D993;color:var(--navy)}
-.tag[data-r="za"]{background:#FCBFE0;color:var(--navy)}
-.tag[data-r="intl"]{background:#E2E5EE;color:var(--navy)}
-/* region tags with flags: neutral pill, colour comes from the flag */
-.tag[data-r]{display:inline-flex;align-items:center;gap:6px;background:#fff;color:var(--navy);border:1px solid var(--rule);border-radius:999px;padding:2px 11px 2px 8px}
-.tag .flag,.chip .flag{border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.12);flex:none}
-.chip{display:inline-flex;align-items:center;gap:6px}
+/* region tags: one uniform colour */
+.tag{background:#E6F8EF;color:var(--navy)}
