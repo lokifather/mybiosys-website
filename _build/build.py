@@ -299,7 +299,7 @@ PARTNER = {
  "fr": ("Partenaires commerciaux", "Entreprises avec lesquelles nous collaborons en affaires réglementaires des dispositifs médicaux.", "Shanghai, Chine", "Basée à Shanghai (Chine), elle propose du conseil réglementaire, l'autorisation et l'enregistrement des dispositifs médicaux, des services de CRO (organisation de recherche sous contrat) et des formations.", "Visiter le site web"),
  "de": ("Geschäftspartner", "Unternehmen, mit denen wir im Bereich Medizinprodukterecht zusammenarbeiten.", "Shanghai, China", "Mit Sitz in Shanghai (China); bietet Regulierungsberatung, Zulassung und Registrierung von Medizinprodukten, CRO-Leistungen (Auftragsforschungsinstitut) sowie Schulungen.", "Website besuchen"),
 }
-PARTNERS = [("MedWheat", "https://www.medwheat.com/")]
+PARTNERS = [("MedWheat", "https://www.medwheat.com/", "img/partner-medwheat.png", "MedWheat 麦祥", 485, 184)]
 
 def home(lang):
     c = Ctx(lang, "index.html"); t = c.t
@@ -312,7 +312,7 @@ def home(lang):
     nl = "".join(news_li(c, n, i) for i, n in enumerate(NEWS[:5]))
     opts = "".join(f'<option value="{s["slug"]}">{s[lang]["name"]}</option>' for s in SERVICES) + f'<option value="other">{t["f_other"]}</option>'
     ph, pi, ploc, pd, pv = PARTNER[lang]
-    pcards = "".join(f'<li><a class="pcard" href="{u}" target="_blank" rel="noopener"><span class="ploc">{ploc}</span><strong>{n}</strong><span class="pdesc">{pd}</span><span class="more">{pv}</span></a></li>' for n, u in PARTNERS)
+    pcards = "".join(f'<li><a class="pcard" href="{u}" target="_blank" rel="noopener"><span class="plogo"><img src="{c.asset(lg)}" alt="{alt}" width="{lw}" height="{lh}" loading="lazy"></span><span class="ploc">{ploc}</span><strong>{n}</strong><span class="pdesc">{pd}</span><span class="more">{pv}</span></a></li>' for n, u, lg, alt, lw, lh in PARTNERS)
     consent = t["f_consent"].replace("{priv}", c.link("privacy.html"))
     photo = ""
     for ext in ("webp", "jpg", "jpeg", "png"):
