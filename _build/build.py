@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-import importlib, os, json, posixpath, html, re
+import importlib
+import i18n_src, os, json, posixpath, html, re
 from content import *
 from news import *
 
@@ -402,7 +403,13 @@ def news_li(c, n, i):
 def news_detail(lang, n):
     c = Ctx(lang, f"news/{n['slug']}.html"); t = c.t; d = n[lang]
     pts = "".join(f"<li>{esc(x)}</li>" for x in d["points"])
-    srcs = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{esc(k if lang == "ko" else e)}</a></li>' for k, e, u in n["src"])
+    def _sn(x):
+        k, e, u = x[0], x[1], x[2]
+        if lang == "ko": return k
+        if lang == "en": return e
+        ex = x[3] if len(x) > 3 and isinstance(x[3], dict) else {}
+        return ex.get(lang) or i18n_src.SRC.get(e, {}).get(lang) or e
+    srcs = "".join(f'<li><a href="{x[2]}" target="_blank" rel="noopener">{esc(_sn(x))}</a></li>' for x in n["src"])
     check = f'<section><h2>{t["nd_check"]}</h2><p>{esc(d["check"])}</p></section>' if d.get("check") else ""
     rel = ""
     if n.get("svc"):
@@ -422,7 +429,7 @@ def news_detail(lang, n):
 <a class="btn lime" href="{ask}">{t["nd_ask"]}</a></div></aside></div></div>'''
     sch = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": d["title"][:110], "description": d["sum"][:150], "datePublished": n["date"],
            "inLanguage": t["html_lang"], "mainEntityOfPage": "https://" + DOMAIN + "/" + c.cur,
-           "publisher": {"@type": "Organization", "name": "mybiosys", "url": f"https://{DOMAIN}/"}, "citation": [u for _k, _e, u in n["src"]]}
+           "publisher": {"@type": "Organization", "name": "mybiosys", "url": f"https://{DOMAIN}/"}, "citation": [x[2] for x in n["src"]]}
     page(c, f'{d["title"]} | mybiosys', d["sum"][:150], body, sch)
 
 def news_page(lang):
