@@ -122,13 +122,13 @@ NEWS = [
   "ko": {
    "title": "식약처, 의료기기 사이버보안 허가심사 가이드라인 개정",
    "sum": "식품의약품안전처가 2026년 10월 30일 보도참고자료로 「의료기기 사이버보안 허가심사 가이드라인」을 개정했다고 밝혔습니다.",
-   "points": ["식약처가 10월 30일 보도참고자료(PDF·HWPX)를 게시했습니다.", "안내서 「의료기기의 사이버보안 허가·심사 가이드라인(민원인 안내서)」(등록번호 안내서-0995-06, 의료기기심사부, 발행일 2026년 10월 30일)의 개정 이력서에는 이번 개정의 주요 내용이 요구사항 국제조화(IA-04, IA-05), 명확화(SI-05, SI-07) 및 별첨 삭제로 기재되어 있습니다.", "바로 앞 개정본(안내서-0995-05, 2025년 1월 10일)의 주요 내용은 요구사항 시행시기 명확화로 기재되어 있습니다.", "2026년 1월 26일에는 의료기기·체외진단의료기기 허가·신고·심사 규정이 개정되어 사이버보안 심사자료 제출 근거가 정리됐습니다(별도 항목 참고)."],
+   "points": ["식약처가 10월 30일 보도참고자료를 게시했습니다.", "안내서 「의료기기의 사이버보안 허가·심사 가이드라인(민원인 안내서)」(등록번호 안내서-0995-06, 의료기기심사부, 발행일 2026년 10월 30일)의 개정 이력서에는 이번 개정의 주요 내용이 요구사항 국제조화(IA-04, IA-05), 명확화(SI-05, SI-07) 및 별첨 삭제로 기재되어 있습니다.", "바로 앞 개정본(안내서-0995-05, 2025년 1월 10일)의 주요 내용은 요구사항 시행시기 명확화로 기재되어 있습니다.", "2026년 1월 26일에는 의료기기·체외진단의료기기 허가·신고·심사 규정이 개정되어 사이버보안 심사자료 제출 근거가 정리됐습니다(별도 항목 참고)."],
    "check": "세부 내용은 안내서 원문에서 확인하세요.",
   },
   "en": {
    "title": "MFDS revises the cybersecurity review guideline for medical devices",
    "sum": "On 30 October 2026 the Ministry of Food and Drug Safety (MFDS) announced, in a press reference document, a revision of its guideline on cybersecurity review and approval of medical devices.",
-   "points": ["MFDS posted the press reference document (PDF and HWPX) on 30 October.", "The revision history of the guidance \"Guideline on Cybersecurity Review and Approval of Medical Devices (guidance for applicants)\" (registration number 안내서-0995-06, Medical Device Evaluation Department, issued 30 October 2026) records the main content of this revision as international harmonization of requirements (IA-04, IA-05), clarification (SI-05, SI-07) and deletion of an appendix.", "The previous revision (안내서-0995-05, 10 January 2025) records its main content as clarifying when the requirements take effect.", "On 26 January 2026 the medical device and IVD approval rules were amended, clarifying the basis for submitting cybersecurity review data (see the separate item)."],
+   "points": ["MFDS posted the press reference document on 30 October.", "The revision history of the guidance \"Guideline on Cybersecurity Review and Approval of Medical Devices (guidance for applicants)\" (registration number 안내서-0995-06, Medical Device Evaluation Department, issued 30 October 2026) records the main content of this revision as international harmonization of requirements (IA-04, IA-05), clarification (SI-05, SI-07) and deletion of an appendix.", "The previous revision (안내서-0995-05, 10 January 2025) records its main content as clarifying when the requirements take effect.", "On 26 January 2026 the medical device and IVD approval rules were amended, clarifying the basis for submitting cybersecurity review data (see the separate item)."],
    "check": "Check the guidance original for details.",
   },
   "src": [
