@@ -994,5 +994,410 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-ivd-emerging-pathogens-564",
+  "date": "2026-11-09",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, Section 564 선언 시 신종 병원체용 체외진단기기 검증 최종 가이던스 발간",
+   "sum": "FDA가 2026년 11월 「Section 564 선언 비상 시 신종 병원체용 일부 체외진단기기의 검증」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-2707입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 11월 9일입니다.",
+    "적용되는 공중보건 비상사태 선언 중 신종 병원체용 체외진단기기(IVD)를 검증하는 데 대한 FDA의 일반 권고를 담고 있습니다.",
+    "pre-EUA, EUA 신청, 또는 적용되는 집행재량 정책에 따라 제공되는 검사에 제출하는 검사 데이터와 정보를 다룹니다.",
+    "관련 템플릿이 함께 제공됩니다. 의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on validating IVDs for emerging pathogens during a Section 564 declared emergency",
+   "sum": "In November 2026 FDA posted the final guidance \"Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-2707. The issuing office is CDRH and the page shows a posting date of 9 November 2026.",
+    "It gives FDA's general recommendations for validating in vitro diagnostic devices (IVDs) for emerging pathogens during an applicable public health emergency declaration.",
+    "It covers test data and information submitted in a pre-EUA, in an EUA request, or for a test offered under an applicable enforcement discretion policy.",
+    "An associated template accompanies it. Comments can be submitted at any time online at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布第564条宣布紧急状态期间新发病原体体外诊断器械验证的最终指南",
+   "sum": "2026年11月,FDA发布了最终指南《第564条宣布紧急状态期间部分体外诊断器械对新发病原体的验证》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-2707。发布部门为CDRH,页面显示的发布日期为2026年11月9日。",
+    "文件给出了FDA在适用的公共卫生紧急状态宣布期间验证新发病原体体外诊断器械(IVD)的一般建议。",
+    "文件涉及在pre-EUA、EUA申请中提交的检测数据和信息,或依据适用的执法裁量政策提供的检测。",
+    "随附有相关模板。可随时在regulations.gov上针对该档案在线提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、Section 564宣言下の新興病原体向け体外診断用機器の検証に関する最終ガイダンスを発行",
+   "sum": "2026年11月、FDAは最終ガイダンス「Section 564宣言下の緊急事態における新興病原体向け一部の体外診断用機器の検証」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-2707です。発行部署はCDRHで、ページの掲載日は2026年11月9日です。",
+    "適用される公衆衛生上の緊急事態宣言の間に、新興病原体向けの体外診断用機器(IVD)を検証するためのFDAの一般的な推奨事項を示しています。",
+    "pre-EUA、EUA申請で提出する検査データと情報、又は適用される執行裁量方針に基づき提供される検査を扱っています。",
+    "関連テンプレートが付属します。意見はregulations.govの当該ドケットにいつでもオンラインで提出できます。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "La FDA emite la guía final sobre la validación de productos de diagnóstico in vitro para patógenos emergentes durante una emergencia declarada conforme a la Sección 564",
+   "sum": "En noviembre de 2026, la FDA publicó la guía final «Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency» (validación de determinados productos de diagnóstico in vitro para patógenos emergentes durante una emergencia declarada conforme a la Sección 564).",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-2707. La oficina emisora es el CDRH y la página muestra como fecha de publicación el 9 de noviembre de 2026.",
+    "Ofrece las recomendaciones generales de la FDA para validar productos de diagnóstico in vitro (IVD) para patógenos emergentes durante una declaración aplicable de emergencia de salud pública.",
+    "Abarca los datos e información de las pruebas presentados en un pre-EUA, en una solicitud de EUA o para una prueba ofrecida conforme a una política de discreción de aplicación.",
+    "Incluye una plantilla asociada. Se pueden enviar comentarios en cualquier momento en línea en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "A FDA emite a orientação final sobre a validação de dispositivos de diagnóstico in vitro para agentes patogénicos emergentes durante uma emergência declarada ao abrigo da Secção 564",
+   "sum": "Em novembro de 2026, a FDA publicou a orientação final «Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency» (validação de determinados dispositivos de diagnóstico in vitro para agentes patogénicos emergentes durante uma emergência declarada ao abrigo da Secção 564).",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-2707. O gabinete emissor é o CDRH e a página mostra como data de publicação 9 de novembro de 2026.",
+    "Apresenta as recomendações gerais da FDA para validar dispositivos de diagnóstico in vitro (IVD) para agentes patogénicos emergentes durante uma declaração aplicável de emergência de saúde pública.",
+    "Abrange os dados e informações de testes apresentados num pre-EUA, num pedido de EUA ou para um teste oferecido ao abrigo de uma política de discricionariedade de execução.",
+    "Inclui um modelo associado. Podem ser enviados comentários a qualquer momento em linha em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA выпустило окончательное руководство по валидации IVD для новых патогенов в период чрезвычайной ситуации, объявленной по разделу 564",
+   "sum": "В ноябре 2026 года FDA опубликовало окончательное руководство «Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency» (валидация некоторых изделий для диагностики in vitro для новых патогенов в период чрезвычайной ситуации, объявленной по разделу 564).",
+   "points": [
+    "Документ является окончательным руководством для отрасли и сотрудников FDA, номер досье — FDA-2024-D-2707. Выпускающее подразделение — CDRH, на странице указана дата публикации 9 ноября 2026 года.",
+    "В нём изложены общие рекомендации FDA по валидации изделий для диагностики in vitro (IVD) для новых патогенов в период действия соответствующего объявления о чрезвычайной ситуации в области общественного здравоохранения.",
+    "Рассматриваются данные и сведения о тестах, представляемые в pre-EUA, в запросе EUA или для теста, предлагаемого в рамках применимой политики правоприменительного усмотрения.",
+    "К документу прилагается шаблон. Комментарии можно подавать в любое время онлайн на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "La FDA publie la ligne directrice finale sur la validation des dispositifs de diagnostic in vitro pour les agents pathogènes émergents lors d'une urgence déclarée au titre de la section 564",
+   "sum": "En novembre 2026, la FDA a publié la ligne directrice finale « Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency » (validation de certains dispositifs de diagnostic in vitro pour les agents pathogènes émergents lors d'une urgence déclarée au titre de la section 564).",
+   "points": [
+    "Le document est une ligne directrice finale destinée à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-2707. Le bureau émetteur est le CDRH et la page indique comme date de publication le 9 novembre 2026.",
+    "Il énonce les recommandations générales de la FDA pour la validation des dispositifs de diagnostic in vitro (DIV) pour les agents pathogènes émergents pendant une déclaration applicable d'urgence de santé publique.",
+    "Il couvre les données et informations de test soumises dans un pre-EUA, dans une demande d'EUA ou pour un test proposé en vertu d'une politique de discrétion en matière d'application.",
+    "Un modèle associé l'accompagne. Des commentaires peuvent être soumis à tout moment en ligne sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA veröffentlicht endgültigen Leitfaden zur Validierung von In-vitro-Diagnostika für neu auftretende Erreger während einer nach Section 564 erklärten Notlage",
+   "sum": "Im November 2026 hat die FDA den endgültigen Leitfaden „Validation of Certain In Vitro Diagnostic Devices for Emerging Pathogens During a Section 564 Declared Emergency“ (Validierung bestimmter In-vitro-Diagnostika für neu auftretende Erreger während einer nach Section 564 erklärten Notlage) veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-2707. Herausgebende Stelle ist das CDRH; die Seite nennt als Veröffentlichungsdatum den 9. November 2026.",
+    "Es enthält die allgemeinen Empfehlungen der FDA zur Validierung von In-vitro-Diagnostika (IVD) für neu auftretende Erreger während einer geltenden Erklärung eines Gesundheitsnotstands.",
+    "Es behandelt Testdaten und Informationen, die in einem Pre-EUA, in einem EUA-Antrag oder für einen unter einer geltenden Durchsetzungsermessens-Politik angebotenen Test eingereicht werden.",
+    "Eine zugehörige Vorlage liegt bei. Kommentare können jederzeit online auf regulations.gov zu diesem Verfahren eingereicht werden."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/validation-certain-in-vitro-diagnostic-devices-emerging-pathogens-during-section-564-declared-emergency",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-22883",
+    "Federal Register notice 2026-22883",
+    "https://www.federalregister.gov/d/2026-22883",
+    {
+     "zh": "联邦公报公告 2026-22883",
+     "ja": "連邦官報告示 2026-22883",
+     "es": "Aviso del Registro Federal 2026-22883",
+     "pt": "Aviso do Federal Register 2026-22883",
+     "ru": "Уведомление в Federal Register 2026-22883",
+     "fr": "Avis du Federal Register 2026-22883",
+     "de": "Bekanntmachung im Federal Register 2026-22883"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-drug-delivery-performance-draft",
+  "date": "2026-10-29",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의약품·생물학적제제 전달 기기의 필수 약물전달 성능 특성 가이던스 초안 발간",
+   "sum": "FDA가 2026년 10월 「의약품 및 생물학적제제를 전달하도록 의도된 기기의 필수 약물전달 성능 특성」 가이던스 초안을 게시했고, 의견을 2027년 1월 28일까지 받습니다.",
+   "points": [
+    "문서는 산업계용 가이던스 초안(2026년 10월)이며, 도켓 번호는 FDA-2024-D-2560입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 의견 수렴용으로만 배포된다고 적혀 있고, 게시일은 2026년 10월 29일입니다. 의견은 2027년 1월 28일까지 regulations.gov의 해당 도켓에 제출할 수 있습니다.",
+    "생물학적제제를 포함한 사람용 의약품을 전달하는 기기와 기기 구성 부분을 가진 복합제품에 대해 FDA가 기대하는 약물전달 성능 정보를 다룹니다.",
+    "임상시험용, 시판용, 시판 후 변경 신청에 제출하도록 FDA가 권고하는 정보와 데이터를 제시합니다.",
+    "적힌 목표는 약물전달 성능 정보를 더 일관되게 하고, 단독 기기와 복합제품의 개발·심사를 원활하게 하며, 약물전달 기기가 의도대로 작동하도록 돕는 것입니다. 발행 부서로 위원장실 산하 복합제품실, CBER, CDRH, CDER가 표시되어 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on essential drug delivery performance characteristics of devices delivering drugs and biological products",
+   "sum": "In October 2026 FDA posted draft guidance \"Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products\" and is taking comments until 28 January 2027.",
+   "points": [
+    "The document is draft guidance for industry (October 2026) under docket number FDA-2024-D-2560. The page states it is not for implementation, contains non-binding recommendations and is distributed for comment purposes only; its posting date is 29 October 2026. Comments can be submitted at regulations.gov under that docket until 28 January 2027.",
+    "It covers the drug delivery performance information FDA expects for devices, and for combination products with device constituent parts, that deliver a human drug, including biological products.",
+    "It sets out the information and data FDA recommends submitting in investigational, marketing and post-market change applications.",
+    "The stated goals are to make drug delivery performance information more consistent, to help stand-alone devices and combination products be developed and reviewed more smoothly, and to help drug-delivery devices perform as intended. The page lists the Office of Combination Products (Office of the Commissioner), CBER, CDRH and CDER as issuing offices."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布关于递送药物和生物制品器械的必要药物递送性能特征的指南草案",
+   "sum": "2026年10月,FDA发布了指南草案《拟用于递送药物和生物制品的器械的必要药物递送性能特征》,并接受意见至2027年1月28日。",
+   "points": [
+    "该文件为面向行业的指南草案(2026年10月),档案编号为FDA-2024-D-2560。页面注明其不用于实施、包含不具约束力的建议且仅为征求意见而分发,发布日期为2026年10月29日。可在2027年1月28日前在regulations.gov上针对该档案提交意见。",
+    "文件涉及FDA对递送人用药物(包括生物制品)的器械以及含有器械组成部分的组合产品所期望的药物递送性能信息。",
+    "文件列出了FDA建议在研究性申请、上市申请和上市后变更申请中提交的信息和数据。",
+    "所述目标是使药物递送性能信息更加一致,帮助独立器械和组合产品更顺畅地开发和审评,并帮助药物递送器械按预期发挥作用。页面列出的发布部门为专员办公室下属组合产品办公室、CBER、CDRH和CDER。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医薬品・生物製剤を投与する機器の必須の薬剤送達性能特性に関するガイダンス案を発行",
+   "sum": "2026年10月、FDAはガイダンス案「医薬品及び生物学的製剤を送達することを意図した機器の必須の薬剤送達性能特性」を掲載し、2027年1月28日まで意見を受け付けます。",
+   "points": [
+    "文書は産業界向けのガイダンス案(2026年10月)で、ドケット番号はFDA-2024-D-2560です。ページには、実施対象ではなく拘束力のない推奨事項を含み、意見募集のみを目的として配布されると記載され、掲載日は2026年10月29日です。意見は2027年1月28日までregulations.govの当該ドケットに提出できます。",
+    "生物学的製剤を含むヒト用医薬品を送達する機器、及び機器構成部分を持つコンビネーション製品についてFDAが期待する薬剤送達性能情報を扱っています。",
+    "治験、市販、市販後変更の申請で提出するようFDAが推奨する情報とデータを示しています。",
+    "記載された目的は、薬剤送達性能情報をより一貫したものにし、単体機器とコンビネーション製品の開発と審査を円滑にし、薬剤送達機器が意図どおりに機能することを助けることです。発行部署として、長官室の複合製品室、CBER、CDRH、CDERが表示されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "La FDA emite el borrador de guía sobre las características esenciales de rendimiento de administración de fármacos de los productos que administran fármacos y productos biológicos",
+   "sum": "En octubre de 2026, la FDA publicó el borrador de guía «Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products» (características esenciales de rendimiento de administración de fármacos de los productos destinados a administrar fármacos y productos biológicos) y recibe comentarios hasta el 28 de enero de 2027.",
+   "points": [
+    "El documento es un borrador de guía para la industria (octubre de 2026) con el número de expediente FDA-2024-D-2560. La página indica que no es para su aplicación, contiene recomendaciones no vinculantes y se distribuye solo para comentarios; su fecha de publicación es el 29 de octubre de 2026. Se pueden enviar comentarios en regulations.gov con ese expediente hasta el 28 de enero de 2027.",
+    "Abarca la información de rendimiento de administración de fármacos que la FDA espera para los productos, y para los productos combinados con partes constituyentes de producto sanitario, que administran un fármaco humano, incluidos los productos biológicos.",
+    "Establece la información y los datos que la FDA recomienda presentar en solicitudes de investigación, de comercialización y de cambios posteriores a la comercialización.",
+    "Los objetivos declarados son hacer más coherente la información de rendimiento de administración de fármacos, facilitar el desarrollo y la revisión de productos independientes y productos combinados, y ayudar a que los productos de administración de fármacos funcionen según lo previsto. La página indica como oficinas emisoras la Oficina de Productos Combinados (Oficina del Comisionado), el CBER, el CDRH y el CDER."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "A FDA emite o projeto de orientação sobre as características essenciais de desempenho de administração de fármacos dos dispositivos que administram fármacos e produtos biológicos",
+   "sum": "Em outubro de 2026, a FDA publicou o projeto de orientação «Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products» (características essenciais de desempenho de administração de fármacos dos dispositivos destinados a administrar fármacos e produtos biológicos) e recebe comentários até 28 de janeiro de 2027.",
+   "points": [
+    "O documento é um projeto de orientação para a indústria (outubro de 2026), com o número de processo FDA-2024-D-2560. A página indica que não se destina a aplicação, contém recomendações não vinculativas e é distribuído apenas para comentários; a sua data de publicação é 29 de outubro de 2026. Podem ser enviados comentários em regulations.gov para esse processo até 28 de janeiro de 2027.",
+    "Abrange a informação de desempenho de administração de fármacos que a FDA espera para os dispositivos, e para os produtos combinados com partes constituintes de dispositivo, que administram um fármaco humano, incluindo produtos biológicos.",
+    "Estabelece a informação e os dados que a FDA recomenda apresentar em pedidos de investigação, de comercialização e de alterações pós-comercialização.",
+    "Os objetivos declarados são tornar mais coerente a informação de desempenho de administração de fármacos, facilitar o desenvolvimento e a avaliação de dispositivos autónomos e produtos combinados, e ajudar os dispositivos de administração de fármacos a funcionar como previsto. A página indica como gabinetes emissores o Gabinete de Produtos Combinados (Gabinete do Comissário), o CBER, o CDRH e o CDER."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA выпустило проект руководства по основным характеристикам доставки лекарственных средств изделиями для введения лекарств и биологических продуктов",
+   "sum": "В октябре 2026 года FDA опубликовало проект руководства «Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products» (основные характеристики доставки лекарственных средств изделиями, предназначенными для введения лекарств и биологических продуктов) и принимает комментарии до 28 января 2027 года.",
+   "points": [
+    "Документ является проектом руководства для отрасли (октябрь 2026 года), номер досье — FDA-2024-D-2560. На странице указано, что он не предназначен для применения, содержит необязательные рекомендации и распространяется только для комментариев; дата публикации — 29 октября 2026 года. Комментарии можно подавать на regulations.gov по этому досье до 28 января 2027 года.",
+    "Рассматривается информация о характеристиках доставки лекарственных средств, которую FDA ожидает для изделий и для комбинированных продуктов с компонентами-изделиями, вводящих лекарственное средство для человека, включая биологические продукты.",
+    "Определяются сведения и данные, которые FDA рекомендует представлять в заявках на исследования, на вывод на рынок и на изменения после вывода на рынок.",
+    "Заявленные цели — сделать информацию о характеристиках доставки лекарств более согласованной, облегчить разработку и рассмотрение самостоятельных изделий и комбинированных продуктов и помочь изделиям для доставки лекарств работать как задумано. В качестве выпускающих подразделений указаны Управление комбинированных продуктов (Офис комиссара), CBER, CDRH и CDER."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "La FDA publie le projet de ligne directrice sur les caractéristiques essentielles de performance d'administration des médicaments des dispositifs destinés à administrer des médicaments et produits biologiques",
+   "sum": "En octobre 2026, la FDA a publié le projet de ligne directrice « Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products » (caractéristiques essentielles de performance d'administration des médicaments des dispositifs destinés à administrer des médicaments et des produits biologiques) et reçoit des commentaires jusqu'au 28 janvier 2027.",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie (octobre 2026), sous le numéro de dossier FDA-2024-D-2560. La page indique qu'il n'est pas destiné à la mise en œuvre, contient des recommandations non contraignantes et est distribué uniquement pour commentaires ; sa date de publication est le 29 octobre 2026. Des commentaires peuvent être soumis sur regulations.gov pour ce dossier jusqu'au 28 janvier 2027.",
+    "Il couvre les informations de performance d'administration des médicaments que la FDA attend pour les dispositifs, et pour les produits combinés comportant des parties constitutives de dispositif, qui administrent un médicament humain, y compris des produits biologiques.",
+    "Il énonce les informations et données que la FDA recommande de soumettre dans les demandes de recherche, de mise sur le marché et de modification après commercialisation.",
+    "Les objectifs déclarés sont de rendre plus cohérentes les informations de performance d'administration des médicaments, de faciliter le développement et l'examen des dispositifs autonomes et des produits combinés, et d'aider les dispositifs d'administration de médicaments à fonctionner comme prévu. La page indique comme bureaux émetteurs le Bureau des produits combinés (Bureau du commissaire), le CBER, le CDRH et le CDER."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA veröffentlicht Leitfadenentwurf zu wesentlichen Leistungsmerkmalen der Arzneimittelabgabe von Produkten zur Abgabe von Arzneimitteln und biologischen Produkten",
+   "sum": "Im Oktober 2026 hat die FDA den Leitfadenentwurf „Essential Drug Delivery Performance Characteristics for Devices Intended to Deliver Drugs and Biological Products“ (wesentliche Leistungsmerkmale der Arzneimittelabgabe von Produkten zur Abgabe von Arzneimitteln und biologischen Produkten) veröffentlicht und nimmt Kommentare bis zum 28. Januar 2027 entgegen.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie (Oktober 2026) mit der Aktenzeichen-Nummer FDA-2024-D-2560. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist, unverbindliche Empfehlungen enthält und nur zur Kommentierung verteilt wird; Veröffentlichungsdatum ist der 29. Oktober 2026. Kommentare können auf regulations.gov zu diesem Verfahren bis zum 28. Januar 2027 eingereicht werden.",
+    "Er behandelt die Informationen zur Arzneimittelabgabeleistung, die die FDA für Produkte und für Kombinationsprodukte mit Produktbestandteilen erwartet, die ein Humanarzneimittel einschließlich biologischer Produkte abgeben.",
+    "Er legt die Informationen und Daten dar, die die FDA für Anträge auf Prüfung, Markteinführung und Änderungen nach der Markteinführung empfiehlt.",
+    "Die angegebenen Ziele sind, die Informationen zur Arzneimittelabgabeleistung einheitlicher zu machen, die Entwicklung und Prüfung eigenständiger Produkte und Kombinationsprodukte zu erleichtern und Arzneimittelabgabeprodukten zu helfen, wie vorgesehen zu funktionieren. Die Seite nennt als herausgebende Stellen das Office of Combination Products (Office of the Commissioner), CBER, CDRH und CDER."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/essential-drug-delivery-performance-characteristics-devices-intended-deliver-drugs-and-biological",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 공개열람 고시 2026-22203",
+    "Federal Register public inspection notice 2026-22203",
+    "https://www.federalregister.gov/public-inspection/2026-22203/guidance-essential-drug-delivery-performance-characteristics-for-devices-intended-to-deliver-drugs",
+    {
+     "zh": "联邦公报公开查阅公告 2026-22203",
+     "ja": "連邦官報 公開閲覧告示 2026-22203",
+     "es": "Aviso de inspección pública del Federal Register 2026-22203",
+     "pt": "Aviso de consulta pública do Federal Register 2026-22203",
+     "ru": "Уведомление Federal Register для публичного ознакомления 2026-22203",
+     "fr": "Avis de consultation publique du Federal Register 2026-22203",
+     "de": "Bekanntmachung zur öffentlichen Einsichtnahme im Federal Register 2026-22203"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-ide-electronic-template-draft",
+  "date": "2026-10-27",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 임상시험용 기기 면제(IDE) 신청서 전자 제출 템플릿 가이던스 초안 발간",
+   "sum": "FDA가 2026년 10월 「임상시험용 기기 면제(IDE) 신청서 전자 제출 템플릿」 가이던스 초안을 게시했고, 의견을 2026년 12월 28일까지 받습니다.",
+   "points": [
+    "문서는 스폰서와 FDA 직원용 가이던스 초안(2026년 10월)이며, 도켓 번호는 FDA-2026-D-11188입니다. 발행 부서는 CDRH와 CBER이고, 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 의견 수렴용으로만 배포된다고 적혀 있습니다. 게시일은 2026년 10월 27일이며 의견은 2026년 12월 28일까지 regulations.gov의 해당 도켓에 제출할 수 있습니다.",
+    "CDRH와 CBER에 제출하는 IDE 신청서의 스폰서를 대상으로, 면제되지 않는 전자 IDE 제출에 쓸 수 있는 공개 자료와 내용을 안내합니다.",
+    "FDA의 전자 제출 템플릿으로 가는 한 단계로, 제출을 더 일관되게 하고 심사를 더 효율적으로 하기 위한 안내형 작성 도구로 설명됩니다.",
+    "최종 확정되면 추가 전자 제출 표준, 그 일정, 면제·유예 기준을 정하게 된다고 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on the electronic submission template for IDE applications",
+   "sum": "In October 2026 FDA posted draft guidance \"Electronic Submission Template for Investigational Device Exemption (IDE) Applications\" and is taking comments until 28 December 2026.",
+   "points": [
+    "The document is draft guidance for sponsors and FDA staff (October 2026) under docket number FDA-2026-D-11188. The issuing offices are CDRH and CBER, and the page states it is not for implementation, contains non-binding recommendations and is distributed for comment purposes only. Its posting date is 27 October 2026, and comments can be submitted at regulations.gov under that docket until 28 December 2026.",
+    "It is for sponsors of IDE applications sent to CDRH and CBER and points them to publicly available resources and content for electronic IDE submissions that are not otherwise exempted.",
+    "It is described as one step toward FDA's electronic submission templates, guided preparation tools meant to make submissions more consistent and reviews more efficient.",
+    "The page states that, once finalized, it would set further electronic submission standards, a timetable for them, and criteria for waivers and exemptions."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布研究用器械豁免(IDE)申请电子提交模板指南草案",
+   "sum": "2026年10月,FDA发布了指南草案《研究用器械豁免(IDE)申请的电子提交模板》,并接受意见至2026年12月28日。",
+   "points": [
+    "该文件为面向申办者和FDA工作人员的指南草案(2026年10月),档案编号为FDA-2026-D-11188。发布部门为CDRH和CBER,页面注明其不用于实施、包含不具约束力的建议且仅为征求意见而分发。发布日期为2026年10月27日,可在2026年12月28日前在regulations.gov上针对该档案提交意见。",
+    "文件面向向CDRH和CBER提交IDE申请的申办者,指引其了解用于未获豁免的电子IDE提交的公开资源和内容。",
+    "文件被描述为迈向FDA电子提交模板的一步,即旨在使提交更一致、审评更高效的引导式编制工具。",
+    "页面载明,定稿后将确定进一步的电子提交标准、其时间表以及豁免和免除标准。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、治験用機器適用除外(IDE)申請の電子提出テンプレートに関するガイダンス案を発行",
+   "sum": "2026年10月、FDAはガイダンス案「治験用機器適用除外(IDE)申請の電子提出テンプレート」を掲載し、2026年12月28日まで意見を受け付けます。",
+   "points": [
+    "文書はスポンサーとFDA職員向けのガイダンス案(2026年10月)で、ドケット番号はFDA-2026-D-11188です。発行部署はCDRHとCBERで、ページには、実施対象ではなく拘束力のない推奨事項を含み、意見募集のみを目的として配布されると記載されています。掲載日は2026年10月27日で、意見は2026年12月28日までregulations.govの当該ドケットに提出できます。",
+    "CDRHとCBERに提出するIDE申請のスポンサーを対象に、適用除外とならない電子IDE提出に使える公開資料と内容を案内しています。",
+    "FDAの電子提出テンプレートへの一歩であり、提出をより一貫したものにし審査をより効率的にするための誘導型の作成ツールと説明されています。",
+    "ページには、最終化されると、追加の電子提出標準、その時期、免除・適用除外の基準を定めると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "La FDA emite el borrador de guía sobre la plantilla de presentación electrónica de solicitudes IDE",
+   "sum": "En octubre de 2026, la FDA publicó el borrador de guía «Electronic Submission Template for Investigational Device Exemption (IDE) Applications» (plantilla de presentación electrónica para solicitudes de exención para productos en investigación, IDE) y recibe comentarios hasta el 28 de diciembre de 2026.",
+   "points": [
+    "El documento es un borrador de guía para promotores y personal de la FDA (octubre de 2026) con el número de expediente FDA-2026-D-11188. Las oficinas emisoras son el CDRH y el CBER, y la página indica que no es para su aplicación, contiene recomendaciones no vinculantes y se distribuye solo para comentarios. Su fecha de publicación es el 27 de octubre de 2026 y se pueden enviar comentarios en regulations.gov con ese expediente hasta el 28 de diciembre de 2026.",
+    "Está dirigido a los promotores de solicitudes IDE enviadas al CDRH y al CBER y los remite a los recursos y contenidos disponibles públicamente para las presentaciones electrónicas de IDE que no estén exentas.",
+    "Se describe como un paso hacia las plantillas de presentación electrónica de la FDA, herramientas de preparación guiada destinadas a hacer las presentaciones más coherentes y las revisiones más eficientes.",
+    "La página indica que, una vez finalizada, establecería nuevas normas de presentación electrónica, un calendario para ellas y criterios de dispensa y exención."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "A FDA emite o projeto de orientação sobre o modelo de submissão eletrónica de pedidos IDE",
+   "sum": "Em outubro de 2026, a FDA publicou o projeto de orientação «Electronic Submission Template for Investigational Device Exemption (IDE) Applications» (modelo de submissão eletrónica para pedidos de isenção para dispositivos experimentais, IDE) e recebe comentários até 28 de dezembro de 2026.",
+   "points": [
+    "O documento é um projeto de orientação para promotores e pessoal da FDA (outubro de 2026), com o número de processo FDA-2026-D-11188. Os gabinetes emissores são o CDRH e o CBER, e a página indica que não se destina a aplicação, contém recomendações não vinculativas e é distribuído apenas para comentários. A sua data de publicação é 27 de outubro de 2026 e podem ser enviados comentários em regulations.gov para esse processo até 28 de dezembro de 2026.",
+    "Destina-se aos promotores de pedidos IDE enviados ao CDRH e ao CBER e remete-os para os recursos e conteúdos publicamente disponíveis para as submissões eletrónicas de IDE que não estejam isentas.",
+    "É descrito como um passo para os modelos de submissão eletrónica da FDA, ferramentas de preparação guiada destinadas a tornar as submissões mais coerentes e as avaliações mais eficientes.",
+    "A página indica que, depois de finalizado, estabeleceria novas normas de submissão eletrónica, um calendário para as mesmas e critérios de dispensa e isenção."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA выпустило проект руководства по шаблону электронной подачи заявок IDE",
+   "sum": "В октябре 2026 года FDA опубликовало проект руководства «Electronic Submission Template for Investigational Device Exemption (IDE) Applications» (шаблон электронной подачи заявок на освобождение для исследуемых изделий, IDE) и принимает комментарии до 28 декабря 2026 года.",
+   "points": [
+    "Документ является проектом руководства для спонсоров и сотрудников FDA (октябрь 2026 года), номер досье — FDA-2026-D-11188. Выпускающие подразделения — CDRH и CBER; на странице указано, что документ не предназначен для применения, содержит необязательные рекомендации и распространяется только для комментариев. Дата публикации — 27 октября 2026 года; комментарии можно подавать на regulations.gov по этому досье до 28 декабря 2026 года.",
+    "Он адресован спонсорам заявок IDE, направляемых в CDRH и CBER, и указывает им общедоступные ресурсы и содержание для электронной подачи IDE, не подпадающей под иные исключения.",
+    "Он описан как один из шагов к шаблонам электронной подачи FDA — инструментам управляемой подготовки, призванным сделать заявки более единообразными, а рассмотрение — более эффективным.",
+    "На странице указано, что после утверждения он установит дополнительные стандарты электронной подачи, график их введения и критерии освобождений и изъятий."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "La FDA publie le projet de ligne directrice sur le modèle de soumission électronique des demandes IDE",
+   "sum": "En octobre 2026, la FDA a publié le projet de ligne directrice « Electronic Submission Template for Investigational Device Exemption (IDE) Applications » (modèle de soumission électronique pour les demandes d'exemption pour dispositifs expérimentaux, IDE) et reçoit des commentaires jusqu'au 28 décembre 2026.",
+   "points": [
+    "Le document est un projet de ligne directrice destiné aux promoteurs et au personnel de la FDA (octobre 2026), sous le numéro de dossier FDA-2026-D-11188. Les bureaux émetteurs sont le CDRH et le CBER, et la page indique qu'il n'est pas destiné à la mise en œuvre, contient des recommandations non contraignantes et est distribué uniquement pour commentaires. Sa date de publication est le 27 octobre 2026 et des commentaires peuvent être soumis sur regulations.gov pour ce dossier jusqu'au 28 décembre 2026.",
+    "Il s'adresse aux promoteurs de demandes IDE envoyées au CDRH et au CBER et les renvoie aux ressources et contenus publiquement disponibles pour les soumissions électroniques d'IDE qui ne sont pas exemptées par ailleurs.",
+    "Il est décrit comme une étape vers les modèles de soumission électronique de la FDA, des outils de préparation guidée destinés à rendre les soumissions plus cohérentes et les examens plus efficaces.",
+    "La page indique qu'une fois finalisé, il fixerait de nouvelles normes de soumission électronique, un calendrier pour celles-ci et des critères de dérogation et d'exemption."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA veröffentlicht Leitfadenentwurf zur elektronischen Einreichungsvorlage für IDE-Anträge",
+   "sum": "Im Oktober 2026 hat die FDA den Leitfadenentwurf „Electronic Submission Template for Investigational Device Exemption (IDE) Applications“ (elektronische Einreichungsvorlage für Anträge auf Ausnahmegenehmigung für Prüfprodukte, IDE) veröffentlicht und nimmt Kommentare bis zum 28. Dezember 2026 entgegen.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für Sponsoren und FDA-Mitarbeiter (Oktober 2026) mit der Aktenzeichen-Nummer FDA-2026-D-11188. Herausgebende Stellen sind CDRH und CBER, und die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist, unverbindliche Empfehlungen enthält und nur zur Kommentierung verteilt wird. Veröffentlichungsdatum ist der 27. Oktober 2026; Kommentare können auf regulations.gov zu diesem Verfahren bis zum 28. Dezember 2026 eingereicht werden.",
+    "Er richtet sich an Sponsoren von IDE-Anträgen, die an CDRH und CBER gesendet werden, und verweist sie auf öffentlich verfügbare Ressourcen und Inhalte für elektronische IDE-Einreichungen, die nicht anderweitig ausgenommen sind.",
+    "Er wird als ein Schritt hin zu den elektronischen Einreichungsvorlagen der FDA beschrieben, geführten Vorbereitungswerkzeugen, die Einreichungen einheitlicher und Prüfungen effizienter machen sollen.",
+    "Die Seite gibt an, dass er nach Fertigstellung weitere Standards für die elektronische Einreichung, einen Zeitplan dafür sowie Kriterien für Verzichte und Ausnahmen festlegen würde."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-investigational-device-exemption-ide-applications",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 공개열람 고시 2026-21953",
+    "Federal Register public inspection notice 2026-21953",
+    "https://www.federalregister.gov/public-inspection/2026-21953/guidance-electronic-submission-template-for-investigational-device-exemption-applications",
+    {
+     "zh": "联邦公报公开查阅公告 2026-21953",
+     "ja": "連邦官報 公開閲覧告示 2026-21953",
+     "es": "Aviso de inspección pública del Federal Register 2026-21953",
+     "pt": "Aviso de consulta pública do Federal Register 2026-21953",
+     "ru": "Уведомление Federal Register для публичного ознакомления 2026-21953",
+     "fr": "Avis de consultation publique du Federal Register 2026-21953",
+     "de": "Bekanntmachung zur öffentlichen Einsichtnahme im Federal Register 2026-21953"
+    }
+   ]
+  ]
  }
 ]
