@@ -119,5 +119,126 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "kr-standalone-sw-notification-guide",
+  "date": "2026-11-18",
+  "region": "kr",
+  "svc": "digital-medical-products",
+  "ko": {
+   "title": "의료기기안전정보원, 독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인 게시",
+   "sum": "의료기기안전정보원이 2026년 11월 18일 독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인을 가이드라인 게시판에 올렸습니다.",
+   "points": [
+    "문서명은 「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」입니다.",
+    "대상은 독립형 디지털의료기기소프트웨어(1등급 신고 제품)의 제조 및 수입업체입니다.",
+    "게시글에 적힌 발간 목적은 인허가 준비의 효율성을 높이는 것입니다.",
+    "게시글에는 PDF 첨부파일(약 8MB)이 있습니다."
+   ],
+   "check": "세부 내용은 첨부 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "NIDS posts guideline on preparing notification forms for manufacture (import) of standalone digital medical device software",
+   "sum": "On 18 November 2026 the National Institute of Medical Device Safety Information posted on its guideline board a guideline on preparing notification forms for the manufacture (import) of standalone digital medical device software.",
+   "points": [
+    "The document is titled \"Guideline on Preparing the Manufacture (Import) Notification Form for Standalone Digital Medical Device Software\" (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "It is addressed to manufacturers and importers of standalone digital medical device software (Class 1 notification products).",
+    "The post states that the guideline was issued to make licensing preparation more efficient.",
+    "The post carries a PDF attachment of about 8 MB."
+   ],
+   "check": "Check the attached original for details."
+  },
+  "zh": {
+   "title": "医疗器械安全信息院发布《独立型数字医疗器械软件生产(进口)申报表填写指南》",
+   "sum": "2026年11月18日,医疗器械安全信息院在指南公告栏发布了独立型数字医疗器械软件生产(进口)申报表填写指南。",
+   "points": [
+    "文件名为《独立型数字医疗器械软件生产(进口)申报表填写指南》(「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」)。",
+    "对象为独立型数字医疗器械软件(1类申报产品)的生产及进口企业。",
+    "帖子中载明的发行目的是提高许可准备的效率。",
+    "该帖附有约8MB的PDF附件。"
+   ],
+   "check": "详细内容请查阅附件原文。"
+  },
+  "ja": {
+   "title": "医療機器安全情報院、独立型デジタル医療機器ソフトウェアの製造(輸入)届出書作成ガイドラインを掲載",
+   "sum": "2026年11月18日、医療機器安全情報院は、独立型デジタル医療機器ソフトウェアの製造(輸入)届出書作成ガイドラインをガイドライン掲示板に掲載しました。",
+   "points": [
+    "文書名は「独立型デジタル医療機器ソフトウェア製造(輸入)届出書作成ガイドライン」(「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」)です。",
+    "対象は独立型デジタル医療機器ソフトウェア(クラス1届出製品)の製造業者及び輸入業者です。",
+    "投稿に記載された発行目的は、許認可準備の効率を高めることです。",
+    "投稿には約8MBのPDF添付ファイルがあります。"
+   ],
+   "check": "詳細は添付の原文をご確認ください。"
+  },
+  "es": {
+   "title": "El NIDS publica la directriz para cumplimentar el formulario de notificación de fabricación (importación) de software independiente de producto sanitario digital",
+   "sum": "El 18 de noviembre de 2026, el Instituto Nacional de Información sobre Seguridad de Productos Sanitarios (NIDS) publicó en su tablón de directrices una directriz para cumplimentar el formulario de notificación de fabricación (importación) de software independiente de producto sanitario digital.",
+   "points": [
+    "El documento se titula «Directriz para cumplimentar el formulario de notificación de fabricación (importación) de software independiente de producto sanitario digital» (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "Está dirigido a fabricantes e importadores de software independiente de producto sanitario digital (productos de clase 1 sujetos a notificación).",
+    "La publicación indica que la directriz se emitió para aumentar la eficiencia de la preparación de la autorización.",
+    "La publicación incluye un archivo adjunto en PDF de unos 8 MB."
+   ],
+   "check": "Consulte el original adjunto para los detalles."
+  },
+  "pt": {
+   "title": "O NIDS publica a orientação para o preenchimento do formulário de notificação de fabrico (importação) de software autónomo de dispositivo médico digital",
+   "sum": "Em 18 de novembro de 2026, o Instituto Nacional de Informação sobre Segurança de Dispositivos Médicos (NIDS) publicou no seu quadro de orientações uma orientação para o preenchimento do formulário de notificação de fabrico (importação) de software autónomo de dispositivo médico digital.",
+   "points": [
+    "O documento intitula-se «Orientação para o preenchimento do formulário de notificação de fabrico (importação) de software autónomo de dispositivo médico digital» (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "Destina-se a fabricantes e importadores de software autónomo de dispositivo médico digital (produtos de classe 1 sujeitos a notificação).",
+    "A publicação indica que a orientação foi emitida para aumentar a eficiência da preparação do licenciamento.",
+    "A publicação inclui um anexo em PDF de cerca de 8 MB."
+   ],
+   "check": "Consulte o original em anexo para os pormenores."
+  },
+  "ru": {
+   "title": "NIDS опубликовал руководство по заполнению уведомления о производстве (импорте) автономного программного обеспечения цифровых медицинских изделий",
+   "sum": "18 ноября 2026 года Национальный институт информации о безопасности медицинских изделий (NIDS) разместил на доске руководств руководство по заполнению уведомления о производстве (импорте) автономного программного обеспечения цифровых медицинских изделий.",
+   "points": [
+    "Документ называется «Руководство по заполнению уведомления о производстве (импорте) автономного программного обеспечения цифровых медицинских изделий» (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "Он адресован производителям и импортёрам автономного программного обеспечения цифровых медицинских изделий (изделия класса 1, подлежащие уведомлению).",
+    "В публикации указано, что руководство выпущено для повышения эффективности подготовки к получению разрешений.",
+    "К публикации приложен файл PDF размером около 8 МБ."
+   ],
+   "check": "Подробности смотрите в приложенном оригинале."
+  },
+  "fr": {
+   "title": "Le NIDS publie la ligne directrice pour remplir le formulaire de déclaration de fabrication (importation) de logiciels autonomes de dispositifs médicaux numériques",
+   "sum": "Le 18 novembre 2026, l'Institut national d'information sur la sécurité des dispositifs médicaux (NIDS) a publié sur son tableau des lignes directrices une ligne directrice pour remplir le formulaire de déclaration de fabrication (importation) de logiciels autonomes de dispositifs médicaux numériques.",
+   "points": [
+    "Le document s'intitule « Ligne directrice pour remplir le formulaire de déclaration de fabrication (importation) de logiciels autonomes de dispositifs médicaux numériques » (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "Il s'adresse aux fabricants et importateurs de logiciels autonomes de dispositifs médicaux numériques (produits de classe 1 soumis à déclaration).",
+    "La publication indique que la ligne directrice a été éditée pour rendre plus efficace la préparation de l'autorisation.",
+    "La publication comporte une pièce jointe PDF d'environ 8 Mo."
+   ],
+   "check": "Consultez l'original joint pour les détails."
+  },
+  "de": {
+   "title": "NIDS veröffentlicht Leitlinie zum Ausfüllen des Herstellungs-(Import-)Anzeigeformulars für eigenständige Software digitaler Medizinprodukte",
+   "sum": "Am 18. November 2026 hat das Nationale Institut für Informationen zur Sicherheit von Medizinprodukten (NIDS) auf seiner Leitlinien-Tafel eine Leitlinie zum Ausfüllen des Herstellungs-(Import-)Anzeigeformulars für eigenständige Software digitaler Medizinprodukte veröffentlicht.",
+   "points": [
+    "Das Dokument trägt den Titel „Leitlinie zum Ausfüllen des Herstellungs-(Import-)Anzeigeformulars für eigenständige Software digitaler Medizinprodukte“ (「독립형 디지털의료기기소프트웨어 제조(수입) 신고서 작성 가이드라인」).",
+    "Es richtet sich an Hersteller und Importeure eigenständiger Software digitaler Medizinprodukte (anzeigepflichtige Produkte der Klasse 1).",
+    "Laut Beitrag wurde die Leitlinie herausgegeben, um die Zulassungsvorbereitung effizienter zu gestalten.",
+    "Der Beitrag enthält einen PDF-Anhang von etwa 8 MB."
+   ],
+   "check": "Einzelheiten finden Sie im angehängten Original."
+  },
+  "src": [
+   [
+    "의료기기안전정보원 가이드라인 게시글",
+    "NIDS (National Institute of Medical Device Safety Information) guideline post",
+    "https://www.nids.or.kr/board/view.jsp?i_mst_idx=&i_current_page=1&board_seq=&flag=view&data_seq=11825&user_id=&page=gl&mnu=31&tabno=0&category=1&search_gbn=title&search_value=",
+    {
+     "zh": "医疗器械安全信息院指南帖",
+     "ja": "医療機器安全情報院 ガイドライン投稿",
+     "es": "Publicación de directrices del NIDS",
+     "pt": "Publicação de orientações do NIDS",
+     "ru": "Публикация руководства NIDS",
+     "fr": "Publication de lignes directrices du NIDS",
+     "de": "Leitlinien-Beitrag des NIDS"
+    }
+   ]
+  ]
  }
 ]
