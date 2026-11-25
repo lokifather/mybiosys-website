@@ -48,11 +48,8 @@ NEWS = {
 "kr-cybersecurity-guideline": {
  "title": "El MFDS revisa la guía de evaluación de ciberseguridad de los productos sanitarios",
  "sum": "El 30 de octubre de 2026, el Ministerio de Seguridad de Alimentos y Medicamentos de Corea (MFDS) anunció, en un documento de referencia de prensa, la revisión de su guía sobre la evaluación y aprobación de la ciberseguridad de los productos sanitarios.",
- "points": [
-  "El MFDS publicó el documento de referencia de prensa (PDF y HWPX) el 30 de octubre.",
-  "La revisión anterior (registrada el 10 de enero de 2025) se hizo para aclarar cuándo se aplican los requisitos de ciberseguridad revisados.",
-  "El 26 de enero de 2026 se modificaron las normas de aprobación de productos sanitarios e IVD, aclarando la base para presentar los datos de evaluación de ciberseguridad (véase el apartado aparte)."],
- "check": "Consulte el propio documento de prensa para saber qué cambió en esta revisión. Las páginas del MFDS no pudieron leerse por completo de forma automática, por lo que solo se confirmaron el título y la fecha de publicación."},
+ "points": ["El MFDS publicó el documento de referencia de prensa (PDF y HWPX) el 30 de octubre.", "El historial de revisiones de la guía «Directriz de autorización y revisión de ciberseguridad de productos sanitarios (guía para solicitantes)» (número de registro 안내서-0995-06, Departamento de Evaluación de Productos Sanitarios, emitida el 30 de octubre de 2026) registra el contenido principal de esta revisión como armonización internacional de los requisitos (IA-04, IA-05), aclaración (SI-05, SI-07) y supresión de un anexo.", "La revisión anterior (안내서-0995-05, 10 de enero de 2025) registra como contenido principal la aclaración de cuándo entran en vigor los requisitos.", "El 26 de enero de 2026 se modificaron las normas de autorización de productos sanitarios y de diagnóstico in vitro, aclarando la base para presentar los datos de revisión de ciberseguridad (véase el elemento aparte)."],
+  "check": "Consulte el original de la guía para los detalles."},
 "ca-mdel-2026": {
  "title": "Health Canada: entra en vigor el 14 de diciembre de 2026 la modificación de la normativa sobre licencias de establecimiento (MDEL)",
  "sum": "Las normas modificadas sobre licencias de establecimiento de productos sanitarios entran en vigor el 14 de diciembre de 2026, y Health Canada mejoró además la guía y el formulario el 30 de octubre.",

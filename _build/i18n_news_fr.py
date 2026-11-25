@@ -48,11 +48,8 @@ NEWS = {
 "kr-cybersecurity-guideline": {
  "title": "Le MFDS révise ses lignes directrices d'évaluation de la cybersécurité des dispositifs médicaux",
  "sum": "Le 30 octobre 2026, le ministère coréen de la Sécurité des aliments et des médicaments (MFDS) a annoncé, dans un document de référence de presse, la révision de ses lignes directrices sur l'évaluation et l'approbation de la cybersécurité des dispositifs médicaux.",
- "points": [
-  "Le MFDS a publié le document de référence de presse (PDF et HWPX) le 30 octobre.",
-  "La révision précédente (enregistrée le 10 janvier 2025) visait à préciser quand les exigences de cybersécurité révisées s'appliquent.",
-  "Le 26 janvier 2026, les règles d'approbation des dispositifs médicaux et des DIV ont été modifiées, précisant le fondement de la soumission des données d'évaluation de la cybersécurité (voir l'élément distinct)."],
- "check": "Consultez le document de presse lui-même pour savoir ce qui a changé dans cette révision. Les pages du MFDS n'ont pas pu être lues intégralement de façon automatique ; seuls le titre et la date de publication ont été confirmés."},
+ "points": ["Le MFDS a publié le document de référence de presse (PDF et HWPX) le 30 octobre.", "L'historique de révisions du guide « Ligne directrice d'autorisation et d'examen de la cybersécurité des dispositifs médicaux (guide pour les demandeurs) » (numéro d'enregistrement 안내서-0995-06, Département d'évaluation des dispositifs médicaux, publié le 30 octobre 2026) indique comme contenu principal de cette révision l'harmonisation internationale des exigences (IA-04, IA-05), des clarifications (SI-05, SI-07) et la suppression d'une annexe.", "La révision précédente (안내서-0995-05, 10 janvier 2025) indique comme contenu principal la clarification de la date d'entrée en vigueur des exigences.", "Le 26 janvier 2026, les règles d'autorisation des dispositifs médicaux et des dispositifs de diagnostic in vitro ont été modifiées, précisant la base de soumission des données d'examen de cybersécurité (voir l'élément distinct)."],
+  "check": "Consultez l'original du guide pour les détails."},
 "ca-mdel-2026": {
  "title": "Santé Canada : la modification du règlement sur les licences d'établissement (LEDM) entre en vigueur le 14 décembre 2026",
  "sum": "Les règles modifiées sur les licences d'établissement de dispositifs médicaux entrent en vigueur le 14 décembre 2026, et Santé Canada a en outre amélioré les lignes directrices et le formulaire le 30 octobre.",

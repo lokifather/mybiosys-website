@@ -48,11 +48,8 @@ NEWS = {
 "kr-cybersecurity-guideline": {
  "title": "O MFDS revê a orientação de avaliação da cibersegurança dos dispositivos médicos",
  "sum": "A 30 de outubro de 2026, o Ministério da Segurança Alimentar e dos Medicamentos da Coreia (MFDS) anunciou, num documento de referência de imprensa, a revisão da sua orientação sobre a avaliação e aprovação da cibersegurança dos dispositivos médicos.",
- "points": [
-  "O MFDS publicou o documento de referência de imprensa (PDF e HWPX) a 30 de outubro.",
-  "A revisão anterior (registada a 10 de janeiro de 2025) foi feita para esclarecer quando se aplicam os requisitos de cibersegurança revistos.",
-  "A 26 de janeiro de 2026, as normas de aprovação de dispositivos médicos e IVD foram alteradas, esclarecendo a base para a apresentação dos dados de avaliação da cibersegurança (ver o ponto separado)."],
- "check": "Consulte o próprio documento de imprensa para saber o que mudou nesta revisão. As páginas do MFDS não puderam ser lidas na íntegra de forma automática, pelo que apenas o título e a data de publicação foram confirmados."},
+ "points": ["O MFDS publicou o documento de referência de imprensa (PDF e HWPX) em 30 de outubro.", "O historial de revisões do guia «Orientação de autorização e avaliação de cibersegurança de dispositivos médicos (guia para requerentes)» (número de registo 안내서-0995-06, Departamento de Avaliação de Dispositivos Médicos, emitido em 30 de outubro de 2026) regista o conteúdo principal desta revisão como harmonização internacional dos requisitos (IA-04, IA-05), clarificação (SI-05, SI-07) e supressão de um anexo.", "A revisão anterior (안내서-0995-05, 10 de janeiro de 2025) regista como conteúdo principal a clarificação de quando os requisitos entram em vigor.", "Em 26 de janeiro de 2026 foram alteradas as regras de autorização de dispositivos médicos e de diagnóstico in vitro, clarificando a base para a apresentação dos dados de avaliação de cibersegurança (ver o item separado)."],
+  "check": "Consulte o original do guia para os pormenores."},
 "ca-mdel-2026": {
  "title": "Health Canada: entra em vigor a 14 de dezembro de 2026 a alteração do regulamento sobre licenças de estabelecimento (MDEL)",
  "sum": "As regras alteradas sobre licenças de estabelecimento de dispositivos médicos entram em vigor a 14 de dezembro de 2026, e a Health Canada melhorou ainda a orientação e o formulário a 30 de outubro.",
