@@ -240,5 +240,126 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "kr-device-product-name-guide",
+  "date": "2026-11-23",
+  "region": "kr",
+  "svc": "digital-medical-products",
+  "ko": {
+   "title": "식약처, 의료기기 제품명 설정을 위한 가이드라인(민원인 안내서) 게시",
+   "sum": "식품의약품안전처가 2026년 11월 23일 디지털의료제품법 시행에 따른 디지털의료기기 제품명 관리사항과 제품명 설정 사례를 반영한 의료기기 제품명 설정을 위한 가이드라인을 등록했습니다.",
+   "points": [
+    "문서명은 「의료기기 제품명 설정을 위한 가이드라인」(민원인 안내서)이며, 등록번호는 안내서-1235-03입니다.",
+    "「디지털의료제품법」 시행에 따른 디지털의료기기 제품명 관리사항이 반영되었습니다.",
+    "의료기기 제품명 설정 사례가 추가되었습니다.",
+    "게시글의 등록일은 2026년 11월 23일입니다."
+   ],
+   "check": "세부 내용은 식약처 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "MFDS posts guideline for setting medical device product names (guidance for applicants)",
+   "sum": "On 23 November 2026 the Ministry of Food and Drug Safety registered a guideline for setting medical device product names that reflects the management of digital medical device product names under the enforcement of the Digital Medical Products Act and adds product-naming examples.",
+   "points": [
+    "The document is titled \"Guideline for Setting Medical Device Product Names\" (guidance for applicants, 「의료기기 제품명 설정을 위한 가이드라인」) and carries registration number 안내서-1235-03.",
+    "It reflects the management of digital medical device product names following enforcement of the Digital Medical Products Act.",
+    "Examples of setting medical device product names have been added.",
+    "The post's registration date is 23 November 2026."
+   ],
+   "check": "Check the MFDS original for details."
+  },
+  "zh": {
+   "title": "食品医药品安全处发布《医疗器械产品名称设定指南》(申请人指南)",
+   "sum": "2026年11月23日,食品医药品安全处登记了《医疗器械产品名称设定指南》,该指南反映了《数字医疗产品法》施行后数字医疗器械产品名称的管理事项,并增加了产品名称设定案例。",
+   "points": [
+    "文件名为《医疗器械产品名称设定指南》(申请人指南,「의료기기 제품명 설정을 위한 가이드라인」),登记编号为안내서-1235-03。",
+    "反映了《数字医疗产品法》施行后数字医疗器械产品名称的管理事项。",
+    "增加了医疗器械产品名称设定案例。",
+    "该帖的登记日期为2026年11月23日。"
+   ],
+   "check": "详细内容请查阅食品医药品安全处原文。"
+  },
+  "ja": {
+   "title": "食品医薬品安全処、医療機器の製品名設定のためのガイドライン(申請者向けガイド)を掲載",
+   "sum": "2026年11月23日、食品医薬品安全処は、デジタル医療製品法の施行に伴うデジタル医療機器の製品名管理事項を反映し、製品名設定事例を追加した「医療機器の製品名設定のためのガイドライン」を登録しました。",
+   "points": [
+    "文書名は「医療機器の製品名設定のためのガイドライン」(申請者向けガイド、「의료기기 제품명 설정을 위한 가이드라인」)で、登録番号は안내서-1235-03です。",
+    "「デジタル医療製品法」の施行に伴うデジタル医療機器の製品名管理事項が反映されています。",
+    "医療機器の製品名設定事例が追加されました。",
+    "投稿の登録日は2026年11月23日です。"
+   ],
+   "check": "詳細は食品医薬品安全処の原文をご確認ください。"
+  },
+  "es": {
+   "title": "El MFDS publica la directriz para establecer los nombres de producto de los productos sanitarios (guía para solicitantes)",
+   "sum": "El 23 de noviembre de 2026, el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) registró una directriz para establecer los nombres de producto de los productos sanitarios que refleja la gestión de los nombres de producto de los productos sanitarios digitales tras la entrada en vigor de la Ley de Productos Médicos Digitales y añade ejemplos de denominación.",
+   "points": [
+    "El documento se titula «Directriz para establecer los nombres de producto de los productos sanitarios» (guía para solicitantes, 「의료기기 제품명 설정을 위한 가이드라인」) y tiene el número de registro 안내서-1235-03.",
+    "Refleja la gestión de los nombres de producto de los productos sanitarios digitales tras la entrada en vigor de la Ley de Productos Médicos Digitales.",
+    "Se han añadido ejemplos de establecimiento de nombres de producto de productos sanitarios.",
+    "La fecha de registro de la publicación es el 23 de noviembre de 2026."
+   ],
+   "check": "Consulte el original del MFDS para los detalles."
+  },
+  "pt": {
+   "title": "O MFDS publica a orientação para definir os nomes de produto dos dispositivos médicos (guia para requerentes)",
+   "sum": "Em 23 de novembro de 2026, o Ministério da Segurança Alimentar e dos Medicamentos (MFDS) registou uma orientação para definir os nomes de produto dos dispositivos médicos que reflete a gestão dos nomes de produto dos dispositivos médicos digitais após a entrada em vigor da Lei dos Produtos Médicos Digitais e acrescenta exemplos de denominação.",
+   "points": [
+    "O documento intitula-se «Orientação para definir os nomes de produto dos dispositivos médicos» (guia para requerentes, 「의료기기 제품명 설정을 위한 가이드라인」) e tem o número de registo 안내서-1235-03.",
+    "Reflete a gestão dos nomes de produto dos dispositivos médicos digitais após a entrada em vigor da Lei dos Produtos Médicos Digitais.",
+    "Foram acrescentados exemplos de definição de nomes de produto de dispositivos médicos.",
+    "A data de registo da publicação é 23 de novembro de 2026."
+   ],
+   "check": "Consulte o original do MFDS para os pormenores."
+  },
+  "ru": {
+   "title": "MFDS опубликовало руководство по определению наименований медицинских изделий (руководство для заявителей)",
+   "sum": "23 ноября 2026 года Министерство безопасности пищевых продуктов и лекарств (MFDS) зарегистрировало руководство по определению наименований медицинских изделий, отражающее порядок управления наименованиями цифровых медицинских изделий после вступления в силу Закона о цифровых медицинских продуктах и дополненное примерами определения наименований.",
+   "points": [
+    "Документ называется «Руководство по определению наименований медицинских изделий» (руководство для заявителей, 「의료기기 제품명 설정을 위한 가이드라인」), регистрационный номер — 안내서-1235-03.",
+    "В нём отражён порядок управления наименованиями цифровых медицинских изделий после вступления в силу Закона о цифровых медицинских продуктах.",
+    "Добавлены примеры определения наименований медицинских изделий.",
+    "Дата регистрации публикации — 23 ноября 2026 года."
+   ],
+   "check": "Подробности смотрите в оригинале MFDS."
+  },
+  "fr": {
+   "title": "Le MFDS publie la ligne directrice pour établir les noms de produit des dispositifs médicaux (guide pour les demandeurs)",
+   "sum": "Le 23 novembre 2026, le Ministère de la sécurité des aliments et des médicaments (MFDS) a enregistré une ligne directrice pour établir les noms de produit des dispositifs médicaux, qui reflète la gestion des noms de produit des dispositifs médicaux numériques à la suite de l'entrée en vigueur de la loi sur les produits médicaux numériques et ajoute des exemples de dénomination.",
+   "points": [
+    "Le document s'intitule « Ligne directrice pour établir les noms de produit des dispositifs médicaux » (guide pour les demandeurs, 「의료기기 제품명 설정을 위한 가이드라인」) et porte le numéro d'enregistrement 안내서-1235-03.",
+    "Il reflète la gestion des noms de produit des dispositifs médicaux numériques à la suite de l'entrée en vigueur de la loi sur les produits médicaux numériques.",
+    "Des exemples d'établissement de noms de produit de dispositifs médicaux ont été ajoutés.",
+    "La date d'enregistrement de la publication est le 23 novembre 2026."
+   ],
+   "check": "Consultez l'original du MFDS pour les détails."
+  },
+  "de": {
+   "title": "MFDS veröffentlicht Leitlinie zur Festlegung von Produktnamen für Medizinprodukte (Leitfaden für Antragsteller)",
+   "sum": "Am 23. November 2026 hat das Ministerium für Lebensmittel- und Arzneimittelsicherheit (MFDS) eine Leitlinie zur Festlegung von Produktnamen für Medizinprodukte registriert, die die Verwaltung der Produktnamen digitaler Medizinprodukte nach Inkrafttreten des Gesetzes über digitale Medizinprodukte widerspiegelt und Beispiele zur Namensgebung ergänzt.",
+   "points": [
+    "Das Dokument trägt den Titel „Leitlinie zur Festlegung von Produktnamen für Medizinprodukte“ (Leitfaden für Antragsteller, 「의료기기 제품명 설정을 위한 가이드라인」) und hat die Registrierungsnummer 안내서-1235-03.",
+    "Es spiegelt die Verwaltung der Produktnamen digitaler Medizinprodukte nach Inkrafttreten des Gesetzes über digitale Medizinprodukte wider.",
+    "Beispiele zur Festlegung von Produktnamen für Medizinprodukte wurden ergänzt.",
+    "Das Registrierungsdatum des Beitrags ist der 23. November 2026."
+   ],
+   "check": "Einzelheiten finden Sie im Original des MFDS."
+  },
+  "src": [
+   [
+    "식품의약품안전처 게시글",
+    "MFDS (Ministry of Food and Drug Safety) post",
+    "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15999&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1",
+    {
+     "zh": "食品医药品安全处公告帖",
+     "ja": "食品医薬品安全処 投稿",
+     "es": "Publicación del MFDS",
+     "pt": "Publicação do MFDS",
+     "ru": "Публикация MFDS",
+     "fr": "Publication du MFDS",
+     "de": "Beitrag des MFDS"
+    }
+   ]
+  ]
  }
 ]
