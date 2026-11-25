@@ -724,5 +724,126 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "kr-digital-component-performance-guide",
+  "date": "2026-09-16",
+  "region": "kr",
+  "svc": "ai-medical-device",
+  "ko": {
+   "title": "식약처, 디지털의료기기 구성요소 성능평가 가이드라인(민원인 안내서) 제정",
+   "sum": "식품의약품안전처가 2026년 9월 16일 디지털의료기기 구성요소 성능평가의 대상과 첨부서류 작성방법을 설명하는 가이드라인(민원인 안내서)을 제정했습니다.",
+   "points": [
+    "문서명은 「디지털의료기기 구성요소 성능평가 가이드라인」(민원인 안내서)이며, 등록번호는 안내서-1527-01입니다. 고시일은 2026년 9월 16일, 등록일은 2026년 9월 14일이며, 의료기기심사부가 작성했고 문서는 대외적으로 법적 효력을 가지지 않는다고 명시합니다.",
+    "구성요소 성능평가 제도는 2025년 1월 「디지털의료제품법」 시행으로 도입되었으며, 인공지능 알고리즘과 센서 등 성능에 영향을 미치는 구성요소를 독립적인 단위로 평가하고, 평가가 끝난 구성요소를 활용하는 디지털의료제품의 허가(인증) 절차를 간소화하는 제도로 설명됩니다.",
+    "평가대상은 의료적 기능을 구현하는 인공지능 기반 프로그램, 생체신호 등을 측정하는 센서(관련 소프트웨어 포함), 식약처장이 인정하는 이에 준하는 것입니다. 하나의 완성된 제품으로 허가·인증되어 사용 가능한 경우, 독립적인 성능을 발휘하지 않는 경우, 완제품 형태로만 안전성 평가가 가능한 경우는 제외됩니다.",
+    "심사 절차는 신청서 제출(시행규칙 별지 제45호 서식), 식약처 검토, 검토결과 회신(보완 요청은 30일 이내의 기간, 적합 시 결과서 발급), 필요 시 전문기관의 추가 성능평가 순이며, 추가 평가 비용은 신청인이 전문기관에 지불합니다."
+   ],
+   "check": "세부 요건은 안내서 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "MFDS establishes guidance on performance evaluation of digital medical device components (guidance for applicants)",
+   "sum": "On 16 September 2026 the Ministry of Food and Drug Safety established guidance for applicants explaining which digital medical device components are subject to performance evaluation and how to prepare the attached documents.",
+   "points": [
+    "The document is titled \"Guideline on Performance Evaluation of Digital Medical Device Components\" (guidance for applicants) and carries registration number 안내서-1527-01. Its notification date is 16 September 2026 and registration date 14 September 2026; it was prepared by the Medical Device Evaluation Department and states that it has no external legal effect.",
+    "The component performance evaluation system was introduced with the enforcement of the Digital Medical Products Act in January 2025; it is described as evaluating components that can affect performance, such as AI algorithms and sensors, as independent units, and simplifying the approval (certification) procedure for digital medical products that use evaluated components.",
+    "Subject to evaluation are AI-based programs implementing medical functions, sensors measuring biosignals and similar (including related software), and items the Minister recognizes as equivalent. Excluded are components usable as a finished product approved or certified as one, those that do not perform independently, and those whose safety can be evaluated only as a finished product.",
+    "The review procedure is: submitting the application (Form No. 45 of the Enforcement Rule), MFDS review, reply on the review result (supplementation may be requested within a period of up to 30 days; a result report is issued if suitable), and, where applicable, additional performance evaluation by a specialized body, whose cost the applicant pays to that body."
+   ],
+   "check": "Check the guidance original for detailed requirements."
+  },
+  "zh": {
+   "title": "食品医药品安全处制定数字医疗器械组成部分性能评价指南(申请人指南)",
+   "sum": "2026年9月16日,食品医药品安全处制定了说明数字医疗器械组成部分性能评价对象及附件资料编写方法的指南(申请人指南)。",
+   "points": [
+    "文件名为《数字医疗器械组成部分性能评价指南》(申请人指南),登记编号为안내서-1527-01。公告日期为2026年9月16日,登记日期为2026年9月14日,由医疗器械审查部编写,并明确对外不具有法律效力。",
+    "组成部分性能评价制度随2025年1月《数字医疗产品法》施行而引入,被说明为:将人工智能算法和传感器等可能影响性能的组成部分作为独立单元进行评价,并简化使用已评价组成部分的数字医疗产品的许可(认证)程序。",
+    "评价对象为实现医疗功能的基于人工智能的程序、测量生物信号等的传感器(含相关软件),以及食品医药品安全处处长认定与之相当的部分。已作为一个完整产品获得许可·认证并可使用的、不能独立发挥性能的、只能以成品形态评价安全性的,不属于评价对象。",
+    "审查程序为:提交申请书(施行规则附件第45号表格)、食品医药品安全处审查、回复审查结果(可在30日以内的期限内要求补充,合格时出具结果书),必要时由专业机构进行追加性能评价,追加评价费用由申请人向专业机构支付。"
+   ],
+   "check": "详细要求请查阅指南原文。"
+  },
+  "ja": {
+   "title": "食品医薬品安全処、デジタル医療機器構成要素の性能評価ガイドライン(申請者向けガイド)を制定",
+   "sum": "2026年9月16日、食品医薬品安全処は、デジタル医療機器構成要素の性能評価の対象と添付書類の作成方法を説明するガイドライン(申請者向けガイド)を制定しました。",
+   "points": [
+    "文書名は「デジタル医療機器構成要素性能評価ガイドライン」(申請者向けガイド)で、登録番号は안내서-1527-01です。告示日は2026年9月16日、登録日は2026年9月14日で、医療機器審査部が作成し、対外的な法的効力を持たないと明記されています。",
+    "構成要素性能評価制度は2025年1月の「デジタル医療製品法」施行で導入され、人工知能アルゴリズムやセンサーなど性能に影響を与えうる構成要素を独立した単位で評価し、評価済みの構成要素を活用するデジタル医療製品の許可(認証)手続を簡素化する制度と説明されています。",
+    "評価対象は、医療的機能を実現する人工知能基盤プログラム、生体信号等を測定するセンサー(関連ソフトウェアを含む)、及び食品医薬品安全処長が認めるこれに準ずるものです。一つの完成品として許可・認証され使用できる場合、独立した性能を発揮しない場合、完成品の形態でのみ安全性評価が可能な場合は除外されます。",
+    "審査手続は、申請書の提出(施行規則別紙第45号様式)、食品医薬品安全処の審査、審査結果の回答(補完要請は30日以内の期間、適合の場合は結果書を発給)、必要に応じて専門機関による追加性能評価の順で、追加評価の費用は申請人が専門機関に支払います。"
+   ],
+   "check": "詳細な要件はガイド原文をご確認ください。"
+  },
+  "es": {
+   "title": "El MFDS establece la guía sobre la evaluación del rendimiento de los componentes de productos sanitarios digitales (guía para solicitantes)",
+   "sum": "El 16 de septiembre de 2026, el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) estableció una guía para solicitantes que explica qué componentes de productos sanitarios digitales están sujetos a evaluación del rendimiento y cómo preparar los documentos adjuntos.",
+   "points": [
+    "El documento se titula «Directriz de evaluación del rendimiento de los componentes de productos sanitarios digitales» (guía para solicitantes) y tiene el número de registro 안내서-1527-01. Su fecha de notificación es el 16 de septiembre de 2026 y la de registro el 14 de septiembre de 2026; fue elaborado por el Departamento de Evaluación de Productos Sanitarios y declara que no tiene efecto jurídico externo.",
+    "El sistema de evaluación del rendimiento de componentes se introdujo con la entrada en vigor de la Ley de Productos Médicos Digitales en enero de 2025; se describe como la evaluación de componentes que pueden afectar al rendimiento, como algoritmos de IA y sensores, como unidades independientes, y la simplificación del procedimiento de autorización (certificación) de los productos médicos digitales que usan componentes evaluados.",
+    "Están sujetos a evaluación los programas basados en IA que implementan funciones médicas, los sensores que miden señales biológicas y similares (incluido el software relacionado) y lo que el Ministro reconozca como equivalente. Quedan excluidos los componentes utilizables como producto acabado autorizado o certificado como tal, los que no funcionan de forma independiente y aquellos cuya seguridad solo puede evaluarse como producto acabado.",
+    "El procedimiento de revisión es: presentación de la solicitud (formulario n.º 45 del reglamento de aplicación), revisión del MFDS, respuesta con el resultado (se puede pedir subsanación en un plazo de hasta 30 días; si es conforme, se emite un informe de resultado) y, cuando proceda, evaluación adicional del rendimiento por un organismo especializado, cuyo coste paga el solicitante a dicho organismo."
+   ],
+   "check": "Consulte el original de la guía para los requisitos detallados."
+  },
+  "pt": {
+   "title": "O MFDS estabelece a orientação sobre a avaliação do desempenho de componentes de dispositivos médicos digitais (guia para requerentes)",
+   "sum": "Em 16 de setembro de 2026, o Ministério da Segurança Alimentar e dos Medicamentos (MFDS) estabeleceu um guia para requerentes que explica quais componentes de dispositivos médicos digitais estão sujeitos a avaliação do desempenho e como preparar os documentos anexos.",
+   "points": [
+    "O documento intitula-se «Orientação de avaliação do desempenho de componentes de dispositivos médicos digitais» (guia para requerentes) e tem o número de registo 안내서-1527-01. A data de notificação é 16 de setembro de 2026 e a de registo 14 de setembro de 2026; foi elaborado pelo Departamento de Avaliação de Dispositivos Médicos e declara que não tem efeito jurídico externo.",
+    "O sistema de avaliação do desempenho de componentes foi introduzido com a entrada em vigor da Lei dos Produtos Médicos Digitais em janeiro de 2025; é descrito como a avaliação de componentes que podem afetar o desempenho, como algoritmos de IA e sensores, como unidades independentes, e a simplificação do procedimento de autorização (certificação) dos produtos médicos digitais que usam componentes avaliados.",
+    "Estão sujeitos a avaliação os programas baseados em IA que implementam funções médicas, os sensores que medem sinais biológicos e similares (incluindo o software relacionado) e o que o Ministro reconheça como equivalente. Ficam excluídos os componentes utilizáveis como produto acabado autorizado ou certificado como tal, os que não funcionam de forma independente e aqueles cuja segurança só pode ser avaliada como produto acabado.",
+    "O procedimento de avaliação é: apresentação do pedido (formulário n.º 45 do regulamento de execução), avaliação do MFDS, resposta com o resultado (pode ser pedida a correção num prazo até 30 dias; se for conforme, é emitido um relatório de resultado) e, quando aplicável, avaliação adicional do desempenho por um organismo especializado, cujo custo o requerente paga a esse organismo."
+   ],
+   "check": "Consulte o original do guia para os requisitos detalhados."
+  },
+  "ru": {
+   "title": "MFDS утвердило руководство по оценке эксплуатационных характеристик компонентов цифровых медицинских изделий (руководство для заявителей)",
+   "sum": "16 сентября 2026 года Министерство безопасности пищевых продуктов и лекарств (MFDS) утвердило руководство для заявителей, объясняющее, какие компоненты цифровых медицинских изделий подлежат оценке эксплуатационных характеристик и как готовить прилагаемые документы.",
+   "points": [
+    "Документ называется «Руководство по оценке эксплуатационных характеристик компонентов цифровых медицинских изделий» (руководство для заявителей), регистрационный номер — 안내서-1527-01. Дата объявления — 16 сентября 2026 года, дата регистрации — 14 сентября 2026 года; документ подготовлен департаментом экспертизы медицинских изделий и содержит заявление об отсутствии внешней юридической силы.",
+    "Система оценки характеристик компонентов введена с вступлением в силу Закона о цифровых медицинских продуктах в январе 2025 года; она описана как оценка компонентов, способных влиять на характеристики (алгоритмов ИИ, датчиков и др.), как самостоятельных единиц и упрощение процедуры разрешения (сертификации) цифровых медицинских продуктов, использующих оценённые компоненты.",
+    "Оценке подлежат программы на основе ИИ, реализующие медицинские функции, датчики, измеряющие биосигналы и т. п. (включая связанное ПО), и то, что министр признаёт равнозначным. Исключаются компоненты, которые могут использоваться как готовое изделие, разрешённое или сертифицированное как таковое, не обеспечивающие самостоятельных характеристик, а также те, безопасность которых можно оценить только в виде готового изделия.",
+    "Порядок рассмотрения: подача заявки (форма № 45 исполнительных правил), рассмотрение MFDS, ответ о результате (доработку можно запросить в срок до 30 дней; при соответствии выдаётся отчёт о результате) и при необходимости дополнительная оценка характеристик специализированной организацией, стоимость которой заявитель оплачивает этой организации."
+   ],
+   "check": "Подробные требования смотрите в оригинале руководства."
+  },
+  "fr": {
+   "title": "Le MFDS établit la ligne directrice sur l'évaluation des performances des composants de dispositifs médicaux numériques (guide pour les demandeurs)",
+   "sum": "Le 16 septembre 2026, le Ministère de la sécurité des aliments et des médicaments (MFDS) a établi un guide pour les demandeurs expliquant quels composants de dispositifs médicaux numériques sont soumis à l'évaluation des performances et comment préparer les documents joints.",
+   "points": [
+    "Le document s'intitule « Ligne directrice sur l'évaluation des performances des composants de dispositifs médicaux numériques » (guide pour les demandeurs) et porte le numéro d'enregistrement 안내서-1527-01. Sa date de notification est le 16 septembre 2026 et sa date d'enregistrement le 14 septembre 2026 ; il a été rédigé par le Département d'évaluation des dispositifs médicaux et précise qu'il n'a pas d'effet juridique externe.",
+    "Le système d'évaluation des performances des composants a été introduit avec l'entrée en vigueur de la loi sur les produits médicaux numériques en janvier 2025 ; il est décrit comme l'évaluation des composants pouvant influer sur les performances, tels que les algorithmes d'IA et les capteurs, en tant qu'unités indépendantes, et la simplification de la procédure d'autorisation (certification) des produits médicaux numériques utilisant des composants évalués.",
+    "Sont soumis à l'évaluation les programmes fondés sur l'IA mettant en œuvre des fonctions médicales, les capteurs mesurant des signaux biologiques et similaires (y compris le logiciel associé) et ce que le ministre reconnaît comme équivalent. Sont exclus les composants utilisables comme produit fini autorisé ou certifié comme tel, ceux qui ne fonctionnent pas de manière indépendante et ceux dont la sécurité ne peut être évaluée que comme produit fini.",
+    "La procédure d'examen est la suivante : dépôt de la demande (formulaire n° 45 du règlement d'application), examen par le MFDS, réponse sur le résultat (des compléments peuvent être demandés dans un délai pouvant aller jusqu'à 30 jours ; si conforme, un rapport de résultat est délivré) et, le cas échéant, évaluation complémentaire des performances par un organisme spécialisé, dont le demandeur paie le coût à cet organisme."
+   ],
+   "check": "Consultez l'original du guide pour les exigences détaillées."
+  },
+  "de": {
+   "title": "MFDS erstellt Leitlinie zur Leistungsbewertung von Komponenten digitaler Medizinprodukte (Leitfaden für Antragsteller)",
+   "sum": "Am 16. September 2026 hat das Ministerium für Lebensmittel- und Arzneimittelsicherheit (MFDS) einen Leitfaden für Antragsteller erstellt, der erläutert, welche Komponenten digitaler Medizinprodukte der Leistungsbewertung unterliegen und wie die beizufügenden Unterlagen zu erstellen sind.",
+   "points": [
+    "Das Dokument trägt den Titel „Leitlinie zur Leistungsbewertung von Komponenten digitaler Medizinprodukte“ (Leitfaden für Antragsteller) und hat die Registrierungsnummer 안내서-1527-01. Bekanntmachungsdatum ist der 16. September 2026, Registrierungsdatum der 14. September 2026; es wurde von der Medizinprodukte-Prüfabteilung erstellt und erklärt, dass es keine rechtliche Außenwirkung hat.",
+    "Das System der Komponenten-Leistungsbewertung wurde mit Inkrafttreten des Gesetzes über digitale Medizinprodukte im Januar 2025 eingeführt; es wird beschrieben als Bewertung von Komponenten, die die Leistung beeinflussen können, etwa KI-Algorithmen und Sensoren, als eigenständige Einheiten sowie als Vereinfachung des Zulassungs-(Zertifizierungs-)Verfahrens für digitale Medizinprodukte, die bewertete Komponenten verwenden.",
+    "Der Bewertung unterliegen KI-basierte Programme, die medizinische Funktionen umsetzen, Sensoren zur Messung von Biosignalen u. Ä. (einschließlich zugehöriger Software) sowie das, was der Minister als gleichwertig anerkennt. Ausgenommen sind Komponenten, die als zugelassenes oder zertifiziertes Fertigprodukt nutzbar sind, nicht eigenständig Leistung erbringen oder deren Sicherheit nur als Fertigprodukt bewertet werden kann.",
+    "Das Prüfverfahren umfasst: Einreichung des Antrags (Formblatt Nr. 45 der Durchführungsverordnung), Prüfung durch das MFDS, Rückmeldung zum Prüfergebnis (Nachbesserung kann innerhalb einer Frist von bis zu 30 Tagen verlangt werden; bei Eignung wird ein Ergebnisbericht ausgestellt) und gegebenenfalls zusätzliche Leistungsbewertung durch eine Fachstelle, deren Kosten der Antragsteller an diese Stelle zahlt."
+   ],
+   "check": "Einzelheiten zu den Anforderungen finden Sie im Original des Leitfadens."
+  },
+  "src": [
+   [
+    "식품의약품안전처 지침서·안내서 게시판",
+    "MFDS (Ministry of Food and Drug Safety) guidance board",
+    "https://www.mfds.go.kr/brd/m_1060/list.do",
+    {
+     "zh": "食品医药品安全处指南公告栏",
+     "ja": "食品医薬品安全処 ガイドライン掲示板",
+     "es": "Tablón de directrices del MFDS",
+     "pt": "Quadro de orientações do MFDS",
+     "ru": "Доска руководств MFDS",
+     "fr": "Tableau des lignes directrices du MFDS",
+     "de": "Leitlinien-Tafel des MFDS"
+    }
+   ]
+  ]
  }
 ]

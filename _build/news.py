@@ -142,22 +142,14 @@ NEWS = [
   "ko": {
    "title": "식약처, 전문가용 디지털의료기기소프트웨어 허가·심사 가이드라인 제정",
    "sum": "식약처가 2026년 9월 30일 「전문가용 디지털의료기기소프트웨어 허가·심사 가이드라인(민원인 안내서)」을 제정했다고 공지했습니다.",
-   "points": [
-    "등록번호는 안내서-1528-01, 담당 부서는 의료인공지능소프트웨어과입니다.",
-    "같은 날 보도참고자료 「전문가용 디지털의료기기소프트웨어 허가심사 가이드라인 마련」도 게시됐습니다.",
-    "함께 참고할 기존 문서로 의료기기 소프트웨어 허가·심사 가이드라인(2025년 5월 7일 개정)과 독립형 디지털의료기기소프트웨어 사용적합성 허가·심사 가이드라인(2025년 1월 24일)이 있습니다.",
-   ],
-   "check": "적용 대상 범위와 제출자료의 세부 요건은 가이드라인 원문에서 확인하세요.",
+   "points": ["등록번호는 안내서-1528-01이며, 의료기기심사부 의료인공지능소프트웨어과가 문의 부서입니다. 문서는 2026년 9월 30일 제정으로 기재되어 있고, 대외적으로 법적 효력을 가지지 않는다고 명시합니다. 같은 날 보도참고자료도 게시됐습니다.", "문서는 「디지털의료제품법」 제21조에 따라 의료인 등 전문가에 의한 사용이 필요한 전문가용 디지털의료기기소프트웨어의 제조·수입 허가·인증에 적용되며, 제조자가 전문가의 진단 또는 지시·감독에 따라 환자 사용이 가능하도록 설계한 소프트웨어(독립형과 내장형 모두)를 전문가용으로 표시할 수 있다고 설명합니다.", "신청서에서는 지시·감독용 소프트웨어(의료인용 대시보드 등)와 환자용 소프트웨어(치료 콘텐츠 제공 어플리케이션 등)의 정보를 항목별로 분리해 기재하고, 사용 시 주의사항도 두 종류별로 따로 작성하며, 비고란에 ‘전문가용 디지털의료기기’라고 표기하도록 설명합니다.", "첨부서류로는 전문가의 진단 또는 지시·감독에 따라 환자에 대한 안전한 사용이 결정되는 소프트웨어임을 입증하는 자료와, 지시·감독용과 환자용 주의사항이 구분된 전문가 대상 사용설명서를 제출하도록 설명하며, 별첨으로 필수 기재사항 체크리스트가 있습니다."],
+   "check": "세부 요건은 안내서 원문에서 확인하세요.",
   },
   "en": {
    "title": "MFDS issues a guideline on approval of digital medical device software for professional use",
    "sum": "On 30 September 2026 MFDS notified the establishment of its guideline on review and approval of digital medical device software for professional use.",
-   "points": [
-    "The registration number is 안내서-1528-01 and the responsible division is the Medical AI Software Division.",
-    "A press reference document with the same title was posted on the same day.",
-    "Related existing documents include the medical device software approval guideline (revised 7 May 2025) and the usability guideline for standalone digital medical device software (24 January 2025).",
-   ],
-   "check": "Check the guideline itself for its scope and the detailed submission requirements.",
+   "points": ["The registration number is 안내서-1528-01 and the contact is the Medical AI Software Division, Medical Device Evaluation Department. The document records establishment on 30 September 2026 and states that it has no external legal effect. A press reference document was posted the same day.", "Under Article 21 of the Digital Medical Products Act, the document applies to manufacturing and import approval and certification of professional-use digital medical device software, which requires use by medical professionals; it explains that a manufacturer may label as professional-use software that it designed so that patients use it under a professional's diagnosis or instruction and supervision (both standalone and embedded software).", "For the application, it explains that information on the instruction and supervision software (such as a clinician dashboard) and the patient software (such as an application delivering treatment content) is to be written separately item by item, that precautions for use are written separately for each, and that \"professional-use digital medical device\" is entered in the remarks field.", "For attached documents, it explains that applicants submit data showing that safe use by patients is determined by a professional's diagnosis or instruction and supervision, and instructions for use for professionals that separate the precautions for the instruction and supervision software from those for the patient software; an appendix holds a checklist of required entries."],
+   "check": "Check the guidance original for detailed requirements.",
   },
   "src": [
    ("식약처 민원인 안내서: 전문가용 디지털의료기기소프트웨어 허가·심사 가이드라인", "MFDS guideline page", "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15956"),
