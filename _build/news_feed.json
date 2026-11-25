@@ -1399,5 +1399,815 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-rasd-premarket-draft",
+  "date": "2026-09-24",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 로봇 보조 수술 기기 시판 전 제출 가이던스 초안 발간",
+   "sum": "FDA가 2026년 9월 「Robotically-Assisted Surgical Devices - Premarket Submissions」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2026-N-9505입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 9월 24일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "일부 로봇 보조 수술 기기(RASD)의 시판 전 제출에 대해 비임상 시험, 임상 데이터, 표시기재에 관한 권고 초안을 담고 있습니다.",
+    "페이지는 RASD를, 자격 있는 의료인이 개복·최소침습·내강 수술에서 수술 기구의 위치와 제어를 돕는 원격 조작·소프트웨어 제어 시스템으로 설명하며, 목표는 제출의 일관성과 심사의 효율입니다.",
+    "페이지에는 의견 제출 기한이 2026년 11월 24일로 표시되어 있고, 의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on premarket submissions for robotically-assisted surgical devices",
+   "sum": "In September 2026 FDA posted the draft guidance \"Robotically-Assisted Surgical Devices - Premarket Submissions\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2026-N-9505. The issuing office is CDRH and the page shows a posting date of 24 September 2026. The page states it is not for implementation and contains non-binding recommendations.",
+    "It contains draft recommendations on non-clinical testing, clinical data and labeling for premarket submissions for certain robotically-assisted surgical devices (RASDs).",
+    "The page describes RASDs as teleoperated, software-controlled systems that help qualified practitioners position and control surgical instruments in open, minimally invasive or endoluminal procedures; the stated goal is consistent submissions and efficient review.",
+    "The page lists 24 November 2026 as the \"Submit Comments by\" date and says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布机器人辅助手术器械的上市前提交指南草案",
+   "sum": "2026年9月,FDA发布了指南草案《Robotically-Assisted Surgical Devices - Premarket Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2026-N-9505。发布部门为CDRH,页面显示的发布日期为2026年9月24日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件载有关于某些机器人辅助手术器械(RASD)上市前提交的非临床测试、临床数据和标签的建议草案。",
+    "页面将RASD描述为协助合格医务人员在开放、微创或腔内手术中定位和控制手术器械的远程操作、软件控制系统;所述目标是使提交一致、审评高效。",
+    "页面将提交意见的截止日期标为2026年11月24日,并载明可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、ロボット支援手術機器の市販前提出に関するガイダンス案を発行",
+   "sum": "2026年9月、FDAはガイダンス案「Robotically-Assisted Surgical Devices - Premarket Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2026-N-9505です。発行部署はCDRHで、ページの掲載日は2026年9月24日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "一部のロボット支援手術機器(RASD)の市販前提出について、非臨床試験、臨床データ、表示に関する推奨事項の案を示しています。",
+    "ページはRASDを、資格ある医療従事者が開腹・低侵襲・管腔内手術で手術器具の位置決めと制御を行うのを助ける遠隔操作・ソフトウェア制御のシステムと説明しており、目的は提出の一貫性と審査の効率です。",
+    "ページには意見提出期限が2026年11月24日と表示され、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — presentaciones previas a la comercialización de productos quirúrgicos asistidos por robot",
+   "sum": "En septiembre de 2026, la FDA publicó el borrador de guía «Robotically-Assisted Surgical Devices - Premarket Submissions».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2026-N-9505. La oficina emisora es CDRH y la página muestra como fecha de publicación el 24 de septiembre de 2026. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Contiene recomendaciones preliminares sobre ensayos no clínicos, datos clínicos y etiquetado para las presentaciones previas a la comercialización de determinados productos quirúrgicos asistidos por robot (RASD).",
+    "La página describe los RASD como sistemas teleoperados y controlados por software que ayudan a profesionales cualificados a posicionar y controlar instrumentos quirúrgicos en procedimientos abiertos, mínimamente invasivos o endoluminales; el objetivo declarado es la coherencia de las presentaciones y la eficiencia de la revisión.",
+    "La página indica el 24 de noviembre de 2026 como fecha límite de comentarios y señala que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — submissões pré-comercialização de dispositivos cirúrgicos assistidos por robô",
+   "sum": "Em setembro de 2026, a FDA publicou o projeto de orientação «Robotically-Assisted Surgical Devices - Premarket Submissions».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2026-N-9505. O gabinete emissor é CDRH e a página mostra como data de publicação 24 de setembro de 2026. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Contém recomendações preliminares sobre ensaios não clínicos, dados clínicos e rotulagem para as submissões pré-comercialização de determinados dispositivos cirúrgicos assistidos por robô (RASD).",
+    "A página descreve os RASD como sistemas teleoperados e controlados por software que ajudam profissionais qualificados a posicionar e controlar instrumentos cirúrgicos em procedimentos abertos, minimamente invasivos ou endoluminais; o objetivo declarado é a coerência das submissões e a eficiência da avaliação.",
+    "A página indica 24 de novembro de 2026 como data-limite para comentários e refere que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — предрыночные заявки на роботизированные хирургические изделия",
+   "sum": "В сентябре 2026 года FDA опубликовало проект руководства «Robotically-Assisted Surgical Devices - Premarket Submissions».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2026-N-9505. Выпускающее подразделение — CDRH, на странице указана дата публикации 24 сентября 2026 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "Содержит проект рекомендаций по доклиническим испытаниям, клиническим данным и маркировке для предрыночных заявок на отдельные роботизированные хирургические изделия (RASD).",
+    "На странице RASD описаны как дистанционно управляемые системы с программным управлением, помогающие квалифицированным специалистам позиционировать и контролировать хирургические инструменты при открытых, минимально инвазивных или эндолюминальных вмешательствах; заявленная цель — единообразие заявок и эффективность рассмотрения.",
+    "На странице указана дата подачи комментариев — 24 ноября 2026 года — и сказано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — soumissions préalables à la mise sur le marché de dispositifs chirurgicaux assistés par robot",
+   "sum": "En septembre 2026, la FDA a publié le projet de ligne directrice « Robotically-Assisted Surgical Devices - Premarket Submissions ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2026-N-9505. Le bureau émetteur est CDRH et la page indique comme date de publication le 24 septembre 2026. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il contient des recommandations préliminaires sur les essais non cliniques, les données cliniques et l'étiquetage pour les soumissions préalables à la mise sur le marché de certains dispositifs chirurgicaux assistés par robot (RASD).",
+    "La page décrit les RASD comme des systèmes téléopérés et contrôlés par logiciel qui aident des praticiens qualifiés à positionner et à contrôler des instruments chirurgicaux lors d'interventions ouvertes, mini-invasives ou endoluminales ; l'objectif déclaré est la cohérence des soumissions et l'efficacité de l'examen.",
+    "La page indique le 24 novembre 2026 comme date limite des commentaires et précise que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Premarket-Einreichungen für robotergestützte chirurgische Produkte",
+   "sum": "Im September 2026 hat die FDA den Leitfadenentwurf „Robotically-Assisted Surgical Devices - Premarket Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2026-N-9505. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 24. September 2026. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er enthält Empfehlungsentwürfe zu nichtklinischen Prüfungen, klinischen Daten und Kennzeichnung für Premarket-Einreichungen für bestimmte robotergestützte chirurgische Produkte (RASD).",
+    "Die Seite beschreibt RASD als ferngesteuerte, softwaregesteuerte Systeme, die qualifizierte Fachleute bei der Positionierung und Steuerung chirurgischer Instrumente in offenen, minimalinvasiven oder endoluminalen Eingriffen unterstützen; das angegebene Ziel sind einheitliche Einreichungen und eine effiziente Prüfung.",
+    "Die Seite nennt den 24. November 2026 als Kommentarfrist und gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/robotically-assisted-surgical-devices-premarket-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-19704",
+    "Federal Register notice 2026-19704",
+    "https://www.federalregister.gov/d/2026-19704",
+    {
+     "zh": "联邦公报公告 2026-19704",
+     "ja": "連邦官報告示 2026-19704",
+     "es": "Aviso del Registro Federal 2026-19704",
+     "pt": "Aviso do Federal Register 2026-19704",
+     "ru": "Уведомление в Federal Register 2026-19704",
+     "fr": "Avis du Federal Register 2026-19704",
+     "de": "Bekanntmachung im Federal Register 2026-19704"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-pma-electronic-template-draft",
+  "date": "2026-09-17",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 시판 전 승인(PMA) 신청서 전자 제출 템플릿 가이던스 초안 발간",
+   "sum": "FDA가 2026년 9월 「Electronic Submission Template for Premarket Approval Applications (PMA)」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2026-D-9429입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2026년 9월 17일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "PMA와 일부 PMA 보충 신청서를 제출하는 사람을 대상으로, 전자 PMA 제출에 쓸 수 있는 현재의 공개 자료를 안내합니다.",
+    "FDA의 전자 제출 템플릿으로 가는 한 단계로 설명되며, 최종 확정되면 추가 전자 형식 표준, 그 일정, 면제·유예 기준을 정하게 된다고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on the electronic submission template for PMA applications",
+   "sum": "In September 2026 FDA posted the draft guidance \"Electronic Submission Template for Premarket Approval Applications (PMA)\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2026-D-9429. The issuing office is CDRH and CBER and the page shows a posting date of 17 September 2026. The page states it is not for implementation and contains non-binding recommendations.",
+    "It is for submitters of PMAs and certain PMA supplements and points them to current public resources for electronic PMA submissions.",
+    "It is described as one step toward FDA's electronic submission templates; the page states that, once finalized, it would set further electronic-format standards, a timetable for them, and criteria for waivers and exemptions.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布PMA申请的电子提交模板指南草案",
+   "sum": "2026年9月,FDA发布了指南草案《Electronic Submission Template for Premarket Approval Applications (PMA)》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2026-D-9429。发布部门为CDRH和CBER,页面显示的发布日期为2026年9月17日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件面向PMA及部分PMA补充申请的提交者,指引其了解电子PMA提交的现有公开资源。",
+    "文件被描述为迈向FDA电子提交模板的一步;页面载明,定稿后将确定进一步的电子格式标准、其时间表以及豁免和免除标准。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、PMA申請の電子提出テンプレートに関するガイダンス案を発行",
+   "sum": "2026年9月、FDAはガイダンス案「Electronic Submission Template for Premarket Approval Applications (PMA)」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2026-D-9429です。発行部署はCDRHとCBERで、ページの掲載日は2026年9月17日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "PMAと一部のPMA補足申請の提出者を対象に、電子PMA提出に使える現行の公開資料を案内しています。",
+    "FDAの電子提出テンプレートへの一歩と説明されており、最終化されると、追加の電子形式標準、その時期、免除・適用除外の基準を定めると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — la plantilla de presentación electrónica de solicitudes PMA",
+   "sum": "En septiembre de 2026, la FDA publicó el borrador de guía «Electronic Submission Template for Premarket Approval Applications (PMA)».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2026-D-9429. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 17 de septiembre de 2026. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Está dirigido a quienes presentan PMA y determinados suplementos de PMA y los remite a los recursos públicos vigentes para las presentaciones electrónicas de PMA.",
+    "Se describe como un paso hacia las plantillas de presentación electrónica de la FDA; la página indica que, una vez finalizada, establecería nuevas normas de formato electrónico, un calendario y criterios de dispensa y exención.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — o modelo de submissão eletrónica de pedidos PMA",
+   "sum": "Em setembro de 2026, a FDA publicou o projeto de orientação «Electronic Submission Template for Premarket Approval Applications (PMA)».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2026-D-9429. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 17 de setembro de 2026. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Destina-se a quem apresenta PMA e determinados suplementos de PMA e remete para os recursos públicos atuais para as submissões eletrónicas de PMA.",
+    "É descrito como um passo para os modelos de submissão eletrónica da FDA; a página indica que, depois de finalizado, estabeleceria novas normas de formato eletrónico, um calendário e critérios de dispensa e isenção.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — шаблон электронной подачи заявок PMA",
+   "sum": "В сентябре 2026 года FDA опубликовало проект руководства «Electronic Submission Template for Premarket Approval Applications (PMA)».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2026-D-9429. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 17 сентября 2026 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "Он адресован лицам, подающим PMA и отдельные дополнения к PMA, и указывает действующие общедоступные ресурсы для электронной подачи PMA.",
+    "Он описан как один из шагов к шаблонам электронной подачи FDA; на странице указано, что после утверждения он установит дополнительные стандарты электронного формата, график их введения и критерии освобождений и изъятий.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — le modèle de soumission électronique des demandes PMA",
+   "sum": "En septembre 2026, la FDA a publié le projet de ligne directrice « Electronic Submission Template for Premarket Approval Applications (PMA) ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2026-D-9429. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 17 septembre 2026. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il s'adresse aux soumissionnaires de PMA et de certains suppléments de PMA et les renvoie aux ressources publiques actuelles pour les soumissions électroniques de PMA.",
+    "Il est décrit comme une étape vers les modèles de soumission électronique de la FDA ; la page indique qu'une fois finalisé, il fixerait de nouvelles normes de format électronique, un calendrier et des critères de dérogation et d'exemption.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — die elektronische Einreichungsvorlage für PMA-Anträge",
+   "sum": "Im September 2026 hat die FDA den Leitfadenentwurf „Electronic Submission Template for Premarket Approval Applications (PMA)“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2026-D-9429. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 17. September 2026. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er richtet sich an Einreicher von PMA und bestimmten PMA-Ergänzungen und verweist auf aktuelle öffentliche Ressourcen für elektronische PMA-Einreichungen.",
+    "Er wird als ein Schritt hin zu den elektronischen Einreichungsvorlagen der FDA beschrieben; die Seite gibt an, dass er nach Fertigstellung weitere Standards für das elektronische Format, einen Zeitplan und Kriterien für Verzichte und Ausnahmen festlegen würde.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-premarket-approval-applications-pma",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-19181",
+    "Federal Register notice 2026-19181",
+    "https://www.federalregister.gov/d/2026-19181",
+    {
+     "zh": "联邦公报公告 2026-19181",
+     "ja": "連邦官報告示 2026-19181",
+     "es": "Aviso del Registro Federal 2026-19181",
+     "pt": "Aviso do Federal Register 2026-19181",
+     "ru": "Уведомление в Federal Register 2026-19181",
+     "fr": "Avis du Federal Register 2026-19181",
+     "de": "Bekanntmachung im Federal Register 2026-19181"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-dental-composite-resin-510k",
+  "date": "2026-09-01",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 치과용 복합레진 기기 510(k) 제출 최종 가이던스 발간",
+   "sum": "FDA가 2026년 9월 「Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-2511입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 9월 1일입니다.",
+    "치과용 복합레진 기기의 시판 전 제출에 대해 기기 설명, 비임상 성능 시험, 임상 성능 시험, 표시기재에 관한 FDA의 권고를 담고 있습니다.",
+    "페이지는 이 권고가 현재의 심사 관행을 반영하며 일관되고 효율적인 심사를 목표로 한다고 설명합니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on 510(k) submissions for dental composite resin devices",
+   "sum": "In September 2026 FDA posted the final guidance \"Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-2511. The issuing office is CDRH and the page shows a posting date of 1 September 2026.",
+    "It gives FDA's recommendations on device description, non-clinical performance testing, clinical performance testing and labeling for premarket submissions for dental composite resin devices.",
+    "The page says the recommendations reflect current review practices and aim for consistent, efficient review.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布牙科复合树脂器械的510(k)提交最终指南",
+   "sum": "2026年9月,FDA发布了最终指南《Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-2511。发布部门为CDRH,页面显示的发布日期为2026年9月1日。",
+    "文件给出了FDA关于牙科复合树脂器械上市前提交的器械描述、非临床性能测试、临床性能测试和标签的建议。",
+    "页面称这些建议反映了当前的审评实践,旨在实现一致、高效的审评。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、歯科用コンポジットレジン機器の510(k)提出に関する最終ガイダンスを発行",
+   "sum": "2026年9月、FDAは最終ガイダンス「Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-2511です。発行部署はCDRHで、ページの掲載日は2026年9月1日です。",
+    "歯科用コンポジットレジン機器の市販前提出について、機器の説明、非臨床性能試験、臨床性能試験、表示に関するFDAの推奨事項を示しています。",
+    "ページは、この推奨事項が現行の審査実務を反映しており、一貫した効率的な審査を目指すと説明しています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — presentaciones 510(k) de productos de resina compuesta dental",
+   "sum": "En septiembre de 2026, la FDA publicó la guía final «Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-2511. La oficina emisora es CDRH y la página muestra como fecha de publicación el 1 de septiembre de 2026.",
+    "Ofrece las recomendaciones de la FDA sobre la descripción del producto, los ensayos de rendimiento no clínicos, los ensayos de rendimiento clínicos y el etiquetado para las presentaciones previas a la comercialización de productos de resina compuesta dental.",
+    "La página indica que las recomendaciones reflejan las prácticas de revisión actuales y buscan una revisión coherente y eficiente.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — submissões 510(k) de dispositivos de resina composta dentária",
+   "sum": "Em setembro de 2026, a FDA publicou a orientação final «Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-2511. O gabinete emissor é CDRH e a página mostra como data de publicação 1 de setembro de 2026.",
+    "Apresenta as recomendações da FDA sobre a descrição do dispositivo, os ensaios de desempenho não clínicos, os ensaios de desempenho clínicos e a rotulagem para as submissões pré-comercialização de dispositivos de resina composta dentária.",
+    "A página indica que as recomendações refletem as práticas de avaliação atuais e visam uma avaliação coerente e eficiente.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — заявки 510(k) на стоматологические композитные смолы",
+   "sum": "В сентябре 2026 года FDA опубликовало окончательное руководство «Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2024-D-2511. Выпускающее подразделение — CDRH, на странице указана дата публикации 1 сентября 2026 года.",
+    "В нём изложены рекомендации FDA по описанию изделия, доклиническим и клиническим испытаниям характеристик и маркировке для предрыночных заявок на стоматологические композитные смолы.",
+    "На странице сказано, что рекомендации отражают текущую практику рассмотрения и направлены на единообразное и эффективное рассмотрение.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — soumissions 510(k) des dispositifs en résine composite dentaire",
+   "sum": "En septembre 2026, la FDA a publié la ligne directrice finale « Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-2511. Le bureau émetteur est CDRH et la page indique comme date de publication le 1 septembre 2026.",
+    "Il présente les recommandations de la FDA sur la description du dispositif, les essais de performance non cliniques, les essais de performance cliniques et l'étiquetage pour les soumissions préalables à la mise sur le marché des dispositifs en résine composite dentaire.",
+    "La page indique que les recommandations reflètent les pratiques d'examen actuelles et visent un examen cohérent et efficace.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — 510(k)-Einreichungen für zahnärztliche Komposit-Kunststoffprodukte",
+   "sum": "Im September 2026 hat die FDA den endgültigen Leitfaden „Dental Composite Resin Devices - Premarket Notification (510(k)) Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-2511. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 1. September 2026.",
+    "Er enthält die Empfehlungen der FDA zu Produktbeschreibung, nichtklinischer Leistungsprüfung, klinischer Leistungsprüfung und Kennzeichnung für Premarket-Einreichungen für zahnärztliche Komposit-Kunststoffprodukte.",
+    "Die Seite gibt an, dass die Empfehlungen die aktuelle Prüfpraxis widerspiegeln und auf eine einheitliche, effiziente Prüfung abzielen.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-composite-resin-devices-premarket-notification-510k-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-17933",
+    "Federal Register notice 2026-17933",
+    "https://www.federalregister.gov/d/2026-17933",
+    {
+     "zh": "联邦公报公告 2026-17933",
+     "ja": "連邦官報告示 2026-17933",
+     "es": "Aviso del Registro Federal 2026-17933",
+     "pt": "Aviso do Federal Register 2026-17933",
+     "ru": "Уведомление в Federal Register 2026-17933",
+     "fr": "Avis du Federal Register 2026-17933",
+     "de": "Bekanntmachung im Federal Register 2026-17933"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-dental-curing-lights-510k",
+  "date": "2026-09-01",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 치과용 광중합기 510(k) 제출 최종 가이던스 발간",
+   "sum": "FDA가 2026년 9월 「Dental Curing Lights - Premarket Notification (510(k)) Submissions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-2512입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 9월 1일입니다.",
+    "치과용 광중합기의 510(k) 시판 전 신고 제출에 대해 기기 설명, 성능 시험, 표시기재에 관한 FDA의 권고를 담고 있습니다.",
+    "페이지는 이 기기를 수지계 치아 홈 메우기 재료나 수복 재료를 중합(경화)시키려는 용도로 설명하며, 권고는 일관되고 효율적인 심사를 높이려는 것입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on 510(k) submissions for dental curing lights",
+   "sum": "In September 2026 FDA posted the final guidance \"Dental Curing Lights - Premarket Notification (510(k)) Submissions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-2512. The issuing office is CDRH and the page shows a posting date of 1 September 2026.",
+    "It gives FDA's recommendations on device description, performance testing and labeling for premarket notification (510(k)) submissions for dental curing lights.",
+    "The page describes these devices as intended to polymerize (set) resinous dental pit and fissure sealants or restorative materials; the recommendations are meant to promote consistent, efficient review.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布牙科光固化灯的510(k)提交最终指南",
+   "sum": "2026年9月,FDA发布了最终指南《Dental Curing Lights - Premarket Notification (510(k)) Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-2512。发布部门为CDRH,页面显示的发布日期为2026年9月1日。",
+    "文件给出了FDA关于牙科光固化灯510(k)上市前通知提交的器械描述、性能测试和标签的建议。",
+    "页面将这些器械描述为用于使树脂类牙窝沟封闭剂或修复材料聚合(固化);这些建议旨在促进一致、高效的审评。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、歯科用光重合器の510(k)提出に関する最終ガイダンスを発行",
+   "sum": "2026年9月、FDAは最終ガイダンス「Dental Curing Lights - Premarket Notification (510(k)) Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-2512です。発行部署はCDRHで、ページの掲載日は2026年9月1日です。",
+    "歯科用光重合器の510(k)市販前届出の提出について、機器の説明、性能試験、表示に関するFDAの推奨事項を示しています。",
+    "ページはこれらの機器を、樹脂系の小窩裂溝填塞材や修復材料を重合(硬化)させる用途のものと説明しており、推奨事項は一貫した効率的な審査を促すためのものです。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — presentaciones 510(k) de lámparas de fotopolimerización dental",
+   "sum": "En septiembre de 2026, la FDA publicó la guía final «Dental Curing Lights - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-2512. La oficina emisora es CDRH y la página muestra como fecha de publicación el 1 de septiembre de 2026.",
+    "Ofrece las recomendaciones de la FDA sobre la descripción del producto, los ensayos de rendimiento y el etiquetado para las presentaciones de notificación previa a la comercialización (510(k)) de lámparas de fotopolimerización dental.",
+    "La página describe estos productos como destinados a polimerizar (fraguar) selladores de fosas y fisuras o materiales restauradores dentales de tipo resinoso; las recomendaciones buscan promover una revisión coherente y eficiente.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — submissões 510(k) de lâmpadas de fotopolimerização dentária",
+   "sum": "Em setembro de 2026, a FDA publicou a orientação final «Dental Curing Lights - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-2512. O gabinete emissor é CDRH e a página mostra como data de publicação 1 de setembro de 2026.",
+    "Apresenta as recomendações da FDA sobre a descrição do dispositivo, os ensaios de desempenho e a rotulagem para as submissões de notificação pré-comercialização (510(k)) de lâmpadas de fotopolimerização dentária.",
+    "A página descreve estes dispositivos como destinados a polimerizar (endurecer) selantes de fossas e fissuras ou materiais restauradores dentários resinosos; as recomendações visam promover uma avaliação coerente e eficiente.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — заявки 510(k) на стоматологические полимеризационные лампы",
+   "sum": "В сентябре 2026 года FDA опубликовало окончательное руководство «Dental Curing Lights - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2024-D-2512. Выпускающее подразделение — CDRH, на странице указана дата публикации 1 сентября 2026 года.",
+    "В нём изложены рекомендации FDA по описанию изделия, испытаниям характеристик и маркировке для предрыночных уведомлений (510(k)) на стоматологические полимеризационные лампы.",
+    "На странице эти изделия описаны как предназначенные для полимеризации (отверждения) смоляных стоматологических герметиков для фиссур и ямок или реставрационных материалов; рекомендации направлены на единообразное и эффективное рассмотрение.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — soumissions 510(k) des lampes à photopolymériser dentaires",
+   "sum": "En septembre 2026, la FDA a publié la ligne directrice finale « Dental Curing Lights - Premarket Notification (510(k)) Submissions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-2512. Le bureau émetteur est CDRH et la page indique comme date de publication le 1 septembre 2026.",
+    "Il présente les recommandations de la FDA sur la description du dispositif, les essais de performance et l'étiquetage pour les soumissions de notification préalable à la mise sur le marché (510(k)) des lampes à photopolymériser dentaires.",
+    "La page décrit ces dispositifs comme destinés à polymériser (faire durcir) des produits résineux de scellement des puits et fissures ou des matériaux de restauration dentaires ; les recommandations visent à favoriser un examen cohérent et efficace.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — 510(k)-Einreichungen für zahnärztliche Polymerisationslampen",
+   "sum": "Im September 2026 hat die FDA den endgültigen Leitfaden „Dental Curing Lights - Premarket Notification (510(k)) Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-2512. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 1. September 2026.",
+    "Er enthält die Empfehlungen der FDA zu Produktbeschreibung, Leistungsprüfung und Kennzeichnung für Premarket-Notification-(510(k))-Einreichungen für zahnärztliche Polymerisationslampen.",
+    "Die Seite beschreibt diese Produkte als dafür bestimmt, harzbasierte zahnärztliche Fissurenversiegler oder Restaurationsmaterialien zu polymerisieren (aushärten); die Empfehlungen sollen eine einheitliche, effiziente Prüfung fördern.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/dental-curing-lights-premarket-notification-510k-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-17933",
+    "Federal Register notice 2026-17933",
+    "https://www.federalregister.gov/d/2026-17933",
+    {
+     "zh": "联邦公报公告 2026-17933",
+     "ja": "連邦官報告示 2026-17933",
+     "es": "Aviso del Registro Federal 2026-17933",
+     "pt": "Aviso do Federal Register 2026-17933",
+     "ru": "Уведомление в Federal Register 2026-17933",
+     "fr": "Avis du Federal Register 2026-17933",
+     "de": "Bekanntmachung im Federal Register 2026-17933"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-human-factors-final",
+  "date": "2026-08-03",
+  "region": "us",
+  "svc": "usability",
+  "ko": {
+   "title": "FDA, 의료기기에 인적요인·사용적합성 공학 적용 최종 가이던스 발간",
+   "sum": "FDA가 2026년 8월 「Applying Human Factors and Usability Engineering to Medical Devices」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2011-D-0469입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 8월 3일입니다.",
+    "산업계가 적절한 인적요인·사용적합성 공학 절차를 따라, 신규 의료기기가 의도된 사용자, 용도, 사용 환경에서 안전하고 효과적이도록 돕는 FDA의 권고를 담고 있습니다.",
+    "제조업체가 기기 설계를 개선해 사용 오류와 그로 인한 위해 가능성을 줄이고, 사용 관련 위험을 평가·저감하도록 돕는 것이 목표로 적혀 있습니다. 페이지는 이전 가이던스 대체 여부를 밝히지 않습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on applying human factors and usability engineering to medical devices",
+   "sum": "In August 2026 FDA posted the final guidance \"Applying Human Factors and Usability Engineering to Medical Devices\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2011-D-0469. The issuing office is CDRH and the page shows a posting date of 3 August 2026.",
+    "It gives FDA's recommendations to help industry follow appropriate human factors and usability engineering processes so that new medical devices are safe and effective for their intended users, uses and use environments.",
+    "Its stated aims are to help manufacturers improve device design to reduce potential use errors and the harm they can cause, and to assess and reduce use-related risks. The page does not say whether it replaces an earlier guidance.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布在医疗器械中应用人因与可用性工程最终指南",
+   "sum": "2026年8月,FDA发布了最终指南《Applying Human Factors and Usability Engineering to Medical Devices》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2011-D-0469。发布部门为CDRH,页面显示的发布日期为2026年8月3日。",
+    "文件给出了FDA的建议,帮助行业遵循适当的人因与可用性工程流程,使新医疗器械对预期用户、用途和使用环境安全有效。",
+    "所述目标是帮助生产企业改进器械设计,减少潜在使用错误及其可能造成的伤害,并评估和降低与使用相关的风险。页面未说明是否取代此前的指南。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器へのヒューマンファクターとユーザビリティエンジニアリングの適用に関する最終ガイダンスを発行",
+   "sum": "2026年8月、FDAは最終ガイダンス「Applying Human Factors and Usability Engineering to Medical Devices」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2011-D-0469です。発行部署はCDRHで、ページの掲載日は2026年8月3日です。",
+    "産業界が適切なヒューマンファクター及びユーザビリティエンジニアリングのプロセスに従い、新しい医療機器が意図された使用者、用途、使用環境で安全かつ有効となるよう支援するFDAの推奨事項を示しています。",
+    "記載された目的は、製造業者が機器設計を改善して使用エラーとそれによる危害の可能性を減らし、使用関連リスクを評価・低減するのを助けることです。ページは以前のガイダンスを置き換えるかどうかを明記していません。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — la aplicación de factores humanos e ingeniería de usabilidad a los productos sanitarios",
+   "sum": "En agosto de 2026, la FDA publicó la guía final «Applying Human Factors and Usability Engineering to Medical Devices».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2011-D-0469. La oficina emisora es CDRH y la página muestra como fecha de publicación el 3 de agosto de 2026.",
+    "Ofrece las recomendaciones de la FDA para ayudar a la industria a seguir procesos adecuados de factores humanos e ingeniería de usabilidad, de modo que los productos sanitarios nuevos sean seguros y eficaces para sus usuarios, usos y entornos de uso previstos.",
+    "Sus objetivos declarados son ayudar a los fabricantes a mejorar el diseño del producto para reducir los posibles errores de uso y el daño que pueden causar, y evaluar y reducir los riesgos relacionados con el uso. La página no indica si sustituye a una guía anterior.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — a aplicação de fatores humanos e engenharia de usabilidade a dispositivos médicos",
+   "sum": "Em agosto de 2026, a FDA publicou a orientação final «Applying Human Factors and Usability Engineering to Medical Devices».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2011-D-0469. O gabinete emissor é CDRH e a página mostra como data de publicação 3 de agosto de 2026.",
+    "Apresenta as recomendações da FDA para ajudar a indústria a seguir processos adequados de fatores humanos e engenharia de usabilidade, de modo que os novos dispositivos médicos sejam seguros e eficazes para os seus utilizadores, usos e ambientes de utilização previstos.",
+    "Os seus objetivos declarados são ajudar os fabricantes a melhorar a conceção do dispositivo para reduzir os potenciais erros de utilização e os danos que podem causar, e avaliar e reduzir os riscos relacionados com a utilização. A página não indica se substitui uma orientação anterior.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — применение человеческого фактора и инженерии применимости к медицинским изделиям",
+   "sum": "В августе 2026 года FDA опубликовало окончательное руководство «Applying Human Factors and Usability Engineering to Medical Devices».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2011-D-0469. Выпускающее подразделение — CDRH, на странице указана дата публикации 3 августа 2026 года.",
+    "В нём изложены рекомендации FDA, помогающие отрасли следовать надлежащим процессам учёта человеческого фактора и инженерии применимости, чтобы новые медицинские изделия были безопасными и эффективными для предполагаемых пользователей, видов применения и сред использования.",
+    "Заявленные цели — помочь производителям улучшить конструкцию изделий, чтобы снизить вероятность ошибок использования и вызываемого ими вреда, а также оценивать и снижать риски, связанные с использованием. На странице не указано, заменяет ли документ более раннее руководство.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — l'application des facteurs humains et de l'ingénierie de l'aptitude à l'utilisation aux dispositifs médicaux",
+   "sum": "En août 2026, la FDA a publié la ligne directrice finale « Applying Human Factors and Usability Engineering to Medical Devices ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2011-D-0469. Le bureau émetteur est CDRH et la page indique comme date de publication le 3 août 2026.",
+    "Il présente les recommandations de la FDA pour aider l'industrie à suivre des processus appropriés de facteurs humains et d'ingénierie de l'aptitude à l'utilisation, afin que les nouveaux dispositifs médicaux soient sûrs et efficaces pour leurs utilisateurs, usages et environnements d'utilisation prévus.",
+    "Ses objectifs déclarés sont d'aider les fabricants à améliorer la conception du dispositif pour réduire les erreurs d'utilisation potentielles et les préjudices qu'elles peuvent causer, et à évaluer et réduire les risques liés à l'utilisation. La page n'indique pas s'il remplace une ligne directrice antérieure.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — die Anwendung von Human Factors und Usability Engineering auf Medizinprodukte",
+   "sum": "Im August 2026 hat die FDA den endgültigen Leitfaden „Applying Human Factors and Usability Engineering to Medical Devices“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2011-D-0469. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 3. August 2026.",
+    "Er enthält die Empfehlungen der FDA, die der Industrie helfen sollen, geeignete Human-Factors- und Usability-Engineering-Prozesse zu befolgen, damit neue Medizinprodukte für ihre vorgesehenen Benutzer, Verwendungen und Anwendungsumgebungen sicher und wirksam sind.",
+    "Die angegebenen Ziele sind, Herstellern zu helfen, das Produktdesign zu verbessern, um potenzielle Anwendungsfehler und den dadurch möglichen Schaden zu verringern, sowie anwendungsbezogene Risiken zu bewerten und zu mindern. Die Seite gibt nicht an, ob er einen früheren Leitfaden ersetzt.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2011-D-0469 (regulations.gov)",
+    "Regulations.gov docket FDA-2011-D-0469",
+    "https://www.regulations.gov/docket/FDA-2011-D-0469",
+    {
+     "zh": "Regulations.gov档案 FDA-2011-D-0469",
+     "ja": "Regulations.govドケット FDA-2011-D-0469",
+     "es": "Expediente de Regulations.gov FDA-2011-D-0469",
+     "pt": "Processo do Regulations.gov FDA-2011-D-0469",
+     "ru": "Досье Regulations.gov FDA-2011-D-0469",
+     "fr": "Dossier Regulations.gov FDA-2011-D-0469",
+     "de": "Regulations.gov-Verfahren FDA-2011-D-0469"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-hemodialysis-tubing-510k",
+  "date": "2026-07-23",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 혈액투석 혈액 튜빙 세트 510(k) 제출 최종 가이던스 발간",
+   "sum": "FDA가 2026년 7월 「Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2026-D-1877입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 7월 23일입니다.",
+    "혈액투석 혈액 튜빙 세트의 510(k) 제출에 포함할 시험과 표시기재에 관한 FDA의 권고를 담고 있습니다.",
+    "적힌 목적은 이러한 제출의 일관성을 높이고 심사를 더 효율적으로 하는 것입니다. 페이지는 시행일이나 이전 가이던스 대체 여부를 밝히지 않습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on 510(k) submissions for hemodialysis blood tubing sets",
+   "sum": "In July 2026 FDA posted the final guidance \"Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2026-D-1877. The issuing office is CDRH and the page shows a posting date of 23 July 2026.",
+    "It gives FDA's recommendations on testing and labeling to include in a 510(k) submission for hemodialysis blood tubing sets.",
+    "The stated aim is consistency and more efficient review of these submissions. The page does not state an effective date or whether it replaces an earlier guidance.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布血液透析血路管路套件的510(k)提交最终指南",
+   "sum": "2026年7月,FDA发布了最终指南《Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2026-D-1877。发布部门为CDRH,页面显示的发布日期为2026年7月23日。",
+    "文件给出了FDA关于血液透析血路管路套件510(k)提交中应包含的测试和标签的建议。",
+    "所述目的是使此类提交更一致、审评更高效。页面未说明生效日期或是否取代此前的指南。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、血液透析用血液回路セットの510(k)提出に関する最終ガイダンスを発行",
+   "sum": "2026年7月、FDAは最終ガイダンス「Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2026-D-1877です。発行部署はCDRHで、ページの掲載日は2026年7月23日です。",
+    "血液透析用血液回路セットの510(k)提出に含めるべき試験と表示に関するFDAの推奨事項を示しています。",
+    "記載された目的は、これらの提出の一貫性を高め、審査をより効率的にすることです。ページは施行日や以前のガイダンスを置き換えるかどうかを明記していません。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — presentaciones 510(k) de sets de líneas sanguíneas de hemodiálisis",
+   "sum": "En julio de 2026, la FDA publicó la guía final «Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2026-D-1877. La oficina emisora es CDRH y la página muestra como fecha de publicación el 23 de julio de 2026.",
+    "Ofrece las recomendaciones de la FDA sobre los ensayos y el etiquetado que deben incluirse en una presentación 510(k) de sets de líneas sanguíneas de hemodiálisis.",
+    "El objetivo declarado es la coherencia y una revisión más eficiente de estas presentaciones. La página no indica una fecha de entrada en vigor ni si sustituye a una guía anterior.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — submissões 510(k) de conjuntos de linhas de sangue de hemodiálise",
+   "sum": "Em julho de 2026, a FDA publicou a orientação final «Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2026-D-1877. O gabinete emissor é CDRH e a página mostra como data de publicação 23 de julho de 2026.",
+    "Apresenta as recomendações da FDA sobre os ensaios e a rotulagem a incluir numa submissão 510(k) de conjuntos de linhas de sangue de hemodiálise.",
+    "O objetivo declarado é a coerência e uma avaliação mais eficiente destas submissões. A página não indica uma data de entrada em vigor nem se substitui uma orientação anterior.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — заявки 510(k) на наборы кровопроводящих магистралей для гемодиализа",
+   "sum": "В июле 2026 года FDA опубликовало окончательное руководство «Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2026-D-1877. Выпускающее подразделение — CDRH, на странице указана дата публикации 23 июля 2026 года.",
+    "В нём изложены рекомендации FDA по испытаниям и маркировке, которые следует включить в заявку 510(k) на наборы кровопроводящих магистралей для гемодиализа.",
+    "Заявленная цель — единообразие и более эффективное рассмотрение таких заявок. На странице не указаны дата вступления в силу и то, заменяет ли документ более раннее руководство.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — soumissions 510(k) des ensembles de lignes sanguines d'hémodialyse",
+   "sum": "En juillet 2026, la FDA a publié la ligne directrice finale « Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2026-D-1877. Le bureau émetteur est CDRH et la page indique comme date de publication le 23 juillet 2026.",
+    "Il présente les recommandations de la FDA sur les essais et l'étiquetage à inclure dans une soumission 510(k) pour les ensembles de lignes sanguines d'hémodialyse.",
+    "L'objectif déclaré est la cohérence et un examen plus efficace de ces soumissions. La page n'indique ni date d'entrée en vigueur ni s'il remplace une ligne directrice antérieure.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — 510(k)-Einreichungen für Hämodialyse-Blutschlauchsets",
+   "sum": "Im Juli 2026 hat die FDA den endgültigen Leitfaden „Hemodialysis Blood Tubing Sets - Premarket Notification (510(k)) Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2026-D-1877. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 23. Juli 2026.",
+    "Er enthält die Empfehlungen der FDA zu Prüfungen und Kennzeichnung, die in eine 510(k)-Einreichung für Hämodialyse-Blutschlauchsets aufzunehmen sind.",
+    "Das angegebene Ziel sind Einheitlichkeit und eine effizientere Prüfung dieser Einreichungen. Die Seite nennt weder ein Inkrafttretensdatum noch, ob er einen früheren Leitfaden ersetzt.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/hemodialysis-blood-tubing-sets-premarket-notification-510k-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2026-D-1877 (regulations.gov)",
+    "Regulations.gov docket FDA-2026-D-1877",
+    "https://www.regulations.gov/docket/FDA-2026-D-1877",
+    {
+     "zh": "Regulations.gov档案 FDA-2026-D-1877",
+     "ja": "Regulations.govドケット FDA-2026-D-1877",
+     "es": "Expediente de Regulations.gov FDA-2026-D-1877",
+     "pt": "Processo do Regulations.gov FDA-2026-D-1877",
+     "ru": "Досье Regulations.gov FDA-2026-D-1877",
+     "fr": "Dossier Regulations.gov FDA-2026-D-1877",
+     "de": "Regulations.gov-Verfahren FDA-2026-D-1877"
+    }
+   ]
+  ]
  }
 ]
