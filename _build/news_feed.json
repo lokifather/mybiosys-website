@@ -2875,5 +2875,671 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-pma-hde-modular-review-final",
+  "date": "2025-01-13",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 시판 전 승인(PMA) 및 인도적 사용 기기 면제(HDE) 모듈식 심사 최종 가이던스 발간",
+   "sum": "FDA가 2025년 1월 「Premarket Approval Application and Humanitarian Device Exemption Modular Review」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-5332입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 1월 13일입니다.",
+    "PMA와 HDE의 모듈식 심사 프로그램에 대한 정보와, 모듈식 PMA 또는 HDE를 제출하거나 심사하는 절차를 안내합니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on PMA and HDE modular review",
+   "sum": "In January 2025 FDA posted the final guidance \"Premarket Approval Application and Humanitarian Device Exemption Modular Review\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-5332. The issuing office is CDRH and CBER and the page shows a posting date of 13 January 2025.",
+    "It provides information on the PMA and HDE modular review program and on the procedures for submitting or reviewing a modular PMA or HDE.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布上市前批准(PMA)和人道主义器械豁免(HDE)模块化审评最终指南",
+   "sum": "2025年1月,FDA发布了最终指南《Premarket Approval Application and Humanitarian Device Exemption Modular Review》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-5332。发布部门为CDRH和CBER,页面显示的发布日期为2025年1月13日。",
+    "文件介绍了PMA和HDE模块化审评计划,以及提交或审评模块化PMA或HDE的程序。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、市販前承認(PMA)及び人道的使用機器適用除外(HDE)のモジュラーレビューに関する最終ガイダンスを発行",
+   "sum": "2025年1月、FDAは最終ガイダンス「Premarket Approval Application and Humanitarian Device Exemption Modular Review」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-5332です。発行部署はCDRHとCBERで、ページの掲載日は2025年1月13日です。",
+    "PMAとHDEのモジュラーレビュープログラムに関する情報と、モジュラーPMA又はHDEを提出・審査する手順を示しています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Premarket Approval Application and Humanitarian Device Exemption Modular Review",
+   "sum": "En enero de 2025, la FDA publicó la guía final «Premarket Approval Application and Humanitarian Device Exemption Modular Review».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-5332. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 13 de enero de 2025.",
+    "Ofrece información sobre el programa de revisión modular de PMA y HDE y sobre los procedimientos para presentar o revisar una PMA o HDE modular.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Premarket Approval Application and Humanitarian Device Exemption Modular Review",
+   "sum": "Em janeiro de 2025, a FDA publicou a orientação final «Premarket Approval Application and Humanitarian Device Exemption Modular Review».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-5332. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 13 de janeiro de 2025.",
+    "Apresenta informação sobre o programa de avaliação modular de PMA e HDE e sobre os procedimentos para submeter ou avaliar uma PMA ou HDE modular.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Premarket Approval Application and Humanitarian Device Exemption Modular Review",
+   "sum": "В январе 2025 года FDA опубликовало окончательное руководство «Premarket Approval Application and Humanitarian Device Exemption Modular Review».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2024-D-5332. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 13 января 2025 года.",
+    "В документе приведены сведения о программе модульного рассмотрения PMA и HDE и о процедурах подачи и рассмотрения модульной PMA или HDE.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Premarket Approval Application and Humanitarian Device Exemption Modular Review",
+   "sum": "En janvier 2025, la FDA a publié la ligne directrice finale « Premarket Approval Application and Humanitarian Device Exemption Modular Review ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-5332. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 13 janvier 2025.",
+    "Il fournit des informations sur le programme d'examen modulaire des PMA et HDE et sur les procédures de soumission ou d'examen d'une PMA ou HDE modulaire.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Premarket Approval Application and Humanitarian Device Exemption Modular Review",
+   "sum": "Im Januar 2025 hat die FDA den endgültigen Leitfaden „Premarket Approval Application and Humanitarian Device Exemption Modular Review“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-5332. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 13. Januar 2025.",
+    "Er informiert über das modulare Prüfprogramm für PMA und HDE sowie über die Verfahren zur Einreichung oder Prüfung einer modularen PMA oder HDE.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/premarket-approval-application-and-humanitarian-device-exemption-modular-review",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2024-D-5332 (regulations.gov)",
+    "Regulations.gov docket FDA-2024-D-5332",
+    "https://www.regulations.gov/docket/FDA-2024-D-5332",
+    {
+     "zh": "Regulations.gov档案 FDA-2024-D-5332",
+     "ja": "Regulations.govドケット FDA-2024-D-5332",
+     "es": "Expediente de Regulations.gov FDA-2024-D-5332",
+     "pt": "Processo do Regulations.gov FDA-2024-D-5332",
+     "ru": "Досье Regulations.gov FDA-2024-D-5332",
+     "fr": "Dossier Regulations.gov FDA-2024-D-5332",
+     "de": "Regulations.gov-Verfahren FDA-2024-D-5332"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-pulse-oximeters-draft",
+  "date": "2025-06-04",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료용 펄스옥시미터의 비임상·임상 성능시험, 표시사항 및 시판 전 제출 권고 가이던스 초안 발간",
+   "sum": "FDA가 2025년 1월 「Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2023-N-4976입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2025년 6월 4일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "의료용 펄스옥시미터(동맥혈 산소와 맥박수를 추정하는 펄스옥시미터 기능이 있는 기기 포함)의 시판 전 제출을 위한 비임상·임상 성능시험과 표시사항 권고를 담고 있습니다.",
+    "페이지는 이 권고가 일부 요인, 그중에서도 피부 색소 등에 따라 펄스옥시미터의 정확도가 영향을 받을 수 있다는 우려에 근거한다고 적고 있으며, 제출 유형과 관계없이 성능 평가에 활용하고 일관되고 효율적인 심사를 도모하는 것이 목적이라고 밝힙니다. 페이지의 문서 표기는 2025년 1월이고 게시 메타데이터 날짜는 2025년 6월 4일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on pulse oximeters for medical purposes: performance testing, labeling and premarket submission recommendations",
+   "sum": "In January 2025 FDA posted the draft guidance \"Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2023-N-4976. The issuing office is CDRH and the page shows a posting date of 4 June 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It gives recommendations on non-clinical and clinical performance testing and on labeling for premarket submissions for pulse oximeters for medical purposes, including devices with a pulse oximeter function that estimates arterial blood oxygen and pulse rate.",
+    "The page says the recommendations are based partly on concerns that pulse oximeter accuracy can be affected by factors including skin pigmentation, and that they are meant to inform performance evaluation regardless of submission type and to promote consistent and efficient review. The page's document line reads January 2025, while its publication metadata date is 4 June 2025.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医用脉搏血氧仪的非临床和临床性能测试、标签及上市前提交建议指南草案",
+   "sum": "2025年1月,FDA发布了指南草案《Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2023-N-4976。发布部门为CDRH,页面显示的发布日期为2025年6月4日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件给出了医用脉搏血氧仪(包括具有估算动脉血氧和脉率的脉搏血氧功能的器械)上市前提交所需的非临床和临床性能测试及标签建议。",
+    "页面称,这些建议部分基于对脉搏血氧仪准确性可能受肤色等因素影响的担忧,旨在不论提交类型如何都为性能评价提供参考,并促进一致、高效的审评。页面的文件标注为2025年1月,发布元数据日期为2025年6月4日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療用パルスオキシメータの非臨床・臨床性能試験、表示及び市販前提出に関する推奨事項に関するガイダンス案を発行",
+   "sum": "2025年1月、FDAはガイダンス案「Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2023-N-4976です。発行部署はCDRHで、ページの掲載日は2025年6月4日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "動脈血酸素と脈拍数を推定するパルスオキシメータ機能を持つ機器を含む医療用パルスオキシメータの市販前提出に向けた、非臨床・臨床性能試験と表示に関する推奨事項を示しています。",
+    "ページには、この推奨事項は、皮膚の色素沈着などの要因によりパルスオキシメータの精度が影響を受け得るとの懸念に一部基づくものであり、提出の種類にかかわらず性能評価の参考とし、一貫した効率的な審査を促進することを目的とすると記載されています。ページの文書表記は2025年1月で、掲載メタデータの日付は2025年6月4日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations",
+   "sum": "En enero de 2025, la FDA publicó el borrador de guía «Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2023-N-4976. La oficina emisora es CDRH y la página muestra como fecha de publicación el 4 de junio de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Ofrece recomendaciones sobre las pruebas de desempeño no clínicas y clínicas y sobre el etiquetado para las presentaciones previas a la comercialización de pulsioxímetros para fines médicos, incluidos los productos con función de pulsioximetría que estima el oxígeno arterial y la frecuencia del pulso.",
+    "La página indica que las recomendaciones se basan en parte en la preocupación de que la exactitud de los pulsioxímetros pueda verse afectada por factores como la pigmentación de la piel, y que sirven para orientar la evaluación del desempeño con independencia del tipo de presentación y promover una revisión coherente y eficiente. La línea del documento indica enero de 2025, mientras que la fecha de los metadatos de publicación es el 4 de junio de 2025.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations",
+   "sum": "Em janeiro de 2025, a FDA publicou o projeto de orientação «Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2023-N-4976. O gabinete emissor é CDRH e a página mostra como data de publicação 4 de junho de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Apresenta recomendações sobre os ensaios de desempenho não clínicos e clínicos e sobre a rotulagem para as submissões pré-comercialização de oxímetros de pulso para fins médicos, incluindo dispositivos com função de oximetria de pulso que estima o oxigénio arterial e a frequência de pulso.",
+    "A página indica que as recomendações se baseiam em parte na preocupação de que a exatidão dos oxímetros de pulso possa ser afetada por fatores como a pigmentação da pele, e que servem para orientar a avaliação do desempenho independentemente do tipo de submissão e promover uma avaliação coerente e eficiente. A linha do documento indica janeiro de 2025, enquanto a data dos metadados de publicação é 4 de junho de 2025.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations",
+   "sum": "В январе 2025 года FDA опубликовало проект руководства «Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2023-N-4976. Выпускающее подразделение — CDRH, на странице указана дата публикации 4 июня 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "В нём даны рекомендации по доклиническим и клиническим испытаниям эксплуатационных характеристик и по маркировке для предрыночных заявок на пульсоксиметры медицинского назначения, включая изделия с функцией пульсоксиметра, оценивающей содержание кислорода в артериальной крови и частоту пульса.",
+    "На странице указано, что рекомендации частично основаны на опасениях, что на точность пульсоксиметров могут влиять такие факторы, как пигментация кожи, и что они предназначены для оценки характеристик независимо от типа заявки и для единообразного и эффективного рассмотрения. В строке документа указан январь 2025 года, а дата в метаданных публикации — 4 июня 2025 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations",
+   "sum": "En janvier 2025, la FDA a publié le projet de ligne directrice « Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2023-N-4976. Le bureau émetteur est CDRH et la page indique comme date de publication le 4 juin 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il donne des recommandations sur les essais de performance non cliniques et cliniques et sur l'étiquetage pour les soumissions préalables à la mise sur le marché d'oxymètres de pouls à usage médical, y compris les dispositifs dotés d'une fonction d'oxymétrie de pouls estimant l'oxygène artériel et la fréquence du pouls.",
+    "La page indique que les recommandations reposent en partie sur la préoccupation que l'exactitude des oxymètres de pouls puisse être affectée par des facteurs tels que la pigmentation de la peau, et qu'elles visent à éclairer l'évaluation des performances quel que soit le type de soumission et à favoriser un examen cohérent et efficace. La ligne du document indique janvier 2025, tandis que la date des métadonnées de publication est le 4 juin 2025.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations",
+   "sum": "Im Januar 2025 hat die FDA den Leitfadenentwurf „Pulse Oximeters for Medical Purposes – Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2023-N-4976. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 4. Juni 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er enthält Empfehlungen zu nichtklinischen und klinischen Leistungsprüfungen und zur Kennzeichnung für Premarket-Einreichungen von Pulsoximetern für medizinische Zwecke, einschließlich Produkten mit einer Pulsoximeterfunktion, die den arteriellen Sauerstoff und die Pulsfrequenz schätzt.",
+    "Die Seite gibt an, dass die Empfehlungen teilweise auf der Sorge beruhen, dass die Genauigkeit von Pulsoximetern unter anderem durch die Hautpigmentierung beeinflusst werden kann, und dass sie unabhängig vom Einreichungstyp die Leistungsbewertung unterstützen und eine einheitliche, effiziente Prüfung fördern sollen. Die Dokumentzeile nennt Januar 2025, das Datum der Veröffentlichungsmetadaten ist der 4. Juni 2025.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pulse-oximeters-medical-purposes-non-clinical-and-clinical-performance-testing-labeling-and",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2024-31540",
+    "Federal Register notice 2024-31540",
+    "https://www.federalregister.gov/d/2024-31540",
+    {
+     "zh": "联邦公报公告 2024-31540",
+     "ja": "連邦官報告示 2024-31540",
+     "es": "Aviso del Registro Federal 2024-31540",
+     "pt": "Aviso do Federal Register 2024-31540",
+     "ru": "Уведомление в Federal Register 2024-31540",
+     "fr": "Avis du Federal Register 2024-31540",
+     "de": "Bekanntmachung im Federal Register 2024-31540"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-ai-enabled-device-software-draft",
+  "date": "2025-01-06",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 인공지능 기반 기기 소프트웨어 기능의 전 생애주기 관리 및 시판 제출 권고 가이던스 초안 발간",
+   "sum": "FDA가 2025년 1월 「Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2024-D-4488입니다. 발행 부서는 CDRH, CBER 및 CDER이고 페이지의 게시일은 2025년 1월 6일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "AI 기반 기기 소프트웨어 기능이 있는 기기의 시판 제출 자료에 담아야 할 내용, 즉 FDA의 안전성·유효성 평가를 뒷받침하는 문서와 정보에 대한 권고를 담고 있습니다.",
+    "문서는 이를 전 제품 생애주기(TPLC) 위험관리 접근으로 구성하며, FDA가 평가하는 문서화를 뒷받침하도록 TPLC 전반에서 AI 기반 기기를 설계·개발·구현하는 방안에 대한 권고도 제안하고 있습니다. 문서 표기는 2025년 1월입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on AI-enabled device software functions: lifecycle management and marketing submission recommendations",
+   "sum": "In January 2025 FDA posted the draft guidance \"Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2024-D-4488. The issuing office is CDRH, CBER and CDER and the page shows a posting date of 6 January 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It gives recommendations on what marketing submissions for devices with AI-enabled device software functions should contain, including the documentation and information that support FDA's evaluation of safety and effectiveness.",
+    "It frames these as a total product life cycle (TPLC) risk-management approach, and also proposes recommendations on designing, developing and implementing AI-enabled devices across the TPLC to support the documentation FDA assesses. The document line reads January 2025.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布人工智能赋能器械软件功能的全生命周期管理和上市提交建议指南草案",
+   "sum": "2025年1月,FDA发布了指南草案《Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2024-D-4488。发布部门为CDRH, CBER和CDER,页面显示的发布日期为2025年1月6日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件就含人工智能赋能器械软件功能的器械的上市提交资料应包含的内容,包括支持FDA安全性和有效性评价的文档和信息,提出了建议。",
+    "文件以全产品生命周期(TPLC)风险管理方法为框架,并就在整个TPLC中设计、开发和实施人工智能赋能器械提出建议,以支持FDA评估的文档。文件标注为2025年1月。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、AI対応機器ソフトウェア機能のライフサイクル管理と市販提出に関する推奨事項に関するガイダンス案を発行",
+   "sum": "2025年1月、FDAはガイダンス案「Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2024-D-4488です。発行部署はCDRH, CBERとCDERで、ページの掲載日は2025年1月6日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "AI対応機器ソフトウェア機能を持つ機器の市販提出資料に含めるべき内容、すなわちFDAによる安全性・有効性の評価を裏付ける文書と情報に関する推奨事項を示しています。",
+    "文書はこれを総製品ライフサイクル(TPLC)のリスクマネジメントの考え方として構成し、FDAが評価する文書化を裏付けるため、TPLC全体でAI対応機器を設計・開発・実装する方法についての推奨事項も提案しています。文書表記は2025年1月です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+   "sum": "En enero de 2025, la FDA publicó el borrador de guía «Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2024-D-4488. La oficina emisora es CDRH, CBER y CDER y la página muestra como fecha de publicación el 6 de enero de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Ofrece recomendaciones sobre el contenido de las presentaciones de comercialización de productos con funciones de software habilitadas por inteligencia artificial, incluida la documentación e información que respaldan la evaluación de seguridad y eficacia de la FDA.",
+    "Lo plantea como un enfoque de gestión de riesgos del ciclo de vida total del producto (TPLC) y propone además recomendaciones para diseñar, desarrollar e implementar productos habilitados por IA a lo largo del TPLC, en apoyo de la documentación que evalúa la FDA. La línea del documento indica enero de 2025.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+   "sum": "Em janeiro de 2025, a FDA publicou o projeto de orientação «Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-4488. O gabinete emissor é CDRH, CBER e CDER e a página mostra como data de publicação 6 de janeiro de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Apresenta recomendações sobre o conteúdo das submissões de comercialização de dispositivos com funções de software habilitadas por inteligência artificial, incluindo a documentação e a informação que sustentam a avaliação de segurança e eficácia da FDA.",
+    "Enquadra-as numa abordagem de gestão de riscos do ciclo de vida total do produto (TPLC) e propõe também recomendações para conceber, desenvolver e implementar dispositivos habilitados por IA ao longo do TPLC, em apoio da documentação avaliada pela FDA. A linha do documento indica janeiro de 2025.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+   "sum": "В январе 2025 года FDA опубликовало проект руководства «Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2024-D-4488. Выпускающее подразделение — CDRH, CBER и CDER, на странице указана дата публикации 6 января 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "В нём даны рекомендации по содержанию маркетинговых заявок на изделия с программными функциями на основе искусственного интеллекта, включая документацию и сведения, подтверждающие оценку FDA безопасности и эффективности.",
+    "Они выстроены как подход к управлению рисками на протяжении всего жизненного цикла продукта (TPLC); предлагаются также рекомендации по проектированию, разработке и внедрению изделий на основе ИИ на протяжении TPLC в поддержку документации, оцениваемой FDA. В строке документа указан январь 2025 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+   "sum": "En janvier 2025, la FDA a publié le projet de ligne directrice « Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-4488. Le bureau émetteur est CDRH, CBER et CDER et la page indique comme date de publication le 6 janvier 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il formule des recommandations sur le contenu des soumissions de mise sur le marché de dispositifs dotés de fonctions logicielles reposant sur l'intelligence artificielle, y compris la documentation et les informations étayant l'évaluation de la sécurité et de l'efficacité par la FDA.",
+    "Il les présente comme une approche de gestion des risques sur l'ensemble du cycle de vie du produit (TPLC) et propose aussi des recommandations pour concevoir, développer et mettre en œuvre des dispositifs reposant sur l'IA tout au long du TPLC, à l'appui de la documentation évaluée par la FDA. La ligne du document indique janvier 2025.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations",
+   "sum": "Im Januar 2025 hat die FDA den Leitfadenentwurf „Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-4488. Herausgebende Stelle ist CDRH, CBER und CDER; die Seite nennt als Veröffentlichungsdatum den 6. Januar 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er enthält Empfehlungen zum Inhalt von Marktzulassungseinreichungen für Produkte mit KI-gestützten Softwarefunktionen, einschließlich der Unterlagen und Informationen, die die Bewertung von Sicherheit und Wirksamkeit durch die FDA stützen.",
+    "Er rahmt dies als risikobasierten Ansatz über den gesamten Produktlebenszyklus (TPLC) und schlägt zudem Empfehlungen für Entwurf, Entwicklung und Umsetzung KI-gestützter Produkte über den TPLC vor, um die von der FDA bewerteten Unterlagen zu stützen. Die Dokumentzeile nennt Januar 2025.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/artificial-intelligence-enabled-device-software-functions-lifecycle-management-and-marketing",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2024-31543",
+    "Federal Register notice 2024-31543",
+    "https://www.federalregister.gov/d/2024-31543",
+    {
+     "zh": "联邦公报公告 2024-31543",
+     "ja": "連邦官報告示 2024-31543",
+     "es": "Aviso del Registro Federal 2024-31543",
+     "pt": "Aviso do Federal Register 2024-31543",
+     "ru": "Уведомление в Federal Register 2024-31543",
+     "fr": "Avis du Federal Register 2024-31543",
+     "de": "Bekanntmachung im Federal Register 2024-31543"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-gudid-final",
+  "date": "2024-12-17",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 글로벌 고유 기기 식별 데이터베이스(GUDID) 최종 가이던스 발간",
+   "sum": "FDA가 2024년 12월 「Global Unique Device Identification Database (GUDID)」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2013-D-0636입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2024년 12월 17일입니다.",
+    "2013년 9월 24일 발표된 UDI 최종 규칙은 기기의 라벨과 포장에 고유 기기 식별자를 표시하도록 하고(FDA가 예외 또는 대안을 허용한 경우 제외) 지정된 제품 정보를 GUDID에 제출하도록 요구한다고 페이지에 적혀 있으며, 이 문서는 라벨러가 GUDID에 제출해야 할 정보에 대한 FDA의 권고를 담고 있습니다.",
+    "문서는 GMDN(국제 의료기기 명명법) 항목 변경을 반영해 갱신되었고, GMDN 용어를 유료 회원 가입 없이 이용할 수 있게 되었다는 이유로 FDA 선호 용어(FDA PT) 코드 사용 옵션이 삭제될 예정이라고 적혀 있습니다. 문서 표기는 2024년 12월이고 페이지 게시일은 2024년 12월 17일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on Global Unique Device Identification Database (GUDID)",
+   "sum": "In December 2024 FDA posted the final guidance \"Global Unique Device Identification Database (GUDID)\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2013-D-0636. The issuing office is CDRH and the page shows a posting date of 17 December 2024.",
+    "The page says the UDI final rule, published on 24 September 2013, requires device labels and packages to carry a unique device identifier unless FDA grants an exception or alternative, and requires specified product information to be submitted to GUDID; the guidance gives FDA's recommendations on the information labelers need to submit to GUDID.",
+    "The page says the document was updated to reflect changes to the GMDN (Global Medical Device Nomenclature) field, and that the option to use FDA Preferred Terms (FDA PT) codes will be removed because GMDN terms are now available without a paid membership. The document line reads December 2024 and the page was posted on 17 December 2024.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布全球唯一器械标识数据库(GUDID)最终指南",
+   "sum": "2024年12月,FDA发布了最终指南《Global Unique Device Identification Database (GUDID)》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2013-D-0636。发布部门为CDRH,页面显示的发布日期为2024年12月17日。",
+    "页面载明,2013年9月24日发布的UDI最终规则要求器械标签和包装带有唯一器械标识(FDA给予例外或替代的除外),并要求向GUDID提交指定的产品信息;本指南给出了FDA关于标签商需向GUDID提交信息的建议。",
+    "页面载明,文件已更新以反映GMDN(全球医疗器械命名法)字段的变化,并称由于GMDN术语现已无需付费会员即可获取,将取消使用FDA首选术语(FDA PT)代码的选项。文件标注为2024年12月,页面发布日期为2024年12月17日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、グローバル固有機器識別データベース(GUDID)に関する最終ガイダンスを発行",
+   "sum": "2024年12月、FDAは最終ガイダンス「Global Unique Device Identification Database (GUDID)」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2013-D-0636です。発行部署はCDRHで、ページの掲載日は2024年12月17日です。",
+    "ページには、2013年9月24日に公表されたUDI最終規則が、FDAが例外又は代替を認めた場合を除き機器のラベルと包装に固有機器識別子を表示し、指定された製品情報をGUDIDに提出することを求めると記載されており、本ガイダンスはラベラーがGUDIDに提出すべき情報に関するFDAの推奨事項を示しています。",
+    "ページには、GMDN(世界医療機器命名法)欄の変更を反映して文書が更新されたこと、GMDN用語が有料会員でなくても利用できるようになったためFDA優先用語(FDA PT)コードを使うオプションが削除される予定であることが記載されています。文書表記は2024年12月、ページの掲載日は2024年12月17日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Global Unique Device Identification Database (GUDID)",
+   "sum": "En diciembre de 2024, la FDA publicó la guía final «Global Unique Device Identification Database (GUDID)».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2013-D-0636. La oficina emisora es CDRH y la página muestra como fecha de publicación el 17 de diciembre de 2024.",
+    "La página indica que la norma final de UDI, publicada el 24 de septiembre de 2013, exige que las etiquetas y envases de los productos lleven un identificador único de producto salvo que la FDA conceda una excepción o alternativa, y que se envíe información específica a la GUDID; la guía recoge las recomendaciones de la FDA sobre la información que los etiquetadores deben enviar a la GUDID.",
+    "La página indica que el documento se actualizó para reflejar cambios en el campo GMDN (Nomenclatura Global de Productos Sanitarios) y que se eliminará la opción de usar los códigos de términos preferidos de la FDA (FDA PT) porque los términos GMDN ya están disponibles sin membresía de pago. La línea del documento indica diciembre de 2024 y la página se publicó el 17 de diciembre de 2024.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Global Unique Device Identification Database (GUDID)",
+   "sum": "Em dezembro de 2024, a FDA publicou a orientação final «Global Unique Device Identification Database (GUDID)».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2013-D-0636. O gabinete emissor é CDRH e a página mostra como data de publicação 17 de dezembro de 2024.",
+    "A página indica que a regra final de UDI, publicada em 24 de setembro de 2013, exige que os rótulos e embalagens dos dispositivos tenham um identificador único de dispositivo, salvo se a FDA conceder uma exceção ou alternativa, e que seja submetida informação específica ao GUDID; a orientação apresenta as recomendações da FDA sobre a informação que os rotuladores devem submeter ao GUDID.",
+    "A página indica que o documento foi atualizado para refletir alterações no campo GMDN (Nomenclatura Global de Dispositivos Médicos) e que a opção de utilizar os códigos de termos preferenciais da FDA (FDA PT) será removida porque os termos GMDN estão agora disponíveis sem adesão paga. A linha do documento indica dezembro de 2024 e a página foi publicada em 17 de dezembro de 2024.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Global Unique Device Identification Database (GUDID)",
+   "sum": "В декабре 2024 года FDA опубликовало окончательное руководство «Global Unique Device Identification Database (GUDID)».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2013-D-0636. Выпускающее подразделение — CDRH, на странице указана дата публикации 17 декабря 2024 года.",
+    "На странице указано, что окончательное правило по UDI, опубликованное 24 сентября 2013 года, требует, чтобы на этикетках и упаковках изделий был указан уникальный идентификатор изделия (если FDA не предоставило исключение или альтернативу) и чтобы указанные сведения о продукции передавались в GUDID; руководство содержит рекомендации FDA по сведениям, которые маркировщики должны передавать в GUDID.",
+    "На странице указано, что документ обновлён с учётом изменений в поле GMDN (Глобальная номенклатура медицинских изделий) и что возможность использовать коды предпочтительных терминов FDA (FDA PT) будет удалена, поскольку термины GMDN теперь доступны без платного членства. В строке документа указан декабрь 2024 года, страница опубликована 17 декабря 2024 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Global Unique Device Identification Database (GUDID)",
+   "sum": "En décembre 2024, la FDA a publié la ligne directrice finale « Global Unique Device Identification Database (GUDID) ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2013-D-0636. Le bureau émetteur est CDRH et la page indique comme date de publication le 17 décembre 2024.",
+    "La page indique que la règle finale sur l'UDI, publiée le 24 septembre 2013, exige que les étiquettes et emballages des dispositifs portent un identifiant unique de dispositif, sauf exception ou alternative accordée par la FDA, et que des informations produit spécifiées soient transmises à la GUDID ; la ligne directrice énonce les recommandations de la FDA sur les informations que les étiqueteurs doivent transmettre à la GUDID.",
+    "La page indique que le document a été mis à jour pour refléter des modifications du champ GMDN (nomenclature mondiale des dispositifs médicaux) et que l'option d'utiliser les codes de termes préférés de la FDA (FDA PT) sera supprimée, car les termes GMDN sont désormais disponibles sans adhésion payante. La ligne du document indique décembre 2024 et la page a été publiée le 17 décembre 2024.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Global Unique Device Identification Database (GUDID)",
+   "sum": "Im Dezember 2024 hat die FDA den endgültigen Leitfaden „Global Unique Device Identification Database (GUDID)“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2013-D-0636. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 17. Dezember 2024.",
+    "Die Seite gibt an, dass die am 24. September 2013 veröffentlichte endgültige UDI-Regel verlangt, dass Etiketten und Verpackungen von Produkten einen eindeutigen Produktidentifikator tragen, sofern die FDA keine Ausnahme oder Alternative gewährt, und dass festgelegte Produktinformationen an die GUDID übermittelt werden; der Leitfaden enthält die Empfehlungen der FDA zu den Informationen, die Kennzeichner an die GUDID übermitteln müssen.",
+    "Die Seite gibt an, dass das Dokument aktualisiert wurde, um Änderungen am GMDN-Feld (Global Medical Device Nomenclature) abzubilden, und dass die Option zur Verwendung der FDA-Preferred-Terms-Codes (FDA PT) entfällt, da GMDN-Begriffe nun ohne kostenpflichtige Mitgliedschaft verfügbar sind. Die Dokumentzeile nennt Dezember 2024, die Seite wurde am 17. Dezember 2024 veröffentlicht.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/global-unique-device-identification-database-gudid",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2013-D-0636 (regulations.gov)",
+    "Regulations.gov docket FDA-2013-D-0636",
+    "https://www.regulations.gov/docket/FDA-2013-D-0636",
+    {
+     "zh": "Regulations.gov档案 FDA-2013-D-0636",
+     "ja": "Regulations.govドケット FDA-2013-D-0636",
+     "es": "Expediente de Regulations.gov FDA-2013-D-0636",
+     "pt": "Processo do Regulations.gov FDA-2013-D-0636",
+     "ru": "Досье Regulations.gov FDA-2013-D-0636",
+     "fr": "Dossier Regulations.gov FDA-2013-D-0636",
+     "de": "Regulations.gov-Verfahren FDA-2013-D-0636"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-eto-sterilization-site-change-final",
+  "date": "2024-11-25",
+  "region": "us",
+  "svc": "qms",
+  "ko": {
+   "title": "FDA, 3등급 기기의 산화에틸렌 멸균시설 변경에 대한 한시적 집행 정책 최종 가이던스 발간",
+   "sum": "FDA가 2024년 11월 「Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-2274입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2024년 11월 25일입니다.",
+    "에틸렌옥사이드(EtO)로 멸균하는 PMA·HDE 기기 중 멸균시설의 가동 축소(예상, 실제 또는 일시적)의 영향을 받는 기기의 멸균 장소 변경에 대한 FDA의 집행 정책을 담고 있습니다.",
+    "FDA는 이 가이던스의 권고를 따르는 변경이라면, PMA 또는 HDE 제조장소 변경 보충신청서를 제출하기 전에 3등급 기기를 새 장소에서 멸균해 유통하는 것에 이의를 제기할 의사가 없다고 밝힙니다. 이 정책은 자발적이며 EtO로 멸균하는 승인된 3등급 기기의 PMA·HDE 보유자에게만 적용되고, 복합제품, EtO 외 방법으로 멸균하는 기기, 다른 멸균제로의 변경, 안전성·유효성에 영향을 주는 그 밖의 보충신청 변경은 제외됩니다. 페이지에는 종료일이 적혀 있지 않습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on transitional enforcement policy for ethylene oxide sterilization facility changes for Class III devices",
+   "sum": "In November 2024 FDA posted the final guidance \"Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-2274. The issuing office is CDRH and the page shows a posting date of 25 November 2024.",
+    "It sets out FDA's enforcement policy for sterilization site changes for ethylene oxide (EtO) sterilized PMA and HDE devices affected by potential, actual or temporary operation reductions at sterilization facilities.",
+    "FDA states it does not intend to object to sterilizing Class III devices at a proposed new location and distributing them before a PMA or HDE site change supplement is submitted, when the change follows the guidance's recommendations. The policy is voluntary and applies only to PMA and HDE holders of approved Class III devices sterilized by EtO; it excludes combination products, devices sterilized by other methods, changes to a different sterilant, and other supplement changes affecting safety or effectiveness. The page states no end date.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布III类器械环氧乙烷灭菌设施变更的过渡性执法政策最终指南",
+   "sum": "2024年11月,FDA发布了最终指南《Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-2274。发布部门为CDRH,页面显示的发布日期为2024年11月25日。",
+    "文件阐明了FDA对受灭菌设施潜在、实际或暂时减产影响的环氧乙烷(EtO)灭菌PMA和HDE器械的灭菌地点变更的执法政策。",
+    "FDA表示,若变更遵循本指南建议,FDA不打算反对在提交PMA或HDE场地变更补充申请之前,在拟定的新地点对III类器械进行灭菌并分销。该政策为自愿性质,仅适用于经EtO灭菌的已批准III类器械的PMA和HDE持有人;不包括组合产品、采用其他方法灭菌的器械、改用其他灭菌剂的变更,以及影响安全性或有效性的其他补充申请变更。页面未载明终止日期。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、クラスIII機器のエチレンオキシド滅菌施設変更に関する移行的執行方針に関する最終ガイダンスを発行",
+   "sum": "2024年11月、FDAは最終ガイダンス「Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-2274です。発行部署はCDRHで、ページの掲載日は2024年11月25日です。",
+    "滅菌施設の稼働縮小(見込み、実際又は一時的)の影響を受けるエチレンオキシド(EtO)滅菌のPMA・HDE機器の滅菌場所変更に関するFDAの執行方針を示しています。",
+    "FDAは、変更が本ガイダンスの推奨事項に従う場合、PMA又はHDEの製造場所変更の補足申請を提出する前に、クラスIII機器を提案された新しい場所で滅菌し流通させることに異議を唱える意図はないと述べています。この方針は任意で、EtOで滅菌される承認済みクラスIII機器のPMA・HDE保有者にのみ適用され、複合製品、EtO以外の方法で滅菌される機器、別の滅菌剤への変更、安全性又は有効性に影響するその他の補足申請の変更は除外されます。ページに終了日の記載はありません。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices",
+   "sum": "En noviembre de 2024, la FDA publicó la guía final «Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-2274. La oficina emisora es CDRH y la página muestra como fecha de publicación el 25 de noviembre de 2024.",
+    "Establece la política de aplicación de la FDA para los cambios de sitio de esterilización de productos PMA y HDE esterilizados con óxido de etileno (EtO) afectados por reducciones potenciales, reales o temporales de la actividad en las instalaciones de esterilización.",
+    "La FDA indica que no pretende oponerse a que se esterilicen productos de clase III en un nuevo sitio propuesto y se distribuyan antes de presentar un suplemento de cambio de sitio de PMA o HDE, cuando el cambio siga las recomendaciones de la guía. La política es voluntaria y solo se aplica a los titulares de PMA y HDE de productos de clase III aprobados esterilizados con EtO; excluye los productos combinados, los esterilizados por otros métodos, los cambios a otro esterilizante y otros cambios de suplemento que afecten a la seguridad o la eficacia. La página no indica fecha de finalización.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices",
+   "sum": "Em novembro de 2024, a FDA publicou a orientação final «Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-2274. O gabinete emissor é CDRH e a página mostra como data de publicação 25 de novembro de 2024.",
+    "Estabelece a política de aplicação da FDA para as alterações do local de esterilização de dispositivos PMA e HDE esterilizados com óxido de etileno (EtO) afetados por reduções potenciais, reais ou temporárias da atividade nas instalações de esterilização.",
+    "A FDA indica que não pretende opor-se à esterilização de dispositivos de classe III num novo local proposto e à sua distribuição antes de ser submetido um suplemento de alteração de local de PMA ou HDE, quando a alteração siga as recomendações da orientação. A política é voluntária e aplica-se apenas aos titulares de PMA e HDE de dispositivos de classe III aprovados esterilizados por EtO; exclui os produtos combinados, os esterilizados por outros métodos, as alterações para outro esterilizante e outras alterações de suplemento que afetem a segurança ou a eficácia. A página não indica data de termo.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices",
+   "sum": "В ноябре 2024 года FDA опубликовало окончательное руководство «Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2024-D-2274. Выпускающее подразделение — CDRH, на странице указана дата публикации 25 ноября 2024 года.",
+    "В нём изложена политика FDA по обеспечению соблюдения требований в отношении смены места стерилизации изделий PMA и HDE, стерилизуемых этиленоксидом (EtO), на которые влияет возможное, фактическое или временное сокращение работы стерилизационных предприятий.",
+    "FDA заявляет, что не намерено возражать против стерилизации изделий класса III в предлагаемом новом месте и их распространения до подачи дополнения PMA или HDE об изменении площадки, если изменение соответствует рекомендациям руководства. Политика добровольная и применяется только к держателям PMA и HDE одобренных изделий класса III, стерилизуемых EtO; исключены комбинированные продукты, изделия, стерилизуемые другими методами, переход на другой стерилизующий агент и иные изменения дополнений, влияющие на безопасность или эффективность. Дата окончания на странице не указана.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices",
+   "sum": "En novembre 2024, la FDA a publié la ligne directrice finale « Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-2274. Le bureau émetteur est CDRH et la page indique comme date de publication le 25 novembre 2024.",
+    "Il énonce la politique d'application de la FDA pour les changements de site de stérilisation des dispositifs PMA et HDE stérilisés à l'oxyde d'éthylène (EtO) touchés par des réductions potentielles, réelles ou temporaires d'activité des installations de stérilisation.",
+    "La FDA indique qu'elle n'a pas l'intention de s'opposer à la stérilisation de dispositifs de classe III sur un nouveau site proposé et à leur distribution avant le dépôt d'un supplément de changement de site PMA ou HDE, lorsque le changement suit les recommandations de la ligne directrice. La politique est volontaire et ne s'applique qu'aux titulaires de PMA et HDE de dispositifs de classe III approuvés stérilisés à l'EtO ; elle exclut les produits combinés, les dispositifs stérilisés par d'autres méthodes, le passage à un autre agent stérilisant et les autres changements de supplément affectant la sécurité ou l'efficacité. La page n'indique aucune date de fin.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices",
+   "sum": "Im November 2024 hat die FDA den endgültigen Leitfaden „Transitional Enforcement Policy for Ethylene Oxide Sterilization Facility Changes for Class III Devices“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-2274. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 25. November 2024.",
+    "Er legt die Durchsetzungspolitik der FDA für Änderungen des Sterilisationsstandorts bei mit Ethylenoxid (EtO) sterilisierten PMA- und HDE-Produkten dar, die von möglichen, tatsächlichen oder vorübergehenden Betriebseinschränkungen von Sterilisationseinrichtungen betroffen sind.",
+    "Die FDA gibt an, dass sie nicht beabsichtigt, der Sterilisation von Produkten der Klasse III an einem vorgeschlagenen neuen Standort und deren Vertrieb vor Einreichung eines PMA- oder HDE-Standortwechsel-Supplements zu widersprechen, wenn die Änderung den Empfehlungen des Leitfadens folgt. Die Politik ist freiwillig und gilt nur für PMA- und HDE-Inhaber zugelassener, mit EtO sterilisierter Produkte der Klasse III; ausgenommen sind Kombinationsprodukte, mit anderen Verfahren sterilisierte Produkte, Wechsel zu einem anderen Sterilisationsmittel und andere Supplement-Änderungen, die Sicherheit oder Wirksamkeit beeinflussen. Die Seite nennt kein Enddatum.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/transitional-enforcement-policy-ethylene-oxide-sterilization-facility-changes-class-iii-devices",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2024-27661",
+    "Federal Register notice 2024-27661",
+    "https://www.federalregister.gov/d/2024-27661",
+    {
+     "zh": "联邦公报公告 2024-27661",
+     "ja": "連邦官報告示 2024-27661",
+     "es": "Aviso del Registro Federal 2024-27661",
+     "pt": "Aviso do Federal Register 2024-27661",
+     "ru": "Уведомление в Federal Register 2024-27661",
+     "fr": "Avis du Federal Register 2024-27661",
+     "de": "Bekanntmachung im Federal Register 2024-27661"
+    }
+   ]
+  ]
  }
 ]
