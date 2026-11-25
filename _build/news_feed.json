@@ -121,7 +121,7 @@
    [
     "식품의약품안전처 게시글",
     "MFDS (Ministry of Food and Drug Safety) post",
-    "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15952&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=5",
+    "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15950&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=5",
     {
      "zh": "食品医药品安全处公告帖",
      "ja": "食品医薬品安全処 投稿",
@@ -845,17 +845,17 @@
   },
   "src": [
    [
-    "식품의약품안전처 지침서·안내서 게시판",
-    "MFDS (Ministry of Food and Drug Safety) guidance board",
-    "https://www.mfds.go.kr/brd/m_1060/list.do",
+    "식품의약품안전처 게시글",
+    "MFDS (Ministry of Food and Drug Safety) post",
+    "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15952&srchFr=&srchTo=&srchWord=&srchTp=0&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&Data_stts_gubun=C1004&page=1",
     {
-     "zh": "食品医药品安全处指南公告栏",
-     "ja": "食品医薬品安全処 ガイドライン掲示板",
-     "es": "Tablón de directrices del MFDS",
-     "pt": "Quadro de orientações do MFDS",
-     "ru": "Доска руководств MFDS",
-     "fr": "Tableau des lignes directrices du MFDS",
-     "de": "Leitlinien-Tafel des MFDS"
+     "zh": "食品医药品安全处公告帖",
+     "ja": "食品医薬品安全処 投稿",
+     "es": "Publicación del MFDS",
+     "pt": "Publicação do MFDS",
+     "ru": "Публикация MFDS",
+     "fr": "Publication du MFDS",
+     "de": "Beitrag des MFDS"
     }
    ]
   ]
