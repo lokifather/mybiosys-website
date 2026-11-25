@@ -3541,5 +3541,2282 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-csa-production-qms-software-final",
+  "date": "2026-02-05",
+  "region": "us",
+  "svc": "qms",
+  "ko": {
+   "title": "FDA, 생산 및 품질경영시스템 소프트웨어의 컴퓨터 소프트웨어 보증(CSA) 최종 가이던스 발간",
+   "sum": "FDA가 2026년 2월 「Computer Software Assurance for Production and Quality Management System Software」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2022-D-0795입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2026년 2월 5일입니다.",
+    "의료기기 생산이나 품질경영시스템에 쓰이는 컴퓨터와 자동 데이터 처리 시스템의 컴퓨터 소프트웨어 보증에 대한 권고를 담고 있으며, 위험 기반 접근으로 자동화에 대한 신뢰를 확보하고 추가 엄격성이 필요한 부분을 식별하는 방법을 설명합니다. FDA는 제조업체가 품질경영시스템 규정(21 CFR Part 820)을 준수하면서 고품질 기기를 만들도록 돕는 것이 목표라고 밝힙니다.",
+    "페이지에는 이 문서가 2025년 9월 24일 발행된 최종 가이던스 「Computer Software Assurance for Production and Quality System Software」를 대체한다고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on computer software assurance for production and quality management system software",
+   "sum": "In February 2026 FDA posted the final guidance \"Computer Software Assurance for Production and Quality Management System Software\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2022-D-0795. The issuing office is CDRH and CBER and the page shows a posting date of 5 February 2026.",
+    "It gives recommendations on computer software assurance for computers and automated data processing systems used in medical device production or the quality management system, describing a risk-based approach to build confidence in automation and identify where additional rigor may be appropriate. FDA states the goal is to help manufacturers make high-quality devices while complying with the Quality Management System regulation (21 CFR Part 820).",
+    "The page states that this document supersedes the final guidance \"Computer Software Assurance for Production and Quality System Software\", issued 24 September 2025.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布生产和质量管理体系软件的计算机软件保证(CSA)最终指南",
+   "sum": "2026年2月,FDA发布了最终指南《Computer Software Assurance for Production and Quality Management System Software》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2022-D-0795。发布部门为CDRH和CBER,页面显示的发布日期为2026年2月5日。",
+    "文件就医疗器械生产或质量管理体系中使用的计算机和自动化数据处理系统的计算机软件保证提出建议,介绍了基于风险的方法,用以建立对自动化的信心并识别需要额外严谨性的环节。FDA表示,目标是帮助生产企业在遵守质量管理体系法规(21 CFR Part 820)的同时制造高质量器械。",
+    "页面载明,本文件取代2025年9月24日发布的最终指南《Computer Software Assurance for Production and Quality System Software》。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、生産及び品質マネジメントシステム用ソフトウェアのコンピュータソフトウェア保証(CSA)に関する最終ガイダンスを発行",
+   "sum": "2026年2月、FDAは最終ガイダンス「Computer Software Assurance for Production and Quality Management System Software」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2022-D-0795です。発行部署はCDRHとCBERで、ページの掲載日は2026年2月5日です。",
+    "医療機器の生産又は品質マネジメントシステムで使われるコンピュータ及び自動データ処理システムのコンピュータソフトウェア保証に関する推奨事項を示し、自動化への信頼を確保し追加の厳格さが適切な箇所を特定するリスクベースの方法を説明しています。FDAは、製造業者が品質マネジメントシステム規則(21 CFR Part 820)を遵守しつつ高品質の機器を製造できるよう支援することが目的だと述べています。",
+    "ページには、本文書が2025年9月24日に発行された最終ガイダンス「Computer Software Assurance for Production and Quality System Software」に代わると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Computer Software Assurance for Production and Quality Management System Software",
+   "sum": "En febrero de 2026, la FDA publicó la guía final «Computer Software Assurance for Production and Quality Management System Software».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2022-D-0795. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 5 de febrero de 2026.",
+    "Ofrece recomendaciones sobre el aseguramiento de software informático para los ordenadores y sistemas automatizados de procesamiento de datos usados en la producción de productos sanitarios o en el sistema de gestión de la calidad, y describe un enfoque basado en el riesgo para generar confianza en la automatización e identificar dónde puede ser adecuado un rigor adicional. La FDA indica que el objetivo es ayudar a los fabricantes a producir productos de alta calidad cumpliendo el reglamento del sistema de gestión de la calidad (21 CFR Part 820).",
+    "La página indica que este documento sustituye a la guía final «Computer Software Assurance for Production and Quality System Software», publicada el 24 de septiembre de 2025.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Computer Software Assurance for Production and Quality Management System Software",
+   "sum": "Em fevereiro de 2026, a FDA publicou a orientação final «Computer Software Assurance for Production and Quality Management System Software».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2022-D-0795. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 5 de fevereiro de 2026.",
+    "Apresenta recomendações sobre a garantia de software informático para os computadores e sistemas automatizados de processamento de dados usados na produção de dispositivos médicos ou no sistema de gestão da qualidade, descrevendo uma abordagem baseada no risco para criar confiança na automatização e identificar onde pode ser adequado um rigor adicional. A FDA indica que o objetivo é ajudar os fabricantes a produzir dispositivos de elevada qualidade cumprindo o regulamento do sistema de gestão da qualidade (21 CFR Part 820).",
+    "A página indica que este documento substitui a orientação final «Computer Software Assurance for Production and Quality System Software», emitida em 24 de setembro de 2025.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Computer Software Assurance for Production and Quality Management System Software",
+   "sum": "В феврале 2026 года FDA опубликовало окончательное руководство «Computer Software Assurance for Production and Quality Management System Software».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2022-D-0795. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 5 февраля 2026 года.",
+    "В нём даны рекомендации по обеспечению качества компьютерного программного обеспечения для компьютеров и автоматизированных систем обработки данных, используемых в производстве медицинских изделий или в системе менеджмента качества; описан основанный на оценке риска подход к созданию уверенности в автоматизации и выявлению областей, где может быть уместна дополнительная строгость. FDA заявляет, что цель — помочь производителям выпускать качественные изделия при соблюдении регламента по системе менеджмента качества (21 CFR Part 820).",
+    "На странице указано, что этот документ заменяет окончательное руководство «Computer Software Assurance for Production and Quality System Software», выпущенное 24 сентября 2025 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Computer Software Assurance for Production and Quality Management System Software",
+   "sum": "En février 2026, la FDA a publié la ligne directrice finale « Computer Software Assurance for Production and Quality Management System Software ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2022-D-0795. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 5 février 2026.",
+    "Il formule des recommandations sur l'assurance logicielle des ordinateurs et systèmes automatisés de traitement de données utilisés dans la production de dispositifs médicaux ou dans le système de management de la qualité, et décrit une approche fondée sur le risque pour établir la confiance dans l'automatisation et repérer où une rigueur supplémentaire peut être appropriée. La FDA indique que l'objectif est d'aider les fabricants à produire des dispositifs de haute qualité tout en respectant le règlement sur le système de management de la qualité (21 CFR Part 820).",
+    "La page indique que ce document remplace la ligne directrice finale « Computer Software Assurance for Production and Quality System Software », publiée le 24 septembre 2025.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Computer Software Assurance for Production and Quality Management System Software",
+   "sum": "Im Februar 2026 hat die FDA den endgültigen Leitfaden „Computer Software Assurance for Production and Quality Management System Software“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2022-D-0795. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 5. Februar 2026.",
+    "Er enthält Empfehlungen zur Computer-Software-Assurance für Computer und automatisierte Datenverarbeitungssysteme, die in der Produktion von Medizinprodukten oder im Qualitätsmanagementsystem eingesetzt werden, und beschreibt einen risikobasierten Ansatz, um Vertrauen in die Automatisierung aufzubauen und zu erkennen, wo zusätzliche Sorgfalt angemessen sein kann. Die FDA nennt als Ziel, Hersteller dabei zu unterstützen, hochwertige Produkte herzustellen und zugleich die Verordnung zum Qualitätsmanagementsystem (21 CFR Part 820) einzuhalten.",
+    "Die Seite gibt an, dass dieses Dokument den am 24. September 2025 veröffentlichten endgültigen Leitfaden „Computer Software Assurance for Production and Quality System Software“ ersetzt.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/computer-software-assurance-production-and-quality-management-system-software",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2022-D-0795 (regulations.gov)",
+    "Regulations.gov docket FDA-2022-D-0795",
+    "https://www.regulations.gov/docket/FDA-2022-D-0795",
+    {
+     "zh": "Regulations.gov档案 FDA-2022-D-0795",
+     "ja": "Regulations.govドケット FDA-2022-D-0795",
+     "es": "Expediente de Regulations.gov FDA-2022-D-0795",
+     "pt": "Processo do Regulations.gov FDA-2022-D-0795",
+     "ru": "Досье Regulations.gov FDA-2022-D-0795",
+     "fr": "Dossier Regulations.gov FDA-2022-D-0795",
+     "de": "Regulations.gov-Verfahren FDA-2022-D-0795"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-remote-regulatory-assessments-qa-final",
+  "date": "2025-06-30",
+  "region": "us",
+  "svc": "qms",
+  "ko": {
+   "title": "FDA, 원격 규제 평가(RRA) 수행 질의응답 최종 가이던스 발간",
+   "sum": "FDA가 2025년 6월 「Conducting Remote Regulatory Assessments Questions and Answers」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2022-D-0810입니다. 발행 부서는 Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program 및 Office of Combination Products이고 페이지의 게시일은 2025년 6월 30일입니다.",
+    "원격 규제 평가(RRA)에 대한 FDA의 현재 견해를 담고 있으며, 자발적 RRA와 의무적 RRA를 모두 다루고 COVID-19 공중보건 비상사태 밖에서 FDA 규제 제품에 대해 FDA가 원격 평가를 수행하는 방식을 설명합니다.",
+    "페이지에는 이 최종 가이던스가 2024년 1월 26일 연방관보(89 FR 5244)로 공지된 같은 제목의 개정 초안을 대체한다고 적혀 있고, 개정은 이전 초안에 대한 의견과 식품의약품종합개혁법(FDORA)을 반영한 것이라고 되어 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on questions and answers on conducting remote regulatory assessments",
+   "sum": "In June 2025 FDA posted the final guidance \"Conducting Remote Regulatory Assessments Questions and Answers\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2022-D-0810. The issuing office is Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program and Office of Combination Products and the page shows a posting date of 30 June 2025.",
+    "It gives FDA's current thinking on Remote Regulatory Assessments (RRAs), covering both voluntary and mandatory RRAs, and explains how FDA conducts remote assessments for FDA-regulated products outside the COVID-19 public health emergency.",
+    "The page states that this final guidance replaces the revised draft guidance of the same title announced in the Federal Register on 26 January 2024 (89 FR 5244), with revisions reflecting comments on earlier drafts and the Food and Drug Omnibus Reform Act of 2022 (FDORA).",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布开展远程监管评估问答最终指南",
+   "sum": "2025年6月,FDA发布了最终指南《Conducting Remote Regulatory Assessments Questions and Answers》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2022-D-0810。发布部门为Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program和Office of Combination Products,页面显示的发布日期为2025年6月30日。",
+    "文件阐述了FDA对远程监管评估(RRA)的现行看法,涵盖自愿性和强制性RRA,并说明FDA在COVID-19公共卫生紧急状态之外如何对受FDA监管的产品开展远程评估。",
+    "页面载明,本最终指南取代2024年1月26日在联邦公报公告的同名修订草案(89 FR 5244),修订内容反映了对早期草案的意见以及《2022年食品药品综合改革法》(FDORA)。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、遠隔規制評価の実施に関するQ&Aに関する最終ガイダンスを発行",
+   "sum": "2025年6月、FDAは最終ガイダンス「Conducting Remote Regulatory Assessments Questions and Answers」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2022-D-0810です。発行部署はOffice of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods ProgramとOffice of Combination Productsで、ページの掲載日は2025年6月30日です。",
+    "遠隔規制評価(RRA)に関するFDAの現在の考え方を示し、任意及び義務のRRAの両方を扱い、COVID-19公衆衛生上の緊急事態以外でFDAが規制対象製品について遠隔評価をどのように実施するかを説明しています。",
+    "ページには、この最終ガイダンスが2024年1月26日に連邦官報(89 FR 5244)で告示された同名の改訂案に代わり、改訂は以前の案へのコメントと2022年食品医薬品包括改革法(FDORA)を反映していると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Conducting Remote Regulatory Assessments Questions and Answers",
+   "sum": "En junio de 2025, la FDA publicó la guía final «Conducting Remote Regulatory Assessments Questions and Answers».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2022-D-0810. La oficina emisora es Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program y Office of Combination Products y la página muestra como fecha de publicación el 30 de junio de 2025.",
+    "Expone la postura actual de la FDA sobre las evaluaciones regulatorias remotas (RRA), que abarcan las RRA voluntarias y obligatorias, y explica cómo realiza la FDA evaluaciones remotas de productos regulados por la FDA fuera de la emergencia de salud pública por COVID-19.",
+    "La página indica que esta guía final sustituye al borrador revisado del mismo título anunciado en el Federal Register el 26 de enero de 2024 (89 FR 5244), con revisiones que reflejan los comentarios sobre borradores anteriores y la Food and Drug Omnibus Reform Act de 2022 (FDORA).",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Conducting Remote Regulatory Assessments Questions and Answers",
+   "sum": "Em junho de 2025, a FDA publicou a orientação final «Conducting Remote Regulatory Assessments Questions and Answers».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2022-D-0810. O gabinete emissor é Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program e Office of Combination Products e a página mostra como data de publicação 30 de junho de 2025.",
+    "Expõe o entendimento atual da FDA sobre as avaliações regulamentares remotas (RRA), que abrangem as RRA voluntárias e obrigatórias, e explica como a FDA realiza avaliações remotas de produtos regulados pela FDA fora da emergência de saúde pública da COVID-19.",
+    "A página indica que esta orientação final substitui o projeto revisto com o mesmo título anunciado no Federal Register em 26 de janeiro de 2024 (89 FR 5244), com revisões que refletem os comentários a projetos anteriores e a Food and Drug Omnibus Reform Act de 2022 (FDORA).",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Conducting Remote Regulatory Assessments Questions and Answers",
+   "sum": "В июне 2025 года FDA опубликовало окончательное руководство «Conducting Remote Regulatory Assessments Questions and Answers».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2022-D-0810. Выпускающее подразделение — Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program и Office of Combination Products, на странице указана дата публикации 30 июня 2025 года.",
+    "В нём изложено текущее мнение FDA о дистанционных регуляторных оценках (RRA), охватывающих добровольные и обязательные RRA, и объясняется, как FDA проводит дистанционные оценки продукции, регулируемой FDA, вне чрезвычайной ситуации в области общественного здравоохранения из-за COVID-19.",
+    "На странице указано, что это окончательное руководство заменяет пересмотренный проект с тем же названием, объявленный в Federal Register 26 января 2024 года (89 FR 5244); изменения отражают замечания к предыдущим проектам и Закон о комплексной реформе в сфере пищевых продуктов и лекарств 2022 года (FDORA).",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Conducting Remote Regulatory Assessments Questions and Answers",
+   "sum": "En juin 2025, la FDA a publié la ligne directrice finale « Conducting Remote Regulatory Assessments Questions and Answers ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2022-D-0810. Le bureau émetteur est Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program et Office of Combination Products et la page indique comme date de publication le 30 juin 2025.",
+    "Il expose la position actuelle de la FDA sur les évaluations réglementaires à distance (RRA), qui couvrent les RRA volontaires et obligatoires, et explique comment la FDA mène des évaluations à distance de produits réglementés par la FDA en dehors de l'urgence de santé publique liée à la COVID-19.",
+    "La page indique que cette ligne directrice finale remplace le projet révisé du même titre annoncé au Federal Register le 26 janvier 2024 (89 FR 5244), avec des révisions reflétant les commentaires sur les projets antérieurs et la Food and Drug Omnibus Reform Act de 2022 (FDORA).",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Conducting Remote Regulatory Assessments Questions and Answers",
+   "sum": "Im Juni 2025 hat die FDA den endgültigen Leitfaden „Conducting Remote Regulatory Assessments Questions and Answers“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2022-D-0810. Herausgebende Stelle ist Office of Inspections and Investigations, CBER, CDRH, CDER, CTP, CVM, Human Foods Program und Office of Combination Products; die Seite nennt als Veröffentlichungsdatum den 30. Juni 2025.",
+    "Er gibt die aktuelle Auffassung der FDA zu Remote Regulatory Assessments (RRA) wieder, die freiwillige und verpflichtende RRA umfassen, und erläutert, wie die FDA außerhalb des COVID-19-Gesundheitsnotstands Fernbewertungen für von der FDA regulierte Produkte durchführt.",
+    "Die Seite gibt an, dass dieser endgültige Leitfaden den überarbeiteten Entwurf gleichen Titels ersetzt, der am 26. Januar 2024 im Federal Register bekannt gemacht wurde (89 FR 5244); die Überarbeitungen berücksichtigen Kommentare zu früheren Entwürfen und den Food and Drug Omnibus Reform Act von 2022 (FDORA).",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/conducting-remote-regulatory-assessments-questions-and-answers",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-11754",
+    "Federal Register notice 2025-11754",
+    "https://www.federalregister.gov/d/2025-11754",
+    {
+     "zh": "联邦公报公告 2025-11754",
+     "ja": "連邦官報告示 2025-11754",
+     "es": "Aviso del Registro Federal 2025-11754",
+     "pt": "Aviso do Federal Register 2025-11754",
+     "ru": "Уведомление в Federal Register 2025-11754",
+     "fr": "Avis du Federal Register 2025-11754",
+     "de": "Bekanntmachung im Federal Register 2025-11754"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-ivd-enforcement-policies-564-final",
+  "date": "2025-09-22",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, FD&C법 제564조 선언 비상사태 중 체외진단검사에 대한 집행 정책 고려사항 최종 가이던스 발간",
+   "sum": "FDA가 2025년 9월 「Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2023-D-5365입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2025년 9월 22일입니다.",
+    "검사 제조업체가 승인되지 않은 일부 체외진단검사를 공급하는 것을 대상으로 하는 집행 정책을 발표할지 판단할 때 FDA가 평가하려는 요소를 설명하며, 앞으로 발생할 FD&C법 제564조상 선언 비상사태에 적용됩니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on considerations for enforcement policies for in vitro diagnostic tests during a Section 564 declared emergency",
+   "sum": "In September 2025 FDA posted the final guidance \"Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2023-D-5365. The issuing office is CDRH and the page shows a posting date of 22 September 2025.",
+    "It describes the factors FDA intends to assess when deciding whether to issue an enforcement policy covering test manufacturers' offering of certain unapproved in vitro diagnostic tests, and applies to a future relevant declared emergency under section 564 of the FD&C Act.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布FD&C法第564条宣布的紧急状态期间体外诊断检测执法政策的考量最终指南",
+   "sum": "2025年9月,FDA发布了最终指南《Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2023-D-5365。发布部门为CDRH,页面显示的发布日期为2025年9月22日。",
+    "文件说明了FDA在决定是否发布涵盖检测生产企业提供某些未获批体外诊断检测的执法政策时拟评估的因素,适用于未来依据FD&C法第564条宣布的相关紧急状态。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、FD&C法第564条に基づく宣言された緊急事態における体外診断検査の執行方針の検討事項に関する最終ガイダンスを発行",
+   "sum": "2025年9月、FDAは最終ガイダンス「Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2023-D-5365です。発行部署はCDRHで、ページの掲載日は2025年9月22日です。",
+    "検査製造業者による一部の未承認体外診断検査の提供を対象とする執行方針を発表するか判断する際にFDAが評価しようとする要因を説明しており、FD&C法第564条に基づき将来宣言される関連の緊急事態に適用されます。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency",
+   "sum": "En septiembre de 2025, la FDA publicó la guía final «Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2023-D-5365. La oficina emisora es CDRH y la página muestra como fecha de publicación el 22 de septiembre de 2025.",
+    "Describe los factores que la FDA pretende evaluar al decidir si emite una política de aplicación que cubra la oferta por los fabricantes de determinadas pruebas diagnósticas in vitro no aprobadas, y se aplica a una futura emergencia declarada pertinente conforme a la sección 564 de la ley FD&C.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency",
+   "sum": "Em setembro de 2025, a FDA publicou a orientação final «Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2023-D-5365. O gabinete emissor é CDRH e a página mostra como data de publicação 22 de setembro de 2025.",
+    "Descreve os fatores que a FDA pretende avaliar ao decidir se emite uma política de aplicação que abranja a oferta, pelos fabricantes, de determinados testes de diagnóstico in vitro não aprovados, e aplica-se a uma futura emergência declarada relevante nos termos da secção 564 da lei FD&C.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency",
+   "sum": "В сентябре 2025 года FDA опубликовало окончательное руководство «Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2023-D-5365. Выпускающее подразделение — CDRH, на странице указана дата публикации 22 сентября 2025 года.",
+    "В нём описаны факторы, которые FDA намерено оценивать при решении о выпуске политики обеспечения соблюдения требований в отношении предложения производителями некоторых неодобренных диагностических тестов in vitro; он применяется к будущей соответствующей объявленной чрезвычайной ситуации по разделу 564 закона FD&C.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency",
+   "sum": "En septembre 2025, la FDA a publié la ligne directrice finale « Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2023-D-5365. Le bureau émetteur est CDRH et la page indique comme date de publication le 22 septembre 2025.",
+    "Il décrit les facteurs que la FDA entend évaluer pour décider d'émettre ou non une politique d'application couvrant l'offre par les fabricants de certains tests de diagnostic in vitro non approuvés, et s'applique à une future urgence déclarée pertinente au titre de la section 564 de la loi FD&C.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency",
+   "sum": "Im September 2025 hat die FDA den endgültigen Leitfaden „Consideration of Enforcement Policies for In Vitro Diagnostic Tests During a Section 564 Declared Emergency“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2023-D-5365. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 22. September 2025.",
+    "Er beschreibt die Faktoren, die die FDA bei der Entscheidung bewertet, ob sie eine Durchsetzungspolitik für das Angebot bestimmter nicht zugelassener In-vitro-Diagnostika durch Hersteller erlässt, und gilt für einen künftigen einschlägigen erklärten Notstand nach Abschnitt 564 des FD&C Act.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/consideration-enforcement-policies-in-vitro-diagnostic-tests-during-section-564-declared-emergency",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-18402",
+    "Federal Register notice 2025-18402",
+    "https://www.federalregister.gov/d/2025-18402",
+    {
+     "zh": "联邦公报公告 2025-18402",
+     "ja": "連邦官報告示 2025-18402",
+     "es": "Aviso del Registro Federal 2025-18402",
+     "pt": "Aviso do Federal Register 2025-18402",
+     "ru": "Уведомление в Federal Register 2025-18402",
+     "fr": "Avis du Federal Register 2025-18402",
+     "de": "Bekanntmachung im Federal Register 2025-18402"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-ecopy-program-final",
+  "date": "2025-12-03",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료기기 제출 자료를 위한 eCopy 프로그램 최종 가이던스 발간",
+   "sum": "FDA가 2025년 12월 「eCopy Program for Medical Device Submissions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2018-N-0628입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 12월 3일입니다.",
+    "FD&C법 제745A(b)조에 따라 FDA가 eCopy 프로그램을 어떻게 시행하는지 설명합니다. 페이지에는 Pre-Submission과 FD&C법 제510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m), 564조 및 PHS법 제351조에 따른 제출이 대상으로 열거되어 있고, eSTAR가 전자 전용 제출의 현행 프로그램이며 eSTAR가 각 제출 유형에 도입되기 전까지는 eCopy가 요구된다고 적혀 있습니다.",
+    "페이지에는 이 문서가 2020년 4월 27일 발행된 가이던스의 갱신본이며, eSTAR 프로그램 및 CDRH 포털과의 관계에 대한 명확화와 허용 파일 크기 확대 등 최신 기술 표준 반영이 갱신 내용이라고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on eCopy program for medical device submissions",
+   "sum": "In December 2025 FDA posted the final guidance \"eCopy Program for Medical Device Submissions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2018-N-0628. The issuing office is CDRH and CBER and the page shows a posting date of 3 December 2025.",
+    "It describes how FDA implements the eCopy Program under section 745A(b) of the FD&C Act. The page lists Pre-Submissions and submissions under FD&C Act sections 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) or 564 and PHS Act section 351, and states that eSTAR is the current program for solely electronic submissions and that eCopies are required for a submission type until eSTAR is implemented for it.",
+    "The page says this is an updated version of the guidance issued on 27 April 2020, with updates clarifying the intersection with the eSTAR Program and the availability of the CDRH Portal, and minor changes reflecting modern technical standards such as a larger acceptable file size.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械提交资料的eCopy计划最终指南",
+   "sum": "2025年12月,FDA发布了最终指南《eCopy Program for Medical Device Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2018-N-0628。发布部门为CDRH和CBER,页面显示的发布日期为2025年12月3日。",
+    "文件说明FDA如何依据FD&C法第745A(b)条实施eCopy计划。页面列出了Pre-Submission以及依据FD&C法第510(k)、513(f)(2)(A)、515(c)、515(d)、515(f)、520(g)、520(m)或564条和PHS法第351条的提交,并载明eSTAR是目前纯电子提交的计划,在eSTAR对某类提交实施之前,该类提交仍须提交eCopy。",
+    "页面称本文件是2020年4月27日发布指南的更新版,更新内容包括澄清与eSTAR计划的关系和CDRH门户的可用性,以及反映现代技术标准的小幅修改(如允许的文件更大)。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器提出資料のeCopyプログラムに関する最終ガイダンスを発行",
+   "sum": "2025年12月、FDAは最終ガイダンス「eCopy Program for Medical Device Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2018-N-0628です。発行部署はCDRHとCBERで、ページの掲載日は2025年12月3日です。",
+    "FD&C法第745A(b)条に基づきFDAがeCopyプログラムをどのように実施するかを説明しています。ページにはPre-Submission並びにFD&C法第510(k)、513(f)(2)(A)、515(c)、515(d)、515(f)、520(g)、520(m)又は564条及びPHS法第351条に基づく提出が挙げられ、eSTARが電子のみの提出の現行プログラムであり、各提出種類にeSTARが導入されるまではeCopyが必要と記載されています。",
+    "ページには、本文書が2020年4月27日に発行されたガイダンスの更新版であり、eSTARプログラムとの関係とCDRHポータルの利用可能性の明確化、並びに許容ファイルサイズの拡大など現代の技術標準を反映する軽微な更新が含まれると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — eCopy Program for Medical Device Submissions",
+   "sum": "En diciembre de 2025, la FDA publicó la guía final «eCopy Program for Medical Device Submissions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2018-N-0628. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 3 de diciembre de 2025.",
+    "Describe cómo aplica la FDA el programa eCopy conforme a la sección 745A(b) de la ley FD&C. La página enumera las Pre-Submissions y las presentaciones conforme a las secciones 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) o 564 de la ley FD&C y a la sección 351 de la ley PHS, e indica que eSTAR es el programa actual de presentaciones exclusivamente electrónicas y que se exigen eCopies para un tipo de presentación hasta que se implante eSTAR para él.",
+    "La página indica que es una versión actualizada de la guía publicada el 27 de abril de 2020, con actualizaciones que aclaran la relación con el programa eSTAR y la disponibilidad del portal de CDRH, y cambios menores que reflejan los estándares técnicos actuales, como un mayor tamaño de archivo admitido.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — eCopy Program for Medical Device Submissions",
+   "sum": "Em dezembro de 2025, a FDA publicou a orientação final «eCopy Program for Medical Device Submissions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2018-N-0628. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 3 de dezembro de 2025.",
+    "Descreve como a FDA implementa o programa eCopy nos termos da secção 745A(b) da lei FD&C. A página enumera as Pre-Submissions e as submissões nos termos das secções 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) ou 564 da lei FD&C e da secção 351 da lei PHS, e indica que o eSTAR é o programa atual de submissões exclusivamente eletrónicas e que são exigidas eCopies para um tipo de submissão até o eSTAR ser implementado para esse tipo.",
+    "A página indica que é uma versão atualizada da orientação emitida em 27 de abril de 2020, com atualizações que esclarecem a relação com o programa eSTAR e a disponibilidade do portal do CDRH, e alterações menores que refletem as normas técnicas atuais, como um maior tamanho de ficheiro admitido.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — eCopy Program for Medical Device Submissions",
+   "sum": "В декабре 2025 года FDA опубликовало окончательное руководство «eCopy Program for Medical Device Submissions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2018-N-0628. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 3 декабря 2025 года.",
+    "В нём описано, как FDA реализует программу eCopy в соответствии с разделом 745A(b) закона FD&C. На странице перечислены Pre-Submission и заявки по разделам 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) или 564 закона FD&C и разделу 351 закона PHS; указано, что eSTAR — действующая программа исключительно электронных заявок и что для типа заявок требуются eCopy, пока для него не внедрён eSTAR.",
+    "На странице указано, что это обновлённая версия руководства от 27 апреля 2020 года: разъяснены связь с программой eSTAR и доступность портала CDRH, а также внесены небольшие изменения с учётом современных технических стандартов, например увеличен допустимый размер файла.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — eCopy Program for Medical Device Submissions",
+   "sum": "En décembre 2025, la FDA a publié la ligne directrice finale « eCopy Program for Medical Device Submissions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2018-N-0628. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 3 décembre 2025.",
+    "Il décrit comment la FDA met en œuvre le programme eCopy au titre de la section 745A(b) de la loi FD&C. La page énumère les Pre-Submissions et les soumissions au titre des sections 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) ou 564 de la loi FD&C et de la section 351 de la loi PHS, et indique qu'eSTAR est le programme actuel de soumissions exclusivement électroniques et que des eCopies sont requises pour un type de soumission tant qu'eSTAR n'y est pas mis en œuvre.",
+    "La page indique qu'il s'agit d'une version actualisée de la ligne directrice publiée le 27 avril 2020, avec des mises à jour clarifiant l'articulation avec le programme eSTAR et la disponibilité du portail du CDRH, et des modifications mineures reflétant les normes techniques actuelles, comme une taille de fichier acceptable plus grande.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — eCopy Program for Medical Device Submissions",
+   "sum": "Im Dezember 2025 hat die FDA den endgültigen Leitfaden „eCopy Program for Medical Device Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2018-N-0628. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 3. Dezember 2025.",
+    "Er beschreibt, wie die FDA das eCopy-Programm nach Abschnitt 745A(b) des FD&C Act umsetzt. Die Seite nennt Pre-Submissions und Einreichungen nach den Abschnitten 510(k), 513(f)(2)(A), 515(c), 515(d), 515(f), 520(g), 520(m) oder 564 des FD&C Act sowie Abschnitt 351 des PHS Act und gibt an, dass eSTAR das aktuelle Programm für ausschließlich elektronische Einreichungen ist und für einen Einreichungstyp eCopies verlangt werden, bis eSTAR dafür eingeführt ist.",
+    "Die Seite gibt an, dass es sich um eine aktualisierte Fassung des am 27. April 2020 veröffentlichten Leitfadens handelt, mit Klarstellungen zum Zusammenspiel mit dem eSTAR-Programm und zur Verfügbarkeit des CDRH-Portals sowie kleineren Änderungen, die moderne technische Standards wie eine größere zulässige Dateigröße berücksichtigen.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/ecopy-program-medical-device-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2018-N-0628 (regulations.gov)",
+    "Regulations.gov docket FDA-2018-N-0628",
+    "https://www.regulations.gov/docket/FDA-2018-N-0628",
+    {
+     "zh": "Regulations.gov档案 FDA-2018-N-0628",
+     "ja": "Regulations.govドケット FDA-2018-N-0628",
+     "es": "Expediente de Regulations.gov FDA-2018-N-0628",
+     "pt": "Processo do Regulations.gov FDA-2018-N-0628",
+     "ru": "Досье Regulations.gov FDA-2018-N-0628",
+     "fr": "Dossier Regulations.gov FDA-2018-N-0628",
+     "de": "Regulations.gov-Verfahren FDA-2018-N-0628"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-q-submission-estar-draft",
+  "date": "2025-05-28",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료기기 Q-Submission용 전자 제출 템플릿 가이던스 초안 발간",
+   "sum": "FDA가 2025년 5월 「Electronic Submission Template for Medical Device Q-Submissions」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2025-D-1082입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 5월 28일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "일부 Q-Submission, 구체적으로 Pre-Submission(Pre-Sub) 제출자에게 Pre-Sub 전자 제출을 지원하기 위해 CDRH와 CBER가 이미 게시한 자료를 안내하는 문서입니다. FDA가 약속한 전자 제출 템플릿 개발의 한 단계로, 제출의 일관성과 심사 효율을 높이는 것이 목적입니다.",
+    "문서가 최종 확정되면 전자 형식 제출의 표준, FDA가 Pre-Sub를 전자 형식으로 요구하려는 시기표, 면제 및 예외 기준을 정하게 된다고 적혀 있으며, 적용 대상은 Pre-Sub에 한정된다고 되어 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on electronic submission template for medical device Q-Submissions",
+   "sum": "In May 2025 FDA posted the draft guidance \"Electronic Submission Template for Medical Device Q-Submissions\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2025-D-1082. The issuing office is CDRH and CBER and the page shows a posting date of 28 May 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It introduces submitters of certain Q-Submissions, specifically Pre-Submissions (Pre-Subs), to CDRH and CBER resources already published to support Pre-Sub electronic submissions. It is described as one step in FDA's commitment to develop electronic submission templates as guided preparation tools to improve submission consistency and review efficiency.",
+    "The page says that once finalized, the guidance would set standards for electronic-format submission, a timetable for when FDA intends to require Pre-Subs in electronic format, and criteria for waivers and exemptions; applicability is stated as Pre-Subs only.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械Q-Submission电子提交模板指南草案",
+   "sum": "2025年5月,FDA发布了指南草案《Electronic Submission Template for Medical Device Q-Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2025-D-1082。发布部门为CDRH和CBER,页面显示的发布日期为2025年5月28日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件向某些Q-Submission(具体为Pre-Submission,即Pre-Sub)的提交者介绍CDRH和CBER已发布的、用于支持Pre-Sub电子提交的资源。文件称这是FDA承诺开发电子提交模板(作为引导式准备工具)以提高提交一致性和审评效率的一步。",
+    "页面称,文件定稿后将规定电子格式提交的标准、FDA拟要求以电子格式提交Pre-Sub的时间表以及豁免和例外的标准;适用范围仅限Pre-Sub。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器Q-Submission用の電子提出テンプレートに関するガイダンス案を発行",
+   "sum": "2025年5月、FDAはガイダンス案「Electronic Submission Template for Medical Device Q-Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2025-D-1082です。発行部署はCDRHとCBERで、ページの掲載日は2025年5月28日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "一部のQ-Submission、具体的にはPre-Submission(Pre-Sub)の提出者に対し、Pre-Subの電子提出を支援するためCDRHとCBERが既に公開している資料を紹介する文書です。提出の一貫性と審査の効率を高めるため、ガイド付き準備ツールとして電子提出テンプレートを開発するというFDAの取り組みの一段階とされています。",
+    "ページには、文書が最終化されると、電子形式での提出の標準、FDAがPre-Subを電子形式で求める予定の時期、及び免除・例外の基準を定めることになり、適用対象はPre-Subのみと記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Electronic Submission Template for Medical Device Q-Submissions",
+   "sum": "En mayo de 2025, la FDA publicó el borrador de guía «Electronic Submission Template for Medical Device Q-Submissions».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2025-D-1082. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 28 de mayo de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Presenta a quienes envían determinadas Q-Submissions, en concreto Pre-Submissions (Pre-Subs), los recursos de CDRH y CBER ya publicados para respaldar las presentaciones electrónicas de Pre-Sub. Se describe como un paso del compromiso de la FDA de desarrollar plantillas de presentación electrónica como herramientas guiadas de preparación para mejorar la coherencia de las presentaciones y la eficiencia de la revisión.",
+    "La página indica que, una vez finalizada, la guía fijaría normas para la presentación en formato electrónico, un calendario de cuándo la FDA pretende exigir las Pre-Subs en formato electrónico y criterios de dispensas y exenciones; la aplicabilidad se limita a las Pre-Subs.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Electronic Submission Template for Medical Device Q-Submissions",
+   "sum": "Em maio de 2025, a FDA publicou o projeto de orientação «Electronic Submission Template for Medical Device Q-Submissions».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2025-D-1082. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 28 de maio de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Apresenta aos submissores de determinadas Q-Submissions, em concreto Pre-Submissions (Pre-Subs), os recursos do CDRH e do CBER já publicados para apoiar as submissões eletrónicas de Pre-Sub. É descrita como um passo do compromisso da FDA de desenvolver modelos de submissão eletrónica como ferramentas guiadas de preparação para melhorar a coerência das submissões e a eficiência da avaliação.",
+    "A página indica que, depois de finalizada, a orientação fixaria normas para a submissão em formato eletrónico, um calendário de quando a FDA pretende exigir as Pre-Subs em formato eletrónico e critérios de dispensas e isenções; a aplicabilidade limita-se às Pre-Subs.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Electronic Submission Template for Medical Device Q-Submissions",
+   "sum": "В мае 2025 года FDA опубликовало проект руководства «Electronic Submission Template for Medical Device Q-Submissions».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2025-D-1082. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 28 мая 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "Документ знакомит подателей некоторых Q-Submission, а именно Pre-Submission (Pre-Sub), с ресурсами CDRH и CBER, уже опубликованными для поддержки электронной подачи Pre-Sub. Он описан как один из шагов в рамках обязательства FDA разработать шаблоны электронной подачи в качестве инструментов пошаговой подготовки для повышения единообразия заявок и эффективности рассмотрения.",
+    "На странице указано, что после окончательного утверждения руководство установит стандарты подачи в электронном формате, график, по которому FDA намерено требовать Pre-Sub в электронном формате, и критерии освобождений и исключений; применимость ограничена Pre-Sub.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Electronic Submission Template for Medical Device Q-Submissions",
+   "sum": "En mai 2025, la FDA a publié le projet de ligne directrice « Electronic Submission Template for Medical Device Q-Submissions ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2025-D-1082. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 28 mai 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il présente aux auteurs de certaines Q-Submissions, en particulier les Pre-Submissions (Pre-Subs), les ressources du CDRH et du CBER déjà publiées à l'appui des soumissions électroniques de Pre-Sub. Il est décrit comme une étape de l'engagement de la FDA à élaborer des modèles de soumission électronique comme outils de préparation guidée afin d'améliorer la cohérence des soumissions et l'efficacité de l'examen.",
+    "La page indique qu'une fois finalisée, la ligne directrice fixerait des normes pour la soumission au format électronique, un calendrier pour l'exigence par la FDA des Pre-Subs au format électronique et des critères de dérogation et d'exemption ; son champ d'application est limité aux Pre-Subs.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Electronic Submission Template for Medical Device Q-Submissions",
+   "sum": "Im Mai 2025 hat die FDA den Leitfadenentwurf „Electronic Submission Template for Medical Device Q-Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2025-D-1082. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 28. Mai 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er stellt Einreichern bestimmter Q-Submissions, konkret Pre-Submissions (Pre-Subs), die bereits veröffentlichten Ressourcen von CDRH und CBER zur Unterstützung elektronischer Pre-Sub-Einreichungen vor. Er wird als ein Schritt der Verpflichtung der FDA beschrieben, elektronische Einreichungsvorlagen als geführte Vorbereitungshilfen zu entwickeln, um die Einheitlichkeit der Einreichungen und die Prüfeffizienz zu verbessern.",
+    "Die Seite gibt an, dass der Leitfaden nach Fertigstellung Standards für die Einreichung im elektronischen Format, einen Zeitplan, ab wann die FDA Pre-Subs in elektronischem Format verlangen will, und Kriterien für Verzichte und Ausnahmen festlegen würde; der Anwendungsbereich beschränkt sich auf Pre-Subs.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/electronic-submission-template-medical-device-q-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-09615",
+    "Federal Register notice 2025-09615",
+    "https://www.federalregister.gov/d/2025-09615",
+    {
+     "zh": "联邦公报公告 2025-09615",
+     "ja": "連邦官報告示 2025-09615",
+     "es": "Aviso del Registro Federal 2025-09615",
+     "pt": "Aviso do Federal Register 2025-09615",
+     "ru": "Уведомление в Federal Register 2025-09615",
+     "fr": "Avis du Federal Register 2025-09615",
+     "de": "Bekanntmachung im Federal Register 2025-09615"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-sex-specific-data-final",
+  "date": "2025-03-31",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료기기 임상시험의 성별 특이 데이터 평가 최종 가이던스 발간",
+   "sum": "FDA가 2025년 3월 「Evaluation of Sex-Specific Data in Medical Device Clinical Studies」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2011-D-0817입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2025년 3월 31일입니다.",
+    "의료기기 임상시험에서 성별에 따른 환자 모집, 데이터 분석, 시험 정보 보고에 대한 FDA의 기대를 담고 있으며, 성별 모집과 성별에 맞는 분석을 장려해 두 성별에서 기기가 어떻게 작동하는지에 대한 데이터의 질과 일관성을 높이는 것이 주된 목적이라고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on evaluation of sex-specific data in medical device clinical studies",
+   "sum": "In March 2025 FDA posted the final guidance \"Evaluation of Sex-Specific Data in Medical Device Clinical Studies\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2011-D-0817. The issuing office is CDRH and the page shows a posting date of 31 March 2025.",
+    "It gives FDA's expectations on sex-specific patient enrollment, data analysis and reporting of study information in medical device clinical studies; the stated primary intent is to improve the quality and consistency of data on how devices perform in both sexes by encouraging enrollment by sex and sex-appropriate analysis of study data.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械临床研究中性别特异性数据的评价最终指南",
+   "sum": "2025年3月,FDA发布了最终指南《Evaluation of Sex-Specific Data in Medical Device Clinical Studies》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2011-D-0817。发布部门为CDRH,页面显示的发布日期为2025年3月31日。",
+    "文件阐述了FDA对医疗器械临床研究中按性别入组患者、数据分析和研究信息报告的期望;所述主要目的是通过鼓励按性别入组和进行适合性别的数据分析,提高器械在两性中表现的数据质量和一致性。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器臨床試験における性別特異的データの評価に関する最終ガイダンスを発行",
+   "sum": "2025年3月、FDAは最終ガイダンス「Evaluation of Sex-Specific Data in Medical Device Clinical Studies」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2011-D-0817です。発行部署はCDRHで、ページの掲載日は2025年3月31日です。",
+    "医療機器臨床試験における性別ごとの被験者登録、データ分析及び試験情報の報告に関するFDAの期待を示しており、性別ごとの登録と性別に適した分析を促すことで、機器が両性でどう機能するかについてのデータの質と一貫性を高めることが主な目的とされています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Evaluation of Sex-Specific Data in Medical Device Clinical Studies",
+   "sum": "En marzo de 2025, la FDA publicó la guía final «Evaluation of Sex-Specific Data in Medical Device Clinical Studies».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2011-D-0817. La oficina emisora es CDRH y la página muestra como fecha de publicación el 31 de marzo de 2025.",
+    "Recoge las expectativas de la FDA sobre la inclusión de pacientes por sexo, el análisis de datos y la comunicación de la información de los estudios clínicos de productos sanitarios; el objetivo principal declarado es mejorar la calidad y coherencia de los datos sobre el desempeño de los productos en ambos sexos, fomentando la inclusión por sexo y un análisis de datos adecuado al sexo.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Evaluation of Sex-Specific Data in Medical Device Clinical Studies",
+   "sum": "Em março de 2025, a FDA publicou a orientação final «Evaluation of Sex-Specific Data in Medical Device Clinical Studies».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2011-D-0817. O gabinete emissor é CDRH e a página mostra como data de publicação 31 de março de 2025.",
+    "Apresenta as expectativas da FDA quanto ao recrutamento de doentes por sexo, à análise de dados e à comunicação da informação dos estudos clínicos de dispositivos médicos; o objetivo principal declarado é melhorar a qualidade e a coerência dos dados sobre o desempenho dos dispositivos em ambos os sexos, incentivando o recrutamento por sexo e uma análise de dados adequada ao sexo.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Evaluation of Sex-Specific Data in Medical Device Clinical Studies",
+   "sum": "В марте 2025 года FDA опубликовало окончательное руководство «Evaluation of Sex-Specific Data in Medical Device Clinical Studies».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2011-D-0817. Выпускающее подразделение — CDRH, на странице указана дата публикации 31 марта 2025 года.",
+    "В нём изложены ожидания FDA в отношении набора пациентов с учётом пола, анализа данных и представления информации об исследованиях в клинических исследованиях медицинских изделий; заявленная основная цель — повысить качество и согласованность данных о работе изделий у обоих полов, поощряя набор по полу и анализ данных с учётом пола.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Evaluation of Sex-Specific Data in Medical Device Clinical Studies",
+   "sum": "En mars 2025, la FDA a publié la ligne directrice finale « Evaluation of Sex-Specific Data in Medical Device Clinical Studies ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2011-D-0817. Le bureau émetteur est CDRH et la page indique comme date de publication le 31 mars 2025.",
+    "Il énonce les attentes de la FDA concernant l'inclusion des patients selon le sexe, l'analyse des données et la communication des informations des études cliniques de dispositifs médicaux ; l'objectif principal déclaré est d'améliorer la qualité et la cohérence des données sur la performance des dispositifs chez les deux sexes en encourageant l'inclusion par sexe et une analyse des données adaptée au sexe.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Evaluation of Sex-Specific Data in Medical Device Clinical Studies",
+   "sum": "Im März 2025 hat die FDA den endgültigen Leitfaden „Evaluation of Sex-Specific Data in Medical Device Clinical Studies“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2011-D-0817. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 31. März 2025.",
+    "Er beschreibt die Erwartungen der FDA an die geschlechtsspezifische Patientenrekrutierung, Datenanalyse und Berichterstattung in klinischen Studien mit Medizinprodukten; die angegebene Hauptabsicht ist, die Qualität und Einheitlichkeit der Daten zur Leistung der Produkte bei beiden Geschlechtern zu verbessern, indem die Rekrutierung nach Geschlecht und eine geschlechtsgerechte Datenanalyse gefördert werden.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/evaluation-sex-specific-data-medical-device-clinical-studies-guidance-industry-and-food-and-drug",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2011-D-0817 (regulations.gov)",
+    "Regulations.gov docket FDA-2011-D-0817",
+    "https://www.regulations.gov/docket/FDA-2011-D-0817",
+    {
+     "zh": "Regulations.gov档案 FDA-2011-D-0817",
+     "ja": "Regulations.govドケット FDA-2011-D-0817",
+     "es": "Expediente de Regulations.gov FDA-2011-D-0817",
+     "pt": "Processo do Regulations.gov FDA-2011-D-0817",
+     "ru": "Досье Regulations.gov FDA-2011-D-0817",
+     "fr": "Dossier Regulations.gov FDA-2011-D-0817",
+     "de": "Regulations.gov-Verfahren FDA-2011-D-0817"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-pre-rfd-final",
+  "date": "2025-11-06",
+  "region": "us",
+  "svc": "license-holder",
+  "ko": {
+   "title": "FDA, 사전 지정 요청(Pre-RFD) 작성 방법 최종 가이던스 발간",
+   "sum": "FDA가 2025년 11월 「How to Prepare a Pre-Request for Designation (Pre-RFD)」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2017-D-0040입니다. 발행 부서는 Office of Combination Products이고 페이지의 게시일은 2025년 11월 6일입니다.",
+    "스폰서가 Pre-Request for Designation(Pre-RFD) 절차로 FDA의 예비 평가를 받도록 돕는 문서로, 복합제품국(OCP)의 Pre-RFD 절차와 Pre-RFD에 담아야 할 정보를 설명합니다.",
+    "이 절차는 인체용 의료제품이 의약품, 의료기기, 생물학적제제 또는 복합제품 중 무엇에 해당하는지에 대한 비공식적이고 구속력 없는 피드백을 주며, 복합제품이든 아니든 해당 제품을 어느 센터(CDER, CDRH, CBER)가 시판 전 심사·규제할지 지정하는 정보도 제공합니다. 페이지에는 이 문서가 개정된 2단계(Level 2) 최종 가이던스로 표시되어 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on how to prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "In November 2025 FDA posted the final guidance \"How to Prepare a Pre-Request for Designation (Pre-RFD)\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2017-D-0040. The issuing office is Office of Combination Products and the page shows a posting date of 6 November 2025.",
+    "It helps sponsors obtain a preliminary assessment from FDA through the Pre-Request for Designation (Pre-RFD) process, explaining the process at the Office of Combination Products (OCP) and the type of information a sponsor should provide.",
+    "The page says the process gives informal, non-binding feedback on the regulatory identity or classification of a human medical product as a drug, device, biological product or combination product, and gives information on assignment of a product to the appropriate FDA center (CDER, CDRH or CBER) for premarket review. The page labels the document \"Final Level 2 Revised Guidance\".",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布如何准备指定预请求(Pre-RFD)最终指南",
+   "sum": "2025年11月,FDA发布了最终指南《How to Prepare a Pre-Request for Designation (Pre-RFD)》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2017-D-0040。发布部门为Office of Combination Products,页面显示的发布日期为2025年11月6日。",
+    "文件帮助申办者通过指定预请求(Pre-RFD)程序获得FDA的初步评估,说明了复合产品办公室(OCP)的该程序以及申办者应提供的信息类型。",
+    "页面载明,该程序就人用医疗产品属于药品、器械、生物制品还是组合产品的监管属性或分类提供非正式、不具约束力的反馈,并提供有关将产品(无论是否组合产品)分配给相应FDA中心(CDER、CDRH或CBER)进行上市前审评的信息。页面将该文件标注为“Final Level 2 Revised Guidance”。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、指定事前要請(Pre-RFD)の作成方法に関する最終ガイダンスを発行",
+   "sum": "2025年11月、FDAは最終ガイダンス「How to Prepare a Pre-Request for Designation (Pre-RFD)」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2017-D-0040です。発行部署はOffice of Combination Productsで、ページの掲載日は2025年11月6日です。",
+    "スポンサーが指定事前要請(Pre-RFD)の手続を通じてFDAの予備的評価を得られるよう支援する文書で、複合製品室(OCP)の手続とスポンサーが提供すべき情報の種類を説明しています。",
+    "ページには、この手続が、人用医療製品が医薬品・医療機器・生物学的製剤・複合製品のいずれに当たるかという規制上の位置付けや分類について非公式で拘束力のないフィードバックを与え、製品を市販前審査のため適切なFDAセンター(CDER、CDRH又はCBER)に割り当てる情報も提供すると記載されています。ページは本文書を「Final Level 2 Revised Guidance」と表示しています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — How to Prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "En noviembre de 2025, la FDA publicó la guía final «How to Prepare a Pre-Request for Designation (Pre-RFD)».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2017-D-0040. La oficina emisora es Office of Combination Products y la página muestra como fecha de publicación el 6 de noviembre de 2025.",
+    "Ayuda a los promotores a obtener una evaluación preliminar de la FDA mediante el proceso Pre-Request for Designation (Pre-RFD), y explica el proceso en la Oficina de Productos Combinados (OCP) y el tipo de información que debe aportar el promotor.",
+    "La página indica que el proceso ofrece comentarios informales y no vinculantes sobre la identidad o clasificación regulatoria de un producto médico de uso humano como medicamento, producto sanitario, producto biológico o producto combinado, e información sobre la asignación del producto al centro de la FDA correspondiente (CDER, CDRH o CBER) para su revisión previa a la comercialización. La página etiqueta el documento como «Final Level 2 Revised Guidance».",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — How to Prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "Em novembro de 2025, a FDA publicou a orientação final «How to Prepare a Pre-Request for Designation (Pre-RFD)».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2017-D-0040. O gabinete emissor é Office of Combination Products e a página mostra como data de publicação 6 de novembro de 2025.",
+    "Ajuda os promotores a obter uma avaliação preliminar da FDA através do processo Pre-Request for Designation (Pre-RFD), explicando o processo no Gabinete de Produtos Combinados (OCP) e o tipo de informação que o promotor deve fornecer.",
+    "A página indica que o processo dá comentários informais e não vinculativos sobre a identidade ou classificação regulamentar de um produto médico de uso humano como medicamento, dispositivo, produto biológico ou produto combinado, e informação sobre a atribuição do produto ao centro da FDA adequado (CDER, CDRH ou CBER) para avaliação pré-comercialização. A página classifica o documento como «Final Level 2 Revised Guidance».",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — How to Prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "В ноябре 2025 года FDA опубликовало окончательное руководство «How to Prepare a Pre-Request for Designation (Pre-RFD)».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2017-D-0040. Выпускающее подразделение — Office of Combination Products, на странице указана дата публикации 6 ноября 2025 года.",
+    "Он помогает спонсорам получить предварительную оценку FDA в рамках процесса Pre-Request for Designation (Pre-RFD): объясняется процесс в Управлении комбинированных продуктов (OCP) и виды сведений, которые должен представить спонсор.",
+    "На странице указано, что процесс даёт неформальную необязательную обратную связь о регуляторной идентичности или классификации медицинского продукта для человека как лекарства, изделия, биологического продукта или комбинированного продукта, а также сведения о назначении продукта соответствующему центру FDA (CDER, CDRH или CBER) для предрыночной экспертизы. Документ обозначен на странице как «Final Level 2 Revised Guidance».",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — How to Prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "En novembre 2025, la FDA a publié la ligne directrice finale « How to Prepare a Pre-Request for Designation (Pre-RFD) ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2017-D-0040. Le bureau émetteur est Office of Combination Products et la page indique comme date de publication le 6 novembre 2025.",
+    "Il aide les promoteurs à obtenir une évaluation préliminaire de la FDA via le processus Pre-Request for Designation (Pre-RFD), en expliquant le processus au Bureau des produits combinés (OCP) et le type d'informations que le promoteur doit fournir.",
+    "La page indique que le processus fournit un retour informel et non contraignant sur l'identité ou la classification réglementaire d'un produit médical à usage humain comme médicament, dispositif, produit biologique ou produit combiné, ainsi que des informations sur l'attribution du produit au centre compétent de la FDA (CDER, CDRH ou CBER) pour l'examen préalable à la mise sur le marché. La page qualifie le document de « Final Level 2 Revised Guidance ».",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — How to Prepare a Pre-Request for Designation (Pre-RFD)",
+   "sum": "Im November 2025 hat die FDA den endgültigen Leitfaden „How to Prepare a Pre-Request for Designation (Pre-RFD)“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2017-D-0040. Herausgebende Stelle ist Office of Combination Products; die Seite nennt als Veröffentlichungsdatum den 6. November 2025.",
+    "Er hilft Sponsoren, über das Pre-Request-for-Designation-Verfahren (Pre-RFD) eine vorläufige Einschätzung der FDA zu erhalten, und erläutert das Verfahren beim Office of Combination Products (OCP) sowie die vom Sponsor vorzulegenden Informationen.",
+    "Die Seite gibt an, dass das Verfahren informelles, unverbindliches Feedback zur regulatorischen Identität oder Einstufung eines Humanmedizinprodukts als Arzneimittel, Medizinprodukt, biologisches Produkt oder Kombinationsprodukt liefert und Informationen zur Zuweisung des Produkts an das zuständige FDA-Zentrum (CDER, CDRH oder CBER) für die Prüfung vor der Markteinführung gibt. Die Seite bezeichnet das Dokument als „Final Level 2 Revised Guidance“.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/how-prepare-pre-request-designation-pre-rfd",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "규제 도켓 FDA-2017-D-0040 (regulations.gov)",
+    "Regulations.gov docket FDA-2017-D-0040",
+    "https://www.regulations.gov/docket/FDA-2017-D-0040",
+    {
+     "zh": "Regulations.gov档案 FDA-2017-D-0040",
+     "ja": "Regulations.govドケット FDA-2017-D-0040",
+     "es": "Expediente de Regulations.gov FDA-2017-D-0040",
+     "pt": "Processo do Regulations.gov FDA-2017-D-0040",
+     "ru": "Досье Regulations.gov FDA-2017-D-0040",
+     "fr": "Dossier Regulations.gov FDA-2017-D-0040",
+     "de": "Regulations.gov-Verfahren FDA-2017-D-0040"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-patient-preference-information-final",
+  "date": "2026-03-27",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 전 제품 생애주기에 걸친 자발적 환자 선호 정보의 반영 최종 가이던스 발간",
+   "sum": "FDA가 2026년 3월 「Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2015-D-1580입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2026년 3월 27일입니다.",
+    "기기에 대한 환자 선호 정보(PPI)를 FDA에 수집·제출할 때와 그 방법에 대한 권고를 담고 있으며, 스폰서 등 이해관계자가 전 제품 생애주기에서 FDA의 의사결정을 돕기 위해 PPI 수집·제출을 선택할 때 고려할 주요 개념을 다룹니다. 어떤 상황에서 어떤 방법이 가장 적합한지도 명확히 한다고 적혀 있습니다.",
+    "페이지에는 이 문서가 환자 선호 정보의 자발적 제출, PMA·HDE·De Novo 신청 심사, 결정 요약서와 기기 표시사항 포함에 관한 FDA의 이전 가이던스를 대체한다고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on incorporating voluntary patient preference information over the total product life cycle",
+   "sum": "In March 2026 FDA posted the final guidance \"Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2015-D-1580. The issuing office is CDRH and CBER and the page shows a posting date of 27 March 2026.",
+    "It gives recommendations on when and which methods to use to collect and submit patient preference information (PPI) for a device to FDA, and covers the principal concepts sponsors and other interested parties should consider when choosing to collect and submit PPI to aid FDA decision-making across the total product life cycle. It states it clarifies in which contexts different methods are best applied.",
+    "The page states that the guidance supersedes FDA's earlier guidance on patient preference information (voluntary submission, review in PMA, HDE and De Novo applications, and inclusion in decision summaries and device labeling).",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布在全产品生命周期中纳入自愿性患者偏好信息最终指南",
+   "sum": "2026年3月,FDA发布了最终指南《Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2015-D-1580。发布部门为CDRH和CBER,页面显示的发布日期为2026年3月27日。",
+    "文件就何时以及采用哪些方法收集并向FDA提交器械的患者偏好信息(PPI)提出建议,并涵盖申办者等相关方在选择收集和提交PPI以协助FDA在全产品生命周期决策时应考虑的主要概念。文件称其澄清了不同方法最适用的情形。",
+    "页面载明,本指南取代FDA此前关于患者偏好信息的指南(自愿提交、在PMA、HDE和De Novo申请中的审评,以及纳入决定摘要和器械标签)。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、総製品ライフサイクルを通じた任意の患者選好情報の活用に関する最終ガイダンスを発行",
+   "sum": "2026年3月、FDAは最終ガイダンス「Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2015-D-1580です。発行部署はCDRHとCBERで、ページの掲載日は2026年3月27日です。",
+    "機器に関する患者選好情報(PPI)をいつ、どの方法で収集しFDAに提出するかについての推奨事項を示し、スポンサー等の関係者が総製品ライフサイクルにおけるFDAの意思決定を支援するためにPPIの収集・提出を選ぶ際に考慮すべき主要な概念を扱っています。どの状況でどの方法が最適かを明確にするとしています。",
+    "ページには、本ガイダンスが患者選好情報に関するFDAの従来のガイダンス(任意提出、PMA・HDE・De Novo申請での審査、決定概要書及び機器表示への記載)に代わると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle",
+   "sum": "En marzo de 2026, la FDA publicó la guía final «Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2015-D-1580. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 27 de marzo de 2026.",
+    "Ofrece recomendaciones sobre cuándo y con qué métodos recopilar y presentar a la FDA información sobre las preferencias de los pacientes (PPI) de un producto, y abarca los conceptos principales que los promotores y otras partes interesadas deben considerar al decidir recopilar y presentar PPI para apoyar la toma de decisiones de la FDA a lo largo del ciclo de vida total del producto. Indica que aclara en qué contextos se aplican mejor los distintos métodos.",
+    "La página indica que la guía sustituye a la guía anterior de la FDA sobre información de preferencias de los pacientes (presentación voluntaria, revisión en solicitudes PMA, HDE y De Novo, e inclusión en los resúmenes de decisión y en el etiquetado).",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle",
+   "sum": "Em março de 2026, a FDA publicou a orientação final «Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2015-D-1580. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 27 de março de 2026.",
+    "Apresenta recomendações sobre quando e com que métodos recolher e submeter à FDA informação sobre as preferências dos doentes (PPI) de um dispositivo, e abrange os conceitos principais que os promotores e outras partes interessadas devem considerar ao decidir recolher e submeter PPI para apoiar a tomada de decisão da FDA ao longo do ciclo de vida total do produto. Indica que esclarece em que contextos os diferentes métodos se aplicam melhor.",
+    "A página indica que a orientação substitui a anterior orientação da FDA sobre informação de preferências dos doentes (submissão voluntária, avaliação em pedidos PMA, HDE e De Novo, e inclusão nos resumos de decisão e na rotulagem).",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle",
+   "sum": "В марте 2026 года FDA опубликовало окончательное руководство «Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2015-D-1580. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 27 марта 2026 года.",
+    "В нём даны рекомендации о том, когда и какими методами собирать и представлять в FDA информацию о предпочтениях пациентов (PPI) в отношении изделия, и рассмотрены основные понятия, которые спонсорам и другим заинтересованным сторонам следует учитывать при решении собирать и представлять PPI для поддержки решений FDA на протяжении всего жизненного цикла продукта. Указано, что в нём уточняется, в каких контекстах лучше применять разные методы.",
+    "На странице указано, что руководство заменяет прежнее руководство FDA по информации о предпочтениях пациентов (добровольное представление, рассмотрение в заявках PMA, HDE и De Novo, включение в резюме решений и маркировку изделий).",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle",
+   "sum": "En mars 2026, la FDA a publié la ligne directrice finale « Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2015-D-1580. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 27 mars 2026.",
+    "Il formule des recommandations sur le moment et les méthodes pour recueillir et soumettre à la FDA des informations sur les préférences des patients (PPI) concernant un dispositif, et couvre les principaux concepts que les promoteurs et autres parties intéressées devraient considérer lorsqu'ils choisissent de recueillir et soumettre des PPI pour éclairer les décisions de la FDA tout au long du cycle de vie total du produit. Il précise dans quels contextes les différentes méthodes s'appliquent le mieux.",
+    "La page indique que la ligne directrice remplace la précédente ligne directrice de la FDA sur les informations relatives aux préférences des patients (soumission volontaire, examen dans les demandes PMA, HDE et De Novo, et inclusion dans les résumés de décision et l'étiquetage).",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle",
+   "sum": "Im März 2026 hat die FDA den endgültigen Leitfaden „Incorporating Voluntary Patient Preference Information over the Total Product Life Cycle“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2015-D-1580. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 27. März 2026.",
+    "Er enthält Empfehlungen dazu, wann und mit welchen Methoden Patientenpräferenzinformationen (PPI) zu einem Produkt erhoben und der FDA vorgelegt werden sollten, und behandelt die wichtigsten Konzepte, die Sponsoren und andere Interessierte bei der Entscheidung zur Erhebung und Vorlage von PPI zur Unterstützung der FDA-Entscheidungen über den gesamten Produktlebenszyklus berücksichtigen sollten. Er stellt klar, in welchen Kontexten sich verschiedene Methoden am besten eignen.",
+    "Die Seite gibt an, dass der Leitfaden den früheren FDA-Leitfaden zu Patientenpräferenzinformationen (freiwillige Einreichung, Prüfung in PMA-, HDE- und De-Novo-Anträgen sowie Aufnahme in Entscheidungszusammenfassungen und Produktkennzeichnung) ersetzt.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/incorporating-voluntary-patient-preference-information-over-total-product-life-cycle",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-06063",
+    "Federal Register notice 2026-06063",
+    "https://www.federalregister.gov/d/2026-06063",
+    {
+     "zh": "联邦公报公告 2026-06063",
+     "ja": "連邦官報告示 2026-06063",
+     "es": "Aviso del Registro Federal 2026-06063",
+     "pt": "Aviso do Federal Register 2026-06063",
+     "ru": "Уведомление в Federal Register 2026-06063",
+     "fr": "Avis du Federal Register 2026-06063",
+     "de": "Bekanntmachung im Federal Register 2026-06063"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-pccp-ai-enabled-final",
+  "date": "2025-08-18",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, AI 기반 기기 소프트웨어 기능의 사전 결정 변경관리계획(PCCP) 시판 제출 권고 최종 가이던스 발간",
+   "sum": "FDA가 2025년 8월 「Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2022-D-2628입니다. 발행 부서는 CDRH, CBER, CDER 및 Office of Combination Products이고 페이지의 게시일은 2025년 8월 18일입니다.",
+    "AI 기반 기기에 대한 사전 결정 변경관리계획(PCCP)의 권고를 담고 있으며, 안전성과 유효성에 대한 합리적 보증을 유지하면서 반복적 수정을 허용하는 것이 목적입니다. PCCP에는 계획된 수정, 이를 개발·검증·구현하는 방법론, 영향 평가를 기술하도록 권고합니다.",
+    "FDA는 PCCP를 시판 제출 자료의 일부로 검토하므로 기술된 수정을 각각 별도의 시판 제출 없이 시행할 수 있다고 적혀 있습니다. 적용 대상은 510(k), De Novo, PMA 경로로 심사되는 AI 기반 기기(기기 주도 복합제품의 기기 구성요소 포함)입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on marketing submission recommendations for a predetermined change control plan for AI-enabled device software functions",
+   "sum": "In August 2025 FDA posted the final guidance \"Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2022-D-2628. The issuing office is CDRH, CBER, CDER and Office of Combination Products and the page shows a posting date of 18 August 2025.",
+    "It gives recommendations for predetermined change control plans (PCCPs) for AI-enabled devices, meant to allow iterative modifications while still providing reasonable assurance of safety and effectiveness; it recommends that a PCCP describe the planned modifications, the methodology to develop, validate and implement them, and an assessment of their impact.",
+    "The page says FDA reviews the PCCP as part of a marketing submission, so the modifications described can be implemented without a separate marketing submission for each. The recommendations apply to AI-enabled devices, including the device constituent part of device-led combination products, reviewed through the 510(k), De Novo and PMA pathways.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布人工智能赋能器械软件功能预定变更控制计划(PCCP)的上市提交建议最终指南",
+   "sum": "2025年8月,FDA发布了最终指南《Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2022-D-2628。发布部门为CDRH, CBER, CDER和Office of Combination Products,页面显示的发布日期为2025年8月18日。",
+    "文件就人工智能赋能器械的预定变更控制计划(PCCP)提出建议,旨在允许迭代修改的同时仍提供安全性和有效性的合理保证;建议PCCP描述计划的修改、开发、验证和实施这些修改的方法以及对其影响的评估。",
+    "页面载明,FDA将PCCP作为上市提交资料的一部分审评,因此所述修改可在无需为每项修改单独提交上市申请的情况下实施。建议适用于通过510(k)、De Novo和PMA途径审评的人工智能赋能器械,包括器械主导型组合产品的器械组成部分。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、AI対応機器ソフトウェア機能の事前設定変更管理計画(PCCP)に関する市販提出の推奨事項に関する最終ガイダンスを発行",
+   "sum": "2025年8月、FDAは最終ガイダンス「Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2022-D-2628です。発行部署はCDRH, CBER, CDERとOffice of Combination Productsで、ページの掲載日は2025年8月18日です。",
+    "AI対応機器の事前設定変更管理計画(PCCP)に関する推奨事項を示し、安全性と有効性の合理的な保証を保ちながら反復的な変更を可能にすることを目的としています。PCCPには、計画する変更、その開発・検証・実装の方法論、及び影響の評価を記載するよう推奨しています。",
+    "ページには、FDAがPCCPを市販提出の一部として審査するため、記載された変更を個別の市販提出なしに実施できると記載されています。対象は510(k)、De Novo、PMAの経路で審査されるAI対応機器(機器主導の複合製品の機器構成部分を含む)です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+   "sum": "En agosto de 2025, la FDA publicó la guía final «Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2022-D-2628. La oficina emisora es CDRH, CBER, CDER y Office of Combination Products y la página muestra como fecha de publicación el 18 de agosto de 2025.",
+    "Ofrece recomendaciones sobre los planes de control de cambios predeterminados (PCCP) para productos habilitados por IA, destinados a permitir modificaciones iterativas manteniendo una garantía razonable de seguridad y eficacia; recomienda que el PCCP describa las modificaciones previstas, la metodología para desarrollarlas, validarlas e implementarlas, y una evaluación de su impacto.",
+    "La página indica que la FDA revisa el PCCP como parte de una presentación de comercialización, de modo que las modificaciones descritas pueden implementarse sin una presentación de comercialización independiente para cada una. Las recomendaciones se aplican a los productos habilitados por IA, incluida la parte constituyente de producto de los productos combinados dirigidos por el producto sanitario, revisados por las vías 510(k), De Novo y PMA.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+   "sum": "Em agosto de 2025, a FDA publicou a orientação final «Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2022-D-2628. O gabinete emissor é CDRH, CBER, CDER e Office of Combination Products e a página mostra como data de publicação 18 de agosto de 2025.",
+    "Apresenta recomendações sobre os planos de controlo de alterações predeterminados (PCCP) para dispositivos habilitados por IA, destinados a permitir modificações iterativas mantendo uma garantia razoável de segurança e eficácia; recomenda que o PCCP descreva as modificações previstas, a metodologia para as desenvolver, validar e implementar, e uma avaliação do seu impacto.",
+    "A página indica que a FDA avalia o PCCP como parte de uma submissão de comercialização, pelo que as modificações descritas podem ser implementadas sem uma submissão de comercialização separada para cada uma. As recomendações aplicam-se a dispositivos habilitados por IA, incluindo a parte constituinte de dispositivo de produtos combinados liderados por dispositivo, avaliados pelas vias 510(k), De Novo e PMA.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+   "sum": "В августе 2025 года FDA опубликовало окончательное руководство «Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2022-D-2628. Выпускающее подразделение — CDRH, CBER, CDER и Office of Combination Products, на странице указана дата публикации 18 августа 2025 года.",
+    "В нём даны рекомендации по планам контроля предопределённых изменений (PCCP) для изделий на основе ИИ, позволяющим вносить итеративные изменения при сохранении обоснованной уверенности в безопасности и эффективности; рекомендуется, чтобы PCCP описывал планируемые изменения, методологию их разработки, валидации и внедрения, а также оценку их влияния.",
+    "На странице указано, что FDA рассматривает PCCP как часть маркетинговой заявки, поэтому описанные изменения можно вносить без отдельной маркетинговой заявки на каждое. Рекомендации применяются к изделиям на основе ИИ, включая изделие-компонент комбинированных продуктов, в которых ведущим является изделие, рассматриваемым по путям 510(k), De Novo и PMA.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+   "sum": "En août 2025, la FDA a publié la ligne directrice finale « Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2022-D-2628. Le bureau émetteur est CDRH, CBER, CDER et Office of Combination Products et la page indique comme date de publication le 18 août 2025.",
+    "Il formule des recommandations sur les plans de contrôle des modifications prédéterminés (PCCP) pour les dispositifs reposant sur l'IA, destinés à permettre des modifications itératives tout en maintenant une assurance raisonnable de sécurité et d'efficacité ; il recommande que le PCCP décrive les modifications prévues, la méthodologie pour les développer, les valider et les mettre en œuvre, ainsi qu'une évaluation de leur impact.",
+    "La page indique que la FDA examine le PCCP dans le cadre d'une soumission de mise sur le marché, de sorte que les modifications décrites peuvent être mises en œuvre sans soumission distincte pour chacune. Les recommandations s'appliquent aux dispositifs reposant sur l'IA, y compris la partie dispositif des produits combinés à dominante dispositif, examinés par les voies 510(k), De Novo et PMA.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions",
+   "sum": "Im August 2025 hat die FDA den endgültigen Leitfaden „Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2022-D-2628. Herausgebende Stelle ist CDRH, CBER, CDER und Office of Combination Products; die Seite nennt als Veröffentlichungsdatum den 18. August 2025.",
+    "Er enthält Empfehlungen für vorab festgelegte Änderungskontrollpläne (PCCP) für KI-gestützte Produkte, die iterative Änderungen ermöglichen sollen, während weiterhin eine angemessene Gewähr für Sicherheit und Wirksamkeit besteht; empfohlen wird, dass ein PCCP die geplanten Änderungen, die Methodik zu ihrer Entwicklung, Validierung und Umsetzung sowie eine Bewertung ihrer Auswirkungen beschreibt.",
+    "Die Seite gibt an, dass die FDA den PCCP als Teil einer Marktzulassungseinreichung prüft, sodass die beschriebenen Änderungen ohne gesonderte Einreichung für jede einzelne umgesetzt werden können. Die Empfehlungen gelten für KI-gestützte Produkte, einschließlich des Produktbestandteils von produktgeführten Kombinationsprodukten, die über die Wege 510(k), De Novo und PMA geprüft werden.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 공개열람 고시 2024-28361",
+    "Federal Register public inspection notice 2024-28361",
+    "https://www.federalregister.gov/public-inspection/2024-28361/guidance-marketing-submission-recommendations-for-a-predetermined-change-control-plan-for-artificial",
+    {
+     "zh": "联邦公报公开查阅公告 2024-28361",
+     "ja": "連邦官報 公開閲覧告示 2024-28361",
+     "es": "Aviso de inspección pública del Federal Register 2024-28361",
+     "pt": "Aviso de consulta pública do Federal Register 2024-28361",
+     "ru": "Уведомление Federal Register для публичного ознакомления 2024-28361",
+     "fr": "Avis de consultation publique du Federal Register 2024-28361",
+     "de": "Bekanntmachung zur öffentlichen Einsichtnahme im Federal Register 2024-28361"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-user-fee-small-business-final",
+  "date": "2025-07-30",
+  "region": "us",
+  "svc": "license-holder",
+  "ko": {
+   "title": "FDA, 의료기기 사용자 수수료 소기업 자격 및 결정 최종 가이던스 발간",
+   "sum": "FDA가 2025년 7월 「Medical Device User Fee Small Business Qualification and Determination」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2018-D-1873입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 7월 30일입니다.",
+    "2018년 8월 1일 발행된 이전 가이던스를 갱신하며, 소기업이 '재정적 어려움'을 겪고 있어 소기업 등록 수수료 면제 대상이 되는지를 FDA가 어떻게 판단하는지 설명합니다. 국가 과세 당국이 없는 관할의 기관을 포함해 면제를 신청하는 기관이 제출할 수 있는 정보의 종류도 설명합니다.",
+    "페이지에는 서식 3602 및 3602A를 단일 통합 서식인 Form 3602N으로 교체할 예정인 점도 반영해 갱신했다고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on medical device user fee small business qualification and determination",
+   "sum": "In July 2025 FDA posted the final guidance \"Medical Device User Fee Small Business Qualification and Determination\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2018-D-1873. The issuing office is CDRH and CBER and the page shows a posting date of 30 July 2025.",
+    "It updates the earlier guidance issued on 1 August 2018 and explains how FDA will determine whether a small business is experiencing \"financial hardship\", which makes it eligible for a Small Business Registration Fee Waiver. It describes the types of information an entity seeking the waiver may submit, including entities in jurisdictions without a national taxing authority.",
+    "The page says the guidance is also updated to reflect the planned replacement of Forms 3602 and 3602A with a single combined form, Form 3602N.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械用户费小企业资格与认定最终指南",
+   "sum": "2025年7月,FDA发布了最终指南《Medical Device User Fee Small Business Qualification and Determination》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2018-D-1873。发布部门为CDRH和CBER,页面显示的发布日期为2025年7月30日。",
+    "文件更新了2018年8月1日发布的早期指南,说明FDA如何判断小企业是否面临“财务困难”从而有资格获得小企业注册费减免,并说明申请减免的实体可提交的信息类型,包括没有国家税务机关的司法辖区的实体。",
+    "页面称,指南还已更新,以反映计划用单一合并表格Form 3602N取代Form 3602和3602A。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器ユーザーフィー小規模事業者の資格及び決定に関する最終ガイダンスを発行",
+   "sum": "2025年7月、FDAは最終ガイダンス「Medical Device User Fee Small Business Qualification and Determination」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2018-D-1873です。発行部署はCDRHとCBERで、ページの掲載日は2025年7月30日です。",
+    "2018年8月1日に発行された従来のガイダンスを更新し、小規模事業者が「財政難」にあり小規模事業者登録料の免除対象となるかをFDAがどう判断するかを説明しています。国の課税当局がない法域の事業体を含め、免除を求める事業体が提出できる情報の種類も説明しています。",
+    "ページには、様式3602及び3602Aを単一の統合様式であるForm 3602Nに置き換える予定を反映するため、ガイダンスも更新されたと記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Medical Device User Fee Small Business Qualification and Determination",
+   "sum": "En julio de 2025, la FDA publicó la guía final «Medical Device User Fee Small Business Qualification and Determination».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2018-D-1873. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 30 de julio de 2025.",
+    "Actualiza la guía anterior publicada el 1 de agosto de 2018 y explica cómo determinará la FDA si una pequeña empresa atraviesa «dificultades financieras», lo que la hace elegible para la exención de la tasa de registro de pequeñas empresas. Describe los tipos de información que puede presentar una entidad que solicite la exención, incluidas las entidades de jurisdicciones sin autoridad tributaria nacional.",
+    "La página indica que la guía también se actualizó para reflejar la sustitución prevista de los formularios 3602 y 3602A por un único formulario combinado, el Form 3602N.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Medical Device User Fee Small Business Qualification and Determination",
+   "sum": "Em julho de 2025, a FDA publicou a orientação final «Medical Device User Fee Small Business Qualification and Determination».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2018-D-1873. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 30 de julho de 2025.",
+    "Atualiza a orientação anterior emitida em 1 de agosto de 2018 e explica como a FDA determinará se uma pequena empresa enfrenta «dificuldades financeiras», o que a torna elegível para a isenção da taxa de registo de pequenas empresas. Descreve os tipos de informação que uma entidade que peça a isenção pode apresentar, incluindo entidades de jurisdições sem autoridade tributária nacional.",
+    "A página indica que a orientação foi também atualizada para refletir a substituição prevista dos formulários 3602 e 3602A por um único formulário combinado, o Form 3602N.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Medical Device User Fee Small Business Qualification and Determination",
+   "sum": "В июле 2025 года FDA опубликовало окончательное руководство «Medical Device User Fee Small Business Qualification and Determination».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2018-D-1873. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 30 июля 2025 года.",
+    "Он обновляет прежнее руководство от 1 августа 2018 года и объясняет, как FDA будет определять, испытывает ли малое предприятие «финансовые трудности», что даёт право на освобождение от регистрационного сбора для малых предприятий. Описаны виды сведений, которые может представить заявитель освобождения, включая организации из юрисдикций без национального налогового органа.",
+    "На странице указано, что руководство также обновлено с учётом планируемой замены форм 3602 и 3602A единой объединённой формой Form 3602N.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Medical Device User Fee Small Business Qualification and Determination",
+   "sum": "En juillet 2025, la FDA a publié la ligne directrice finale « Medical Device User Fee Small Business Qualification and Determination ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2018-D-1873. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 30 juillet 2025.",
+    "Il met à jour la ligne directrice antérieure du 1er août 2018 et explique comment la FDA déterminera si une petite entreprise connaît des « difficultés financières », ce qui la rend éligible à l'exonération du droit d'enregistrement des petites entreprises. Il décrit les types d'informations qu'une entité demandant l'exonération peut soumettre, y compris les entités de juridictions sans autorité fiscale nationale.",
+    "La page indique que la ligne directrice a aussi été mise à jour pour refléter le remplacement prévu des formulaires 3602 et 3602A par un formulaire unique combiné, le Form 3602N.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Medical Device User Fee Small Business Qualification and Determination",
+   "sum": "Im Juli 2025 hat die FDA den endgültigen Leitfaden „Medical Device User Fee Small Business Qualification and Determination“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2018-D-1873. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 30. Juli 2025.",
+    "Er aktualisiert den früheren Leitfaden vom 1. August 2018 und erläutert, wie die FDA feststellt, ob ein Kleinunternehmen unter „finanziellen Schwierigkeiten“ leidet und damit für den Erlass der Registrierungsgebühr für Kleinunternehmen in Frage kommt. Er beschreibt, welche Arten von Informationen ein Antragsteller, einschließlich Einrichtungen in Rechtsordnungen ohne nationale Steuerbehörde, einreichen kann.",
+    "Die Seite gibt an, dass der Leitfaden außerdem aktualisiert wurde, um den geplanten Ersatz der Formulare 3602 und 3602A durch ein einziges kombiniertes Formular, Form 3602N, abzubilden.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-user-fee-small-business-qualification-and-determination",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-14460",
+    "Federal Register notice 2025-14460",
+    "https://www.federalregister.gov/d/2025-14460",
+    {
+     "zh": "联邦公报公告 2025-14460",
+     "ja": "連邦官報告示 2025-14460",
+     "es": "Aviso del Registro Federal 2025-14460",
+     "pt": "Aviso do Federal Register 2025-14460",
+     "ru": "Уведомление в Federal Register 2025-14460",
+     "fr": "Avis du Federal Register 2025-14460",
+     "de": "Bekanntmachung im Federal Register 2025-14460"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-weight-loss-devices-final",
+  "date": "2026-03-12",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 체중 감량 관련 적응증을 가진 의료기기의 시판 전 고려사항 최종 가이던스 발간",
+   "sum": "FDA가 2026년 3월 「Medical Devices with Indications Associated with Weight Loss – Premarket Considerations」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2019-N-4060입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 3월 12일입니다.",
+    "체중 감량과 관련된 사용 목적을 가진 의료기기의 시판 제출(PMA, IDE, 510(k), De Novo)을 뒷받침하는 비임상 시험과 임상시험 설계에 대한 권고를 담고 있으며, 이러한 적응증을 뒷받침하는 유익성-위험 분석을 FDA가 어떻게 고려하는지도 다룹니다.",
+    "페이지에는 대상 적응증의 예로 과체중 또는 비만 환자의 체중 감량, 체중 감소, 체중 관리 또는 비만 치료가 제시되어 있으며, 기기 설계가 다양해 입증되는 체중 감량, 위험, 일부 권고 시험의 적용 가능성이 달라질 수 있다고 적혀 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on premarket considerations for medical devices with indications associated with weight loss",
+   "sum": "In March 2026 FDA posted the final guidance \"Medical Devices with Indications Associated with Weight Loss – Premarket Considerations\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2019-N-4060. The issuing office is CDRH and the page shows a posting date of 12 March 2026.",
+    "It gives recommendations on non-clinical testing and clinical study design to support premarket submissions (PMA, IDE, 510(k) and De Novo) for medical devices whose indications for use are associated with weight loss, and discusses how FDA considers the benefit-risk analysis supporting such indications.",
+    "The page gives weight loss, weight reduction, weight management and obesity treatment in patients who are overweight or have obesity as examples of covered indications, and notes that device designs vary, so demonstrated weight loss, risk and the applicability of some recommended testing can vary.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布具有减重相关适应症的医疗器械的上市前考虑事项最终指南",
+   "sum": "2026年3月,FDA发布了最终指南《Medical Devices with Indications Associated with Weight Loss – Premarket Considerations》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2019-N-4060。发布部门为CDRH,页面显示的发布日期为2026年3月12日。",
+    "文件就支持预期用途与减重相关的医疗器械上市前提交(PMA、IDE、510(k)和De Novo)的非临床测试和临床研究设计提出建议,并讨论FDA如何考虑支持此类适应症的获益-风险分析。",
+    "页面列举超重或肥胖患者的减重、减轻体重、体重管理或肥胖治疗作为所涵盖适应症的示例,并指出器械设计各不相同,因此已证实的减重效果、风险和部分建议测试的适用性可能有所不同。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、体重減少に関連する適応を持つ医療機器の市販前の考慮事項に関する最終ガイダンスを発行",
+   "sum": "2026年3月、FDAは最終ガイダンス「Medical Devices with Indications Associated with Weight Loss – Premarket Considerations」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2019-N-4060です。発行部署はCDRHで、ページの掲載日は2026年3月12日です。",
+    "体重減少に関連する使用目的を持つ医療機器の市販前提出(PMA、IDE、510(k)、De Novo)を裏付ける非臨床試験と臨床試験デザインに関する推奨事項を示し、こうした適応を裏付ける便益-リスク分析をFDAがどう考慮するかも論じています。",
+    "ページには、対象となる適応の例として、過体重又は肥満の患者における体重減少、体重低減、体重管理又は肥満治療が挙げられ、機器の設計が多様であるため、実証される体重減少、リスク及び一部の推奨試験の適用可否が異なり得ると記載されています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Medical Devices with Indications Associated with Weight Loss – Premarket Considerations",
+   "sum": "En marzo de 2026, la FDA publicó la guía final «Medical Devices with Indications Associated with Weight Loss – Premarket Considerations».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2019-N-4060. La oficina emisora es CDRH y la página muestra como fecha de publicación el 12 de marzo de 2026.",
+    "Ofrece recomendaciones sobre las pruebas no clínicas y el diseño de estudios clínicos para respaldar las presentaciones previas a la comercialización (PMA, IDE, 510(k) y De Novo) de productos sanitarios cuyas indicaciones de uso están asociadas con la pérdida de peso, y expone cómo considera la FDA el análisis beneficio-riesgo que respalda esas indicaciones.",
+    "La página cita como ejemplos de indicaciones cubiertas la pérdida de peso, la reducción de peso, el control del peso y el tratamiento de la obesidad en pacientes con sobrepeso u obesidad, y señala que los diseños de los productos varían, por lo que la pérdida de peso demostrada, el riesgo y la aplicabilidad de algunas pruebas recomendadas pueden variar.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Medical Devices with Indications Associated with Weight Loss – Premarket Considerations",
+   "sum": "Em março de 2026, a FDA publicou a orientação final «Medical Devices with Indications Associated with Weight Loss – Premarket Considerations».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2019-N-4060. O gabinete emissor é CDRH e a página mostra como data de publicação 12 de março de 2026.",
+    "Apresenta recomendações sobre os ensaios não clínicos e a conceção de estudos clínicos para sustentar as submissões pré-comercialização (PMA, IDE, 510(k) e De Novo) de dispositivos médicos cujas indicações de utilização estão associadas à perda de peso, e discute como a FDA considera a análise benefício-risco que sustenta essas indicações.",
+    "A página cita como exemplos de indicações abrangidas a perda de peso, a redução de peso, a gestão do peso e o tratamento da obesidade em doentes com excesso de peso ou obesidade, e refere que os desenhos dos dispositivos variam, pelo que a perda de peso demonstrada, o risco e a aplicabilidade de alguns ensaios recomendados podem variar.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Medical Devices with Indications Associated with Weight Loss – Premarket Considerations",
+   "sum": "В марте 2026 года FDA опубликовало окончательное руководство «Medical Devices with Indications Associated with Weight Loss – Premarket Considerations».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2019-N-4060. Выпускающее подразделение — CDRH, на странице указана дата публикации 12 марта 2026 года.",
+    "В нём даны рекомендации по доклиническим испытаниям и дизайну клинических исследований в поддержку предрыночных заявок (PMA, IDE, 510(k) и De Novo) на медицинские изделия, показания которых связаны с снижением массы тела, и рассмотрено, как FDA оценивает анализ «польза — риск», подтверждающий такие показания.",
+    "На странице в качестве примеров охватываемых показаний приведены снижение веса, уменьшение массы тела, контроль веса и лечение ожирения у пациентов с избыточной массой тела или ожирением, и отмечено, что конструкции изделий различаются, поэтому подтверждённое снижение веса, риск и применимость некоторых рекомендуемых испытаний могут различаться.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Medical Devices with Indications Associated with Weight Loss – Premarket Considerations",
+   "sum": "En mars 2026, la FDA a publié la ligne directrice finale « Medical Devices with Indications Associated with Weight Loss – Premarket Considerations ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2019-N-4060. Le bureau émetteur est CDRH et la page indique comme date de publication le 12 mars 2026.",
+    "Il formule des recommandations sur les essais non cliniques et la conception d'études cliniques à l'appui des soumissions préalables à la mise sur le marché (PMA, IDE, 510(k) et De Novo) de dispositifs médicaux dont les indications d'utilisation sont associées à la perte de poids, et examine comment la FDA considère l'analyse bénéfice-risque soutenant ces indications.",
+    "La page cite comme exemples d'indications couvertes la perte de poids, la réduction de poids, la gestion du poids et le traitement de l'obésité chez des patients en surpoids ou obèses, et note que les conceptions de dispositifs varient, de sorte que la perte de poids démontrée, le risque et l'applicabilité de certains essais recommandés peuvent varier.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Medical Devices with Indications Associated with Weight Loss – Premarket Considerations",
+   "sum": "Im März 2026 hat die FDA den endgültigen Leitfaden „Medical Devices with Indications Associated with Weight Loss – Premarket Considerations“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2019-N-4060. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 12. März 2026.",
+    "Er enthält Empfehlungen zu nichtklinischen Prüfungen und zum Design klinischer Studien zur Stützung von Premarket-Einreichungen (PMA, IDE, 510(k) und De Novo) für Medizinprodukte, deren Indikationen mit Gewichtsabnahme verbunden sind, und erörtert, wie die FDA die Nutzen-Risiko-Analyse zur Stützung solcher Indikationen berücksichtigt.",
+    "Die Seite nennt als Beispiele erfasster Indikationen Gewichtsverlust, Gewichtsreduktion, Gewichtsmanagement und Adipositasbehandlung bei übergewichtigen oder adipösen Patienten und weist darauf hin, dass sich Produktdesigns unterscheiden, sodass der nachgewiesene Gewichtsverlust, das Risiko und die Anwendbarkeit einiger empfohlener Prüfungen variieren können.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-devices-indications-associated-weight-loss-premarket-considerations",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-04918",
+    "Federal Register notice 2026-04918",
+    "https://www.federalregister.gov/d/2026-04918",
+    {
+     "zh": "联邦公报公告 2026-04918",
+     "ja": "連邦官報告示 2026-04918",
+     "es": "Aviso del Registro Federal 2026-04918",
+     "pt": "Aviso do Federal Register 2026-04918",
+     "ru": "Уведомление в Federal Register 2026-04918",
+     "fr": "Avis du Federal Register 2026-04918",
+     "de": "Bekanntmachung im Federal Register 2026-04918"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-menstrual-products-draft",
+  "date": "2025-11-14",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 월경용품의 성능시험 및 표시사항 권고 가이던스 초안 발간",
+   "sum": "FDA가 2025년 10월 「Menstrual Products – Performance Testing and Labeling Recommendations」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2025-D-5107입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2025년 11월 14일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "월경혈 또는 기타 질 분비물을 흡수하거나 모으는 기기, 구체적으로 탐폰, 패드, 월경컵 중 일부 제품에 대해 필요한 경우 510(k)에 포함할 성능시험, 표시사항, 정보에 관한 FDA의 권고를 담고 있습니다. 페이지는 이 권고가 갱신된 심사 관행을 반영하며 시험·표시 권고의 일관성과 투명성을 높이려는 것이라고 밝힙니다.",
+    "페이지의 문서 표기는 2025년 10월이고 게시 메타데이터 날짜는 2025년 11월 14일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on menstrual products: performance testing and labeling recommendations",
+   "sum": "In October 2025 FDA posted the draft guidance \"Menstrual Products – Performance Testing and Labeling Recommendations\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2025-D-5107. The issuing office is CDRH and the page shows a posting date of 14 November 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It gives FDA's recommendations for performance testing, labeling and information to include in 510(k) premarket notifications, when necessary, for certain menstrual products, namely devices used to absorb or collect menstrual fluid or other vaginal discharge: tampons, pads and menstrual cups. The page says the recommendations reflect updated review practices and aim at consistency and transparency in testing and labeling recommendations.",
+    "The page's document line reads October 2025, while its publication metadata date is 14 November 2025.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布月经产品的性能测试和标签建议指南草案",
+   "sum": "2025年10月,FDA发布了指南草案《Menstrual Products – Performance Testing and Labeling Recommendations》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2025-D-5107。发布部门为CDRH,页面显示的发布日期为2025年11月14日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件给出了FDA对某些月经产品(即用于吸收或收集经血或其他阴道分泌物的器械:卫生棉条、卫生巾和月经杯)在必要时应纳入510(k)上市前通知的性能测试、标签和信息的建议。页面称这些建议反映了更新的审评实践,旨在使测试和标签建议保持一致和透明。",
+    "页面的文件标注为2025年10月,发布元数据日期为2025年11月14日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、月経用品の性能試験及び表示に関する推奨事項に関するガイダンス案を発行",
+   "sum": "2025年10月、FDAはガイダンス案「Menstrual Products – Performance Testing and Labeling Recommendations」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2025-D-5107です。発行部署はCDRHで、ページの掲載日は2025年11月14日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "月経血やその他の膣分泌物を吸収又は採取する機器、具体的にはタンポン、ナプキン、月経カップの一部製品について、必要な場合に510(k)に含める性能試験、表示及び情報に関するFDAの推奨事項を示しています。ページは、この推奨事項が更新された審査実務を反映し、試験・表示の推奨の一貫性と透明性を目指すと述べています。",
+    "ページの文書表記は2025年10月で、掲載メタデータの日付は2025年11月14日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Menstrual Products – Performance Testing and Labeling Recommendations",
+   "sum": "En octubre de 2025, la FDA publicó el borrador de guía «Menstrual Products – Performance Testing and Labeling Recommendations».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2025-D-5107. La oficina emisora es CDRH y la página muestra como fecha de publicación el 14 de noviembre de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Ofrece las recomendaciones de la FDA sobre las pruebas de desempeño, el etiquetado y la información que deben incluirse, cuando sea necesario, en las notificaciones previas a la comercialización 510(k) de determinados productos menstruales, es decir, productos para absorber o recoger el flujo menstrual u otras secreciones vaginales: tampones, compresas y copas menstruales. La página indica que las recomendaciones reflejan prácticas de revisión actualizadas y buscan coherencia y transparencia.",
+    "La línea del documento en la página indica octubre de 2025, mientras que la fecha de los metadatos de publicación es el 14 de noviembre de 2025.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Menstrual Products – Performance Testing and Labeling Recommendations",
+   "sum": "Em outubro de 2025, a FDA publicou o projeto de orientação «Menstrual Products – Performance Testing and Labeling Recommendations».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2025-D-5107. O gabinete emissor é CDRH e a página mostra como data de publicação 14 de novembro de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Apresenta as recomendações da FDA sobre os ensaios de desempenho, a rotulagem e a informação a incluir, quando necessário, nas notificações pré-comercialização 510(k) de determinados produtos menstruais, ou seja, dispositivos para absorver ou recolher o fluxo menstrual ou outras secreções vaginais: tampões, pensos e copos menstruais. A página indica que as recomendações refletem práticas de avaliação atualizadas e visam coerência e transparência.",
+    "A linha do documento na página indica outubro de 2025, enquanto a data dos metadados de publicação é 14 de novembro de 2025.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Menstrual Products – Performance Testing and Labeling Recommendations",
+   "sum": "В октябре 2025 года FDA опубликовало проект руководства «Menstrual Products – Performance Testing and Labeling Recommendations».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2025-D-5107. Выпускающее подразделение — CDRH, на странице указана дата публикации 14 ноября 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "В нём даны рекомендации FDA по испытаниям эксплуатационных характеристик, маркировке и сведениям, которые при необходимости включаются в предрыночные уведомления 510(k) для некоторых менструальных средств — изделий для впитывания или сбора менструальных выделений и других влагалищных выделений: тампонов, прокладок и менструальных чаш. На странице указано, что рекомендации отражают обновлённую практику рассмотрения и направлены на единообразие и прозрачность.",
+    "В строке документа на странице указан октябрь 2025 года, а дата в метаданных публикации — 14 ноября 2025 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Menstrual Products – Performance Testing and Labeling Recommendations",
+   "sum": "En octobre 2025, la FDA a publié le projet de ligne directrice « Menstrual Products – Performance Testing and Labeling Recommendations ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2025-D-5107. Le bureau émetteur est CDRH et la page indique comme date de publication le 14 novembre 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il donne les recommandations de la FDA sur les essais de performance, l'étiquetage et les informations à inclure, si nécessaire, dans les notifications préalables 510(k) pour certains produits menstruels, à savoir les dispositifs destinés à absorber ou recueillir le flux menstruel ou d'autres pertes vaginales : tampons, serviettes et coupes menstruelles. La page indique que les recommandations reflètent des pratiques d'examen actualisées et visent la cohérence et la transparence.",
+    "La ligne du document sur la page indique octobre 2025, tandis que la date des métadonnées de publication est le 14 novembre 2025.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Menstrual Products – Performance Testing and Labeling Recommendations",
+   "sum": "Im Oktober 2025 hat die FDA den Leitfadenentwurf „Menstrual Products – Performance Testing and Labeling Recommendations“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2025-D-5107. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 14. November 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er enthält die Empfehlungen der FDA zu Leistungsprüfungen, Kennzeichnung und Informationen, die bei Bedarf in 510(k)-Premarket-Notifications für bestimmte Menstruationsprodukte aufzunehmen sind, nämlich Produkte zum Aufsaugen oder Auffangen von Menstruationsflüssigkeit oder anderem Scheidenausfluss: Tampons, Binden und Menstruationstassen. Die Seite gibt an, dass die Empfehlungen aktualisierte Prüfpraktiken widerspiegeln und auf Einheitlichkeit und Transparenz zielen.",
+    "Die Dokumentzeile der Seite nennt Oktober 2025, das Datum der Veröffentlichungsmetadaten ist der 14. November 2025.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/menstrual-products-performance-testing-and-labeling-recommendations",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-19948",
+    "Federal Register notice 2025-19948",
+    "https://www.federalregister.gov/d/2025-19948",
+    {
+     "zh": "联邦公报公告 2025-19948",
+     "ja": "連邦官報告示 2025-19948",
+     "es": "Aviso del Registro Federal 2025-19948",
+     "pt": "Aviso do Federal Register 2025-19948",
+     "ru": "Уведомление в Federal Register 2025-19948",
+     "fr": "Avis du Federal Register 2025-19948",
+     "de": "Bekanntmachung im Federal Register 2025-19948"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-bimo-inspections-final",
+  "date": "2025-12-18",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 생물의학연구 모니터링(BIMO) 실사에 적용되는 절차와 관행 최종 가이던스 발간",
+   "sum": "FDA가 2025년 12월 「Processes and Practices Applicable to Bioresearch Monitoring Inspections」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2023-D-5021입니다. 발행 부서는 Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM 및 Office of the Commissioner (Clinical Policy and Programs)이고 페이지의 게시일은 2025년 12월 18일입니다.",
+    "2022년 식품의약품종합개혁법(FDORA)에 따라, 기존에 공개된 FDA 지침서·매뉴얼에 명시되지 않은 범위에서 FDA의 생물의학연구 모니터링(BIMO) 점검 프로그램의 절차와 관행을 설명하도록 한 요구를 이행하기 위해 발간된 최종 가이던스입니다.",
+    "문서는 제공해야 하는 기록과 정보의 유형, 점검이나 기록 요청 전·중의 FDA와 업계 간 소통에 대한 모범 사례, 그 밖의 점검 관련 행위를 다룹니다. 페이지에는 동물·수의, 생물의약품, 의약품, 식품, 의료기기, 방사선 방출 제품, 담배 등 여러 규제 제품 분야가 표시되어 있습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on processes and practices applicable to Bioresearch Monitoring inspections",
+   "sum": "In December 2025 FDA posted the final guidance \"Processes and Practices Applicable to Bioresearch Monitoring Inspections\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2023-D-5021. The issuing office is Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM and Office of the Commissioner (Clinical Policy and Programs) and the page shows a posting date of 18 December 2025.",
+    "This final guidance is issued to comply with the Food and Drug Omnibus Reform Act of 2022, which directs FDA to describe processes and practices for inspections under its Bioresearch Monitoring (BIMO) inspection program to the extent not already specified in existing publicly available FDA guides and manuals.",
+    "The guidance covers the types of records and information that must be provided, best practices for FDA-industry communication before or during an inspection or records request, and other inspection-related conduct. The page lists many regulated product areas, including animal and veterinary products, biologics, drugs, food, medical devices, radiation-emitting products and tobacco.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布适用于生物研究监查(BIMO)检查的流程和做法最终指南",
+   "sum": "2025年12月,FDA发布了最终指南《Processes and Practices Applicable to Bioresearch Monitoring Inspections》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2023-D-5021。发布部门为Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM和Office of the Commissioner (Clinical Policy and Programs),页面显示的发布日期为2025年12月18日。",
+    "本最终指南是为遵守《2022年食品药品综合改革法》(FDORA)而发布的,该法要求FDA在现有公开的FDA指南和手册未规定的范围内,说明其生物研究监查(BIMO)检查计划下检查的流程和做法。",
+    "文件涵盖必须提供的记录和信息类型、检查或记录请求之前或期间FDA与行业沟通的最佳做法,以及其他与检查相关的行为。页面列出了多个受监管产品领域,包括动物和兽用产品、生物制品、药品、食品、医疗器械、辐射产品和烟草。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、生物学的研究モニタリング(BIMO)査察に適用される手順と慣行に関する最終ガイダンスを発行",
+   "sum": "2025年12月、FDAは最終ガイダンス「Processes and Practices Applicable to Bioresearch Monitoring Inspections」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2023-D-5021です。発行部署はOffice of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVMとOffice of the Commissioner (Clinical Policy and Programs)で、ページの掲載日は2025年12月18日です。",
+    "この最終ガイダンスは、既存の公開済みFDAガイド・マニュアルに明記されていない範囲で、生物学的研究モニタリング(BIMO)査察プログラムに基づく査察の手順と慣行を説明するようFDAに求める2022年食品医薬品包括改革法(FDORA)を遵守するために発行されました。",
+    "文書は、提供が必要な記録と情報の種類、査察又は記録要請の前・最中のFDAと産業界のコミュニケーションのベストプラクティス、その他の査察に関する行為を扱います。ページには、動物・獣医製品、生物学的製剤、医薬品、食品、医療機器、放射線放出製品、たばこなど多くの規制対象製品分野が挙げられています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Processes and Practices Applicable to Bioresearch Monitoring Inspections",
+   "sum": "En diciembre de 2025, la FDA publicó la guía final «Processes and Practices Applicable to Bioresearch Monitoring Inspections».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2023-D-5021. La oficina emisora es Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM y Office of the Commissioner (Clinical Policy and Programs) y la página muestra como fecha de publicación el 18 de diciembre de 2025.",
+    "Esta guía final se emite para cumplir la Food and Drug Omnibus Reform Act de 2022, que ordena a la FDA describir los procesos y prácticas de las inspecciones de su programa de Bioresearch Monitoring (BIMO) en la medida en que no estén ya especificados en las guías y manuales públicos existentes de la FDA.",
+    "La guía abarca los tipos de registros e información que deben aportarse, las mejores prácticas de comunicación entre la FDA y la industria antes o durante una inspección o solicitud de registros, y otras conductas relacionadas con la inspección. La página enumera muchos ámbitos de productos regulados, entre ellos productos animales y veterinarios, biológicos, medicamentos, alimentos, productos sanitarios, productos emisores de radiación y tabaco.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Processes and Practices Applicable to Bioresearch Monitoring Inspections",
+   "sum": "Em dezembro de 2025, a FDA publicou a orientação final «Processes and Practices Applicable to Bioresearch Monitoring Inspections».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2023-D-5021. O gabinete emissor é Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM e Office of the Commissioner (Clinical Policy and Programs) e a página mostra como data de publicação 18 de dezembro de 2025.",
+    "Esta orientação final é emitida para cumprir a Food and Drug Omnibus Reform Act de 2022, que determina que a FDA descreva os processos e práticas das inspeções do seu programa de Bioresearch Monitoring (BIMO) na medida em que não estejam já especificados nos guias e manuais públicos existentes da FDA.",
+    "A orientação abrange os tipos de registos e informação que devem ser fornecidos, as melhores práticas de comunicação entre a FDA e a indústria antes ou durante uma inspeção ou pedido de registos, e outra conduta relacionada com a inspeção. A página enumera muitos domínios de produtos regulados, incluindo produtos animais e veterinários, biológicos, medicamentos, alimentos, dispositivos médicos, produtos emissores de radiação e tabaco.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Processes and Practices Applicable to Bioresearch Monitoring Inspections",
+   "sum": "В декабре 2025 года FDA опубликовало окончательное руководство «Processes and Practices Applicable to Bioresearch Monitoring Inspections».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2023-D-5021. Выпускающее подразделение — Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM и Office of the Commissioner (Clinical Policy and Programs), на странице указана дата публикации 18 декабря 2025 года.",
+    "Это окончательное руководство издано во исполнение Закона о комплексной реформе в сфере пищевых продуктов и лекарств 2022 года (FDORA), который требует от FDA описать процессы и практику инспекций по программе Bioresearch Monitoring (BIMO) в той мере, в какой они ещё не указаны в существующих общедоступных руководствах и пособиях FDA.",
+    "Руководство охватывает виды записей и сведений, которые необходимо предоставлять, лучшие практики взаимодействия между FDA и отраслью до или во время инспекции или запроса документов, а также иные действия, связанные с инспекцией. На странице указаны многие области регулируемой продукции, включая продукцию для животных и ветеринарии, биопрепараты, лекарства, пищевые продукты, медицинские изделия, излучающую продукцию и табак.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Processes and Practices Applicable to Bioresearch Monitoring Inspections",
+   "sum": "En décembre 2025, la FDA a publié la ligne directrice finale « Processes and Practices Applicable to Bioresearch Monitoring Inspections ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2023-D-5021. Le bureau émetteur est Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM et Office of the Commissioner (Clinical Policy and Programs) et la page indique comme date de publication le 18 décembre 2025.",
+    "Cette ligne directrice finale est publiée pour se conformer à la Food and Drug Omnibus Reform Act de 2022, qui prescrit à la FDA de décrire les processus et pratiques des inspections de son programme Bioresearch Monitoring (BIMO) dans la mesure où ils ne sont pas déjà précisés dans les guides et manuels publics existants de la FDA.",
+    "La ligne directrice couvre les types de dossiers et d'informations à fournir, les bonnes pratiques de communication entre la FDA et l'industrie avant ou pendant une inspection ou une demande de documents, et d'autres comportements liés à l'inspection. La page énumère de nombreux domaines de produits réglementés, notamment les produits animaux et vétérinaires, les produits biologiques, les médicaments, les aliments, les dispositifs médicaux, les produits émettant des rayonnements et le tabac.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Processes and Practices Applicable to Bioresearch Monitoring Inspections",
+   "sum": "Im Dezember 2025 hat die FDA den endgültigen Leitfaden „Processes and Practices Applicable to Bioresearch Monitoring Inspections“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2023-D-5021. Herausgebende Stelle ist Office of Inspections and Investigations, CBER, CDER, CDRH, Human Foods Program, CTP, CVM und Office of the Commissioner (Clinical Policy and Programs); die Seite nennt als Veröffentlichungsdatum den 18. Dezember 2025.",
+    "Dieser endgültige Leitfaden wird zur Erfüllung des Food and Drug Omnibus Reform Act von 2022 herausgegeben, der die FDA anweist, Prozesse und Praktiken für Inspektionen im Rahmen ihres Bioresearch-Monitoring-Programms (BIMO) zu beschreiben, soweit sie nicht bereits in bestehenden öffentlich zugänglichen FDA-Leitfäden und -Handbüchern festgelegt sind.",
+    "Der Leitfaden behandelt die Arten von Unterlagen und Informationen, die bereitzustellen sind, bewährte Verfahren der Kommunikation zwischen FDA und Industrie vor oder während einer Inspektion oder Unterlagenanforderung sowie sonstiges inspektionsbezogenes Verhalten. Die Seite nennt viele regulierte Produktbereiche, darunter Tier- und Veterinärprodukte, Biologika, Arzneimittel, Lebensmittel, Medizinprodukte, strahlungsemittierende Produkte und Tabak.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/processes-and-practices-applicable-bioresearch-monitoring-inspections",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 공개열람 고시 2025-23404",
+    "Federal Register public inspection notice 2025-23404",
+    "https://www.federalregister.gov/public-inspection/2025-23404/guidance-processes-and-practices-applicable-to-bioresearch-monitoring-inspections",
+    {
+     "zh": "联邦公报公开查阅公告 2025-23404",
+     "ja": "連邦官報 公開閲覧告示 2025-23404",
+     "es": "Aviso de inspección pública del Federal Register 2025-23404",
+     "pt": "Aviso de consulta pública do Federal Register 2025-23404",
+     "ru": "Уведомление Federal Register для публичного ознакомления 2025-23404",
+     "fr": "Avis de consultation publique du Federal Register 2025-23404",
+     "de": "Bekanntmachung zur öffentlichen Einsichtnahme im Federal Register 2025-23404"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-qms-info-premarket-reviews-draft",
+  "date": "2025-11-14",
+  "region": "us",
+  "svc": "qms",
+  "ko": {
+   "title": "FDA, 일부 시판 전 제출 심사를 위한 품질경영시스템 정보 가이던스 초안 발간",
+   "sum": "FDA가 2025년 10월 「Quality Management System Information for Certain Premarket Submission Reviews」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2025-D-4051입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 11월 14일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "시판 전 제출 자료에 포함할 품질경영시스템(QMS) 정보에 대한 FDA의 기대를 담고 있으며, 페이지는 PMA와 HDE 신청서를 대상으로 한다고 적고 있습니다. 21 CFR part 820을 개정한 최종 규칙이 시행된 뒤 품질경영시스템 규정(QMSR)의 요건이 시판 전 제출에 어떻게 적용되는지를 다룹니다.",
+    "페이지에는 QMSR의 기기 CGMP 요건이 이제 기기 품질경영시스템에 대해 ISO 13485:2016을 인용 방식으로 포함한다고 적혀 있습니다. 페이지의 문서 표기는 2025년 10월이고 게시 메타데이터 날짜는 2025년 11월 14일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on quality management system information for certain premarket submission reviews",
+   "sum": "In October 2025 FDA posted the draft guidance \"Quality Management System Information for Certain Premarket Submission Reviews\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2025-D-4051. The issuing office is CDRH and CBER and the page shows a posting date of 14 November 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It gives FDA's expectations for quality management system (QMS) information included in premarket submissions, which the page says covers PMAs and HDE applications, and addresses how the requirements of the Quality Management System Regulation (QMSR) apply to premarket submissions once the final rule amending 21 CFR part 820 takes effect.",
+    "The page notes that the QMSR's device CGMP requirements now incorporate by reference ISO 13485:2016 for device quality management systems. The page's document line reads October 2025, while its publication metadata date is 14 November 2025.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布特定上市前提交审评所需的质量管理体系信息指南草案",
+   "sum": "2025年10月,FDA发布了指南草案《Quality Management System Information for Certain Premarket Submission Reviews》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2025-D-4051。发布部门为CDRH和CBER,页面显示的发布日期为2025年11月14日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件阐述了FDA对上市前提交资料中质量管理体系(QMS)信息的期望(页面称涵盖PMA和HDE申请),并说明在修订21 CFR part 820的最终规则生效后,质量管理体系法规(QMSR)的要求如何适用于上市前提交。",
+    "页面指出,QMSR的器械CGMP要求现已通过引用纳入ISO 13485:2016作为器械质量管理体系标准。页面的文件标注为2025年10月,发布元数据日期为2025年11月14日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、一部の市販前提出審査における品質マネジメントシステム情報に関するガイダンス案を発行",
+   "sum": "2025年10月、FDAはガイダンス案「Quality Management System Information for Certain Premarket Submission Reviews」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2025-D-4051です。発行部署はCDRHとCBERで、ページの掲載日は2025年11月14日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "市販前提出資料に含める品質マネジメントシステム(QMS)情報に関するFDAの期待を示し(ページはPMAとHDE申請が対象と記載)、21 CFR part 820を改正する最終規則が発効した後、品質マネジメントシステム規則(QMSR)の要件が市販前提出にどう適用されるかを扱っています。",
+    "ページには、QMSRの機器CGMP要件が現在、機器の品質マネジメントシステムについてISO 13485:2016を引用により取り込んでいると記載されています。ページの文書表記は2025年10月で、掲載メタデータの日付は2025年11月14日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Quality Management System Information for Certain Premarket Submission Reviews",
+   "sum": "En octubre de 2025, la FDA publicó el borrador de guía «Quality Management System Information for Certain Premarket Submission Reviews».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2025-D-4051. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 14 de noviembre de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Recoge las expectativas de la FDA sobre la información del sistema de gestión de la calidad (QMS) incluida en las presentaciones previas a la comercialización, que según la página abarca PMA y solicitudes HDE, y aborda cómo se aplican los requisitos del Reglamento del Sistema de Gestión de la Calidad (QMSR) a esas presentaciones una vez entre en vigor la norma final que modifica 21 CFR part 820.",
+    "La página señala que los requisitos CGMP de productos sanitarios del QMSR incorporan ahora por referencia la norma ISO 13485:2016 para los sistemas de gestión de la calidad de productos sanitarios. La línea del documento indica octubre de 2025, mientras que la fecha de los metadatos de publicación es el 14 de noviembre de 2025.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Quality Management System Information for Certain Premarket Submission Reviews",
+   "sum": "Em outubro de 2025, a FDA publicou o projeto de orientação «Quality Management System Information for Certain Premarket Submission Reviews».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2025-D-4051. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 14 de novembro de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Apresenta as expectativas da FDA quanto à informação do sistema de gestão da qualidade (QMS) incluída nas submissões pré-comercialização, que segundo a página abrange PMA e pedidos HDE, e aborda como os requisitos do Regulamento do Sistema de Gestão da Qualidade (QMSR) se aplicam a essas submissões quando entrar em vigor a regra final que altera o 21 CFR part 820.",
+    "A página refere que os requisitos CGMP de dispositivos do QMSR incorporam agora por referência a norma ISO 13485:2016 para os sistemas de gestão da qualidade de dispositivos. A linha do documento indica outubro de 2025, enquanto a data dos metadados de publicação é 14 de novembro de 2025.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Quality Management System Information for Certain Premarket Submission Reviews",
+   "sum": "В октябре 2025 года FDA опубликовало проект руководства «Quality Management System Information for Certain Premarket Submission Reviews».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2025-D-4051. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 14 ноября 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "В нём изложены ожидания FDA в отношении сведений о системе менеджмента качества (QMS) в предрыночных заявках — по данным страницы, в заявках PMA и HDE — и рассмотрено, как требования Регламента по системе менеджмента качества (QMSR) применяются к предрыночным заявкам после вступления в силу окончательного правила, изменяющего 21 CFR part 820.",
+    "На странице отмечено, что требования CGMP к изделиям в QMSR теперь включают по ссылке ISO 13485:2016 для систем менеджмента качества изделий. В строке документа указан октябрь 2025 года, а дата в метаданных публикации — 14 ноября 2025 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Quality Management System Information for Certain Premarket Submission Reviews",
+   "sum": "En octobre 2025, la FDA a publié le projet de ligne directrice « Quality Management System Information for Certain Premarket Submission Reviews ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2025-D-4051. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 14 novembre 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il énonce les attentes de la FDA concernant les informations sur le système de management de la qualité (QMS) incluses dans les soumissions préalables à la mise sur le marché, qui couvrent selon la page les PMA et les demandes HDE, et aborde l'application des exigences du Règlement sur le système de management de la qualité (QMSR) à ces soumissions une fois la règle finale modifiant le 21 CFR part 820 entrée en vigueur.",
+    "La page note que les exigences CGMP relatives aux dispositifs du QMSR incorporent désormais par renvoi la norme ISO 13485:2016 pour les systèmes de management de la qualité des dispositifs. La ligne du document indique octobre 2025, tandis que la date des métadonnées de publication est le 14 novembre 2025.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Quality Management System Information for Certain Premarket Submission Reviews",
+   "sum": "Im Oktober 2025 hat die FDA den Leitfadenentwurf „Quality Management System Information for Certain Premarket Submission Reviews“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2025-D-4051. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 14. November 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er beschreibt die Erwartungen der FDA an Informationen zum Qualitätsmanagementsystem (QMS) in Premarket-Einreichungen, die laut Seite PMA und HDE-Anträge betreffen, und behandelt, wie die Anforderungen der Qualitätsmanagementsystem-Verordnung (QMSR) auf Premarket-Einreichungen anzuwenden sind, sobald die endgültige Regel zur Änderung von 21 CFR part 820 in Kraft tritt.",
+    "Die Seite weist darauf hin, dass die CGMP-Anforderungen der QMSR für Produkte nun ISO 13485:2016 für Qualitätsmanagementsysteme von Produkten durch Verweis einbeziehen. Die Dokumentzeile nennt Oktober 2025, das Datum der Veröffentlichungsmetadaten ist der 14. November 2025.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/quality-management-system-information-certain-premarket-submission-reviews",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-19947",
+    "Federal Register notice 2025-19947",
+    "https://www.federalregister.gov/d/2025-19947",
+    {
+     "zh": "联邦公报公告 2025-19947",
+     "ja": "連邦官報告示 2025-19947",
+     "es": "Aviso del Registro Federal 2025-19947",
+     "pt": "Aviso do Federal Register 2025-19947",
+     "ru": "Уведомление в Federal Register 2025-19947",
+     "fr": "Avis du Federal Register 2025-19947",
+     "de": "Bekanntmachung im Federal Register 2025-19947"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-q-submission-program-final",
+  "date": "2025-05-28",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료기기 제출 자료에 대한 피드백·회의 요청: Q-Submission 프로그램 최종 가이던스 발간",
+   "sum": "FDA가 2025년 5월 「Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2018-D-1774입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2025년 5월 28일입니다.",
+    "계획 중이거나 가능성이 있는 의료기기 제출 자료에 대해 제출자가 FDA의 피드백이나 회의를 요청할 수 있는 방법을 설명하며, 상호작용은 서면 피드백 또는 회의 형태일 수 있습니다.",
+    "페이지에 적힌 대상은 IDE, PMA, HDE, De Novo, 510(k), CLIA 면제 신청(CW), 510(k)·CLIA 면제 동시 신청(Duals), 부속품 분류 요청, 그리고 PHS법 제351조에 따라 생물학적제제로 규제되는 기기에 대한 CBER 제출 IND와 BLA 일부입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on requests for feedback and meetings for medical device submissions: the Q-Submission Program",
+   "sum": "In May 2025 FDA posted the final guidance \"Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2018-D-1774. The issuing office is CDRH and CBER and the page shows a posting date of 28 May 2025.",
+    "It describes the mechanisms through which submitters can request FDA feedback or meetings about planned or potential medical device submissions; the interactions can be written feedback or a meeting.",
+    "The covered submission types listed on the page are IDE, PMA, HDE, De Novo requests, 510(k), CLIA Waiver by Application (CW), Dual 510(k) and CLIA Waiver by Application (Duals), Accessory Classification Requests, and certain INDs and BLAs submitted to CBER for devices regulated as biological products under section 351 of the PHS Act.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械提交资料的反馈和会议申请:Q-Submission计划最终指南",
+   "sum": "2025年5月,FDA发布了最终指南《Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2018-D-1774。发布部门为CDRH和CBER,页面显示的发布日期为2025年5月28日。",
+    "文件说明了提交者就计划中或潜在的医疗器械提交向FDA申请反馈或会议的机制;交流形式可以是书面反馈或会议。",
+    "页面列出的涵盖提交类型包括IDE、PMA、HDE、De Novo申请、510(k)、CLIA豁免申请(CW)、510(k)与CLIA豁免联合申请(Duals)、附件分类申请,以及就依据PHS法第351条作为生物制品监管的器械向CBER提交的部分IND和BLA。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器提出資料に関するフィードバック及び会議の要請:Q-Submissionプログラムに関する最終ガイダンスを発行",
+   "sum": "2025年5月、FDAは最終ガイダンス「Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2018-D-1774です。発行部署はCDRHとCBERで、ページの掲載日は2025年5月28日です。",
+    "提出予定又は可能性のある医療機器提出資料について、提出者がFDAのフィードバックや会議を要請できる仕組みを説明しており、やり取りは書面でのフィードバック又は会議の形をとり得ます。",
+    "ページに挙げられた対象の提出種類は、IDE、PMA、HDE、De Novo申請、510(k)、CLIA免除申請(CW)、510(k)とCLIA免除の同時申請(Duals)、附属品分類要請、及びPHS法第351条に基づき生物学的製剤として規制される機器についてCBERに提出される一部のINDとBLAです。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program",
+   "sum": "En mayo de 2025, la FDA publicó la guía final «Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2018-D-1774. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 28 de mayo de 2025.",
+    "Describe los mecanismos mediante los cuales los solicitantes pueden pedir comentarios o reuniones a la FDA sobre presentaciones de productos sanitarios previstas o potenciales; las interacciones pueden ser comentarios escritos o una reunión.",
+    "Los tipos de presentación cubiertos que enumera la página son IDE, PMA, HDE, solicitudes De Novo, 510(k), exención CLIA por solicitud (CW), 510(k) y exención CLIA combinadas (Duals), solicitudes de clasificación de accesorios y determinados IND y BLA presentados a CBER para productos regulados como productos biológicos conforme a la sección 351 de la ley PHS.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program",
+   "sum": "Em maio de 2025, a FDA publicou a orientação final «Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2018-D-1774. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 28 de maio de 2025.",
+    "Descreve os mecanismos através dos quais os submissores podem pedir à FDA comentários ou reuniões sobre submissões de dispositivos médicos previstas ou potenciais; as interações podem ser comentários escritos ou uma reunião.",
+    "Os tipos de submissão abrangidos que a página enumera são IDE, PMA, HDE, pedidos De Novo, 510(k), isenção CLIA por pedido (CW), 510(k) e isenção CLIA combinados (Duals), pedidos de classificação de acessórios e determinados IND e BLA apresentados ao CBER para dispositivos regulados como produtos biológicos nos termos da secção 351 da lei PHS.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program",
+   "sum": "В мае 2025 года FDA опубликовало окончательное руководство «Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2018-D-1774. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 28 мая 2025 года.",
+    "В нём описаны механизмы, с помощью которых заявители могут запрашивать у FDA обратную связь или встречи по планируемым или возможным заявкам на медицинские изделия; взаимодействие может быть письменной обратной связью или встречей.",
+    "Охватываемые типы заявок, перечисленные на странице: IDE, PMA, HDE, запросы De Novo, 510(k), заявка на освобождение по CLIA (CW), совмещённые 510(k) и заявка на освобождение по CLIA (Duals), запросы на классификацию принадлежностей и некоторые IND и BLA, подаваемые в CBER для изделий, регулируемых как биологические продукты по разделу 351 закона PHS.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program",
+   "sum": "En mai 2025, la FDA a publié la ligne directrice finale « Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2018-D-1774. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 28 mai 2025.",
+    "Il décrit les mécanismes par lesquels les demandeurs peuvent solliciter des retours ou des réunions de la FDA au sujet de soumissions de dispositifs médicaux prévues ou potentielles ; les échanges peuvent prendre la forme de retours écrits ou d'une réunion.",
+    "Les types de soumission couverts énumérés sur la page sont les IDE, PMA, HDE, demandes De Novo, 510(k), exemptions CLIA sur demande (CW), 510(k) et exemption CLIA combinées (Duals), demandes de classification d'accessoires, ainsi que certains IND et BLA soumis au CBER pour des dispositifs réglementés comme produits biologiques au titre de la section 351 de la loi PHS.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program",
+   "sum": "Im Mai 2025 hat die FDA den endgültigen Leitfaden „Requests for Feedback and Meetings for Medical Device Submissions: The Q-Submission Program“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2018-D-1774. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 28. Mai 2025.",
+    "Er beschreibt die Mechanismen, über die Einreicher bei der FDA Feedback oder Besprechungen zu geplanten oder möglichen Einreichungen für Medizinprodukte beantragen können; die Interaktion kann schriftliches Feedback oder eine Besprechung sein.",
+    "Die auf der Seite genannten erfassten Einreichungstypen sind IDE, PMA, HDE, De-Novo-Anträge, 510(k), CLIA-Waiver by Application (CW), kombinierte 510(k) und CLIA-Waiver by Application (Duals), Anträge auf Zubehörklassifizierung sowie bestimmte bei der CBER eingereichte IND und BLA für Produkte, die nach Abschnitt 351 des PHS Act als biologische Produkte reguliert werden.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/requests-feedback-and-meetings-medical-device-submissions-q-submission-program",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-09618",
+    "Federal Register notice 2025-09618",
+    "https://www.federalregister.gov/d/2025-09618",
+    {
+     "zh": "联邦公报公告 2025-09618",
+     "ja": "連邦官報告示 2025-09618",
+     "es": "Aviso del Registro Federal 2025-09618",
+     "pt": "Aviso do Federal Register 2025-09618",
+     "ru": "Уведомление в Federal Register 2025-09618",
+     "fr": "Avis du Federal Register 2025-09618",
+     "de": "Bekanntmachung im Federal Register 2025-09618"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-udi-combination-products-draft",
+  "date": "2025-06-26",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 복합제품에 대한 고유 기기 식별자(UDI) 요건 가이던스 초안 발간",
+   "sum": "FDA가 2025년 6월 「Unique Device Identifier Requirements for Combination Products」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2025-D-0176입니다. 발행 부서는 Office of Combination Products, CBER, CDER 및 CDRH이고 페이지의 게시일은 2025년 6월 26일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "기기 구성요소가 있는 복합제품에 FDA의 고유 기기 식별자(UDI) 요건(21 CFR part 801 subpart B, part 830 subpart E)이 어떻게 적용되는지 업계와 FDA 직원이 이해하도록 돕습니다.",
+    "문서는 이러한 복합제품의 UDI 표시와 GUDID(글로벌 고유 기기 식별 데이터베이스) 정보 제출에 대한 요건, 권고, 모범 사례를 개괄하고, UDI 요건을 충족하는 방법을 보여 주는 가상의 예시를 포함합니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on unique device identifier requirements for combination products",
+   "sum": "In June 2025 FDA posted the draft guidance \"Unique Device Identifier Requirements for Combination Products\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2025-D-0176. The issuing office is Office of Combination Products, CBER, CDER and CDRH and the page shows a posting date of 26 June 2025. The page states it is not for implementation and contains non-binding recommendations.",
+    "It helps industry and FDA staff understand how FDA's unique device identifier (UDI) requirements, at 21 CFR part 801 subpart B and part 830 subpart E, apply to combination products that have device constituent parts.",
+    "It outlines requirements, recommendations and best practices for UDI labeling and for submitting information to the Global Unique Device Identification Database (GUDID) for such combination products, and includes hypothetical examples showing how the UDI requirements can be met.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布复合产品的唯一器械标识(UDI)要求指南草案",
+   "sum": "2025年6月,FDA发布了指南草案《Unique Device Identifier Requirements for Combination Products》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2025-D-0176。发布部门为Office of Combination Products, CBER, CDER和CDRH,页面显示的发布日期为2025年6月26日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件帮助行业和FDA工作人员理解FDA的唯一器械标识(UDI)要求(21 CFR part 801 subpart B和part 830 subpart E)如何适用于含有器械组成部分的复合产品。",
+    "文件概述了此类复合产品的UDI标签以及向全球唯一器械标识数据库(GUDID)提交信息的要求、建议和最佳做法,并包含说明如何满足UDI要求的假设示例。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、複合製品に対する固有機器識別子(UDI)要件に関するガイダンス案を発行",
+   "sum": "2025年6月、FDAはガイダンス案「Unique Device Identifier Requirements for Combination Products」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2025-D-0176です。発行部署はOffice of Combination Products, CBER, CDERとCDRHで、ページの掲載日は2025年6月26日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "21 CFR part 801 subpart B及びpart 830 subpart Eに定めるFDAの固有機器識別子(UDI)要件が、機器構成部分を持つ複合製品にどう適用されるかを、産業界とFDA職員が理解できるよう支援します。",
+    "文書は、こうした複合製品のUDI表示及びグローバル固有機器識別データベース(GUDID)への情報提出に関する要件、推奨事項及びベストプラクティスの概要を示し、UDI要件を満たす方法を示す仮想の例を含みます。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Unique Device Identifier Requirements for Combination Products",
+   "sum": "En junio de 2025, la FDA publicó el borrador de guía «Unique Device Identifier Requirements for Combination Products».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2025-D-0176. La oficina emisora es Office of Combination Products, CBER, CDER y CDRH y la página muestra como fecha de publicación el 26 de junio de 2025. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Ayuda a la industria y al personal de la FDA a entender cómo se aplican los requisitos de identificador único de producto (UDI) de la FDA, en 21 CFR part 801 subpart B y part 830 subpart E, a los productos combinados que tienen partes constituyentes de producto sanitario.",
+    "Resume los requisitos, recomendaciones y mejores prácticas para el etiquetado UDI y el envío de información a la Global Unique Device Identification Database (GUDID) de estos productos combinados, e incluye ejemplos hipotéticos de cómo pueden cumplirse los requisitos UDI.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Unique Device Identifier Requirements for Combination Products",
+   "sum": "Em junho de 2025, a FDA publicou o projeto de orientação «Unique Device Identifier Requirements for Combination Products».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2025-D-0176. O gabinete emissor é Office of Combination Products, CBER, CDER e CDRH e a página mostra como data de publicação 26 de junho de 2025. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "Ajuda a indústria e o pessoal da FDA a compreender como se aplicam os requisitos de identificador único de dispositivo (UDI) da FDA, no 21 CFR part 801 subpart B e part 830 subpart E, aos produtos combinados que têm partes constituintes de dispositivo.",
+    "Resume os requisitos, recomendações e melhores práticas para a rotulagem UDI e a submissão de informação à Global Unique Device Identification Database (GUDID) destes produtos combinados, e inclui exemplos hipotéticos de como os requisitos UDI podem ser cumpridos.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Unique Device Identifier Requirements for Combination Products",
+   "sum": "В июне 2025 года FDA опубликовало проект руководства «Unique Device Identifier Requirements for Combination Products».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2025-D-0176. Выпускающее подразделение — Office of Combination Products, CBER, CDER и CDRH, на странице указана дата публикации 26 июня 2025 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "Он помогает отрасли и сотрудникам FDA понять, как требования FDA к уникальному идентификатору изделия (UDI) — 21 CFR part 801 subpart B и part 830 subpart E — применяются к комбинированным продуктам, имеющим компоненты-изделия.",
+    "В нём изложены требования, рекомендации и лучшие практики по маркировке UDI и передаче сведений в Global Unique Device Identification Database (GUDID) для таких комбинированных продуктов, а также приведены гипотетические примеры выполнения требований UDI.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Unique Device Identifier Requirements for Combination Products",
+   "sum": "En juin 2025, la FDA a publié le projet de ligne directrice « Unique Device Identifier Requirements for Combination Products ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2025-D-0176. Le bureau émetteur est Office of Combination Products, CBER, CDER et CDRH et la page indique comme date de publication le 26 juin 2025. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il aide l'industrie et le personnel de la FDA à comprendre comment les exigences d'identifiant unique de dispositif (UDI) de la FDA, aux 21 CFR part 801 subpart B et part 830 subpart E, s'appliquent aux produits combinés comportant des parties constitutives de type dispositif.",
+    "Il décrit les exigences, recommandations et bonnes pratiques pour l'étiquetage UDI et la soumission d'informations à la Global Unique Device Identification Database (GUDID) pour ces produits combinés, et comprend des exemples hypothétiques montrant comment satisfaire aux exigences UDI.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Unique Device Identifier Requirements for Combination Products",
+   "sum": "Im Juni 2025 hat die FDA den Leitfadenentwurf „Unique Device Identifier Requirements for Combination Products“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2025-D-0176. Herausgebende Stelle ist Office of Combination Products, CBER, CDER und CDRH; die Seite nennt als Veröffentlichungsdatum den 26. Juni 2025. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Er hilft Industrie und FDA-Mitarbeitern zu verstehen, wie die UDI-Anforderungen (Unique Device Identifier) der FDA nach 21 CFR part 801 subpart B und part 830 subpart E auf Kombinationsprodukte mit Produktbestandteilen anzuwenden sind.",
+    "Er skizziert Anforderungen, Empfehlungen und bewährte Verfahren für die UDI-Kennzeichnung und die Übermittlung von Informationen an die Global Unique Device Identification Database (GUDID) für solche Kombinationsprodukte und enthält hypothetische Beispiele dafür, wie die UDI-Anforderungen erfüllt werden können.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/unique-device-identifier-requirements-combination-products",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-11806",
+    "Federal Register notice 2025-11806",
+    "https://www.federalregister.gov/d/2025-11806",
+    {
+     "zh": "联邦公报公告 2025-11806",
+     "ja": "連邦官報告示 2025-11806",
+     "es": "Aviso del Registro Federal 2025-11806",
+     "pt": "Aviso do Federal Register 2025-11806",
+     "ru": "Уведомление в Federal Register 2025-11806",
+     "fr": "Avis du Federal Register 2025-11806",
+     "de": "Bekanntmachung im Federal Register 2025-11806"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-real-world-evidence-devices-final",
+  "date": "2026-02-17",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 의료기기 규제 의사결정을 뒷받침하기 위한 실사용 근거(RWE) 활용 최종 가이던스 발간",
+   "sum": "FDA가 2025년 12월 「Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2023-D-4395입니다. 발행 부서는 CDRH와 CBER이고 페이지의 게시일은 2026년 2월 17일입니다.",
+    "실사용 데이터(RWD)가 FDA의 의료기기 규제 의사결정에 쓸 수 있는 실사용 근거(RWE)를 만들 만큼 충분한 품질인지 FDA가 어떻게 평가하는지 설명하며, RWE를 규제 제출 자료에 활용하려는 스폰서와 FDA 직원을 위한 확대·갱신된 권고를 담고 있습니다.",
+    "페이지에는 이 문서가 2017년 8월 31일 발행된 같은 제목의 최종 가이던스를 대체한다고 적혀 있습니다. 페이지의 문서 표기는 2025년 12월이고 게시 메타데이터 날짜는 2026년 2월 17일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on use of real-world evidence to support regulatory decision-making for medical devices",
+   "sum": "In December 2025 FDA posted the final guidance \"Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2023-D-4395. The issuing office is CDRH and CBER and the page shows a posting date of 17 February 2026.",
+    "It explains how FDA evaluates whether real-world data (RWD) are of sufficient quality to generate real-world evidence (RWE) usable in FDA regulatory decision-making for medical devices, and presents expanded and updated recommendations for FDA staff and for sponsors considering using RWE to support a regulatory submission.",
+    "The page states that this document supersedes the final guidance of the same name issued 31 August 2017. The page's document line reads December 2025, while its publication metadata date is 17 February 2026.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布使用真实世界证据支持医疗器械监管决策最终指南",
+   "sum": "2025年12月,FDA发布了最终指南《Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2023-D-4395。发布部门为CDRH和CBER,页面显示的发布日期为2026年2月17日。",
+    "文件说明FDA如何评估真实世界数据(RWD)的质量是否足以产生可用于FDA医疗器械监管决策的真实世界证据(RWE),并为FDA工作人员以及考虑使用RWE支持监管提交的申办者提供了扩展和更新的建议。",
+    "页面载明,本文件取代2017年8月31日发布的同名最终指南。页面的文件标注为2025年12月,发布元数据日期为2026年2月17日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器の規制上の意思決定を支えるリアルワールドエビデンスの利用に関する最終ガイダンスを発行",
+   "sum": "2025年12月、FDAは最終ガイダンス「Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2023-D-4395です。発行部署はCDRHとCBERで、ページの掲載日は2026年2月17日です。",
+    "リアルワールドデータ(RWD)がFDAの医療機器に関する規制上の意思決定で使えるリアルワールドエビデンス(RWE)を生み出すのに十分な品質かをFDAがどう評価するかを説明し、RWEを規制提出に使うことを検討するスポンサーとFDA職員向けに拡充・更新された推奨事項を示しています。",
+    "ページには、本文書が2017年8月31日に発行された同名の最終ガイダンスに代わると記載されています。ページの文書表記は2025年12月で、掲載メタデータの日付は2026年2月17日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices",
+   "sum": "En diciembre de 2025, la FDA publicó la guía final «Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2023-D-4395. La oficina emisora es CDRH y CBER y la página muestra como fecha de publicación el 17 de febrero de 2026.",
+    "Explica cómo evalúa la FDA si los datos del mundo real (RWD) tienen calidad suficiente para generar evidencia del mundo real (RWE) utilizable en las decisiones regulatorias de la FDA sobre productos sanitarios, y presenta recomendaciones ampliadas y actualizadas para el personal de la FDA y para los promotores que consideren usar RWE para respaldar una presentación regulatoria.",
+    "La página indica que este documento sustituye a la guía final del mismo nombre publicada el 31 de agosto de 2017. La línea del documento indica diciembre de 2025, mientras que la fecha de los metadatos de publicación es el 17 de febrero de 2026.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices",
+   "sum": "Em dezembro de 2025, a FDA publicou a orientação final «Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2023-D-4395. O gabinete emissor é CDRH e CBER e a página mostra como data de publicação 17 de fevereiro de 2026.",
+    "Explica como a FDA avalia se os dados do mundo real (RWD) têm qualidade suficiente para gerar evidência do mundo real (RWE) utilizável nas decisões regulamentares da FDA sobre dispositivos médicos, e apresenta recomendações alargadas e atualizadas para o pessoal da FDA e para os promotores que ponderem usar RWE para sustentar uma submissão regulamentar.",
+    "A página indica que este documento substitui a orientação final com o mesmo nome emitida em 31 de agosto de 2017. A linha do documento indica dezembro de 2025, enquanto a data dos metadados de publicação é 17 de fevereiro de 2026.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices",
+   "sum": "В декабре 2025 года FDA опубликовало окончательное руководство «Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2023-D-4395. Выпускающее подразделение — CDRH и CBER, на странице указана дата публикации 17 февраля 2026 года.",
+    "В нём объясняется, как FDA оценивает, достаточно ли качество данных реальной клинической практики (RWD) для получения доказательств реальной клинической практики (RWE), пригодных для регуляторных решений FDA по медицинским изделиям, и представлены расширенные и обновлённые рекомендации для сотрудников FDA и спонсоров, рассматривающих использование RWE в поддержку регуляторной заявки.",
+    "На странице указано, что этот документ заменяет окончательное руководство с тем же названием от 31 августа 2017 года. В строке документа указан декабрь 2025 года, а дата в метаданных публикации — 17 февраля 2026 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices",
+   "sum": "En décembre 2025, la FDA a publié la ligne directrice finale « Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2023-D-4395. Le bureau émetteur est CDRH et CBER et la page indique comme date de publication le 17 février 2026.",
+    "Il explique comment la FDA évalue si les données du monde réel (RWD) sont de qualité suffisante pour produire des preuves du monde réel (RWE) utilisables dans ses décisions réglementaires sur les dispositifs médicaux, et présente des recommandations élargies et mises à jour pour le personnel de la FDA et les promoteurs envisageant d'utiliser des RWE à l'appui d'une soumission réglementaire.",
+    "La page indique que ce document remplace la ligne directrice finale du même nom publiée le 31 août 2017. La ligne du document indique décembre 2025, tandis que la date des métadonnées de publication est le 17 février 2026.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices",
+   "sum": "Im Dezember 2025 hat die FDA den endgültigen Leitfaden „Use of Real-World Evidence to Support Regulatory Decision-Making for Medical Devices“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2023-D-4395. Herausgebende Stelle ist CDRH und CBER; die Seite nennt als Veröffentlichungsdatum den 17. Februar 2026.",
+    "Er erläutert, wie die FDA beurteilt, ob Real-World-Daten (RWD) von ausreichender Qualität sind, um Real-World-Evidence (RWE) zu erzeugen, die für regulatorische Entscheidungen der FDA zu Medizinprodukten verwendbar ist, und enthält erweiterte und aktualisierte Empfehlungen für FDA-Mitarbeiter und für Sponsoren, die die Verwendung von RWE zur Stützung einer regulatorischen Einreichung erwägen.",
+    "Die Seite gibt an, dass dieses Dokument den gleichnamigen endgültigen Leitfaden vom 31. August 2017 ersetzt. Die Dokumentzeile nennt Dezember 2025, das Datum der Veröffentlichungsmetadaten ist der 17. Februar 2026.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-real-world-evidence-support-regulatory-decision-making-medical-devices",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2025-23252",
+    "Federal Register notice 2025-23252",
+    "https://www.federalregister.gov/d/2025-23252",
+    {
+     "zh": "联邦公报公告 2025-23252",
+     "ja": "連邦官報告示 2025-23252",
+     "es": "Aviso del Registro Federal 2025-23252",
+     "pt": "Aviso do Federal Register 2025-23252",
+     "ru": "Уведомление в Federal Register 2025-23252",
+     "fr": "Avis du Federal Register 2025-23252",
+     "de": "Bekanntmachung im Federal Register 2025-23252"
+    }
+   ]
+  ]
  }
 ]
