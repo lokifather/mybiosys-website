@@ -133,7 +133,6 @@ NEWS = [
   },
   "src": [
    ("식약처 보도참고자료 (2026-10-30)", "MFDS press reference (2026-10-30)", "https://mfds.go.kr/brd/m_99/view.do?seq=50456"),
-   ("식약처 민원인 안내서: 의료기기의 사이버보안 허가·심사 가이드라인", "MFDS guideline page: cybersecurity review and approval of medical devices", "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15625"),
    ("식약처 안내서 게시글: 의료기기의 사이버보안 허가·심사 가이드라인 개정(안내서-0995-06)", "MFDS guidance post: cybersecurity review and approval of medical devices, revision (안내서-0995-06)", "https://www.mfds.go.kr/brd/m_1060/view.do?seq=15987&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=2"),
   ],
  },
