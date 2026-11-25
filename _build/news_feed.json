@@ -859,5 +859,140 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-510k-transfer-qa",
+  "date": "2026-11-19",
+  "region": "us",
+  "svc": "license-holder",
+  "ko": {
+   "title": "FDA, 510(k) 허가 양도 관련 질의응답 최종 가이던스 발간",
+   "sum": "FDA가 2026년 11월 「510(k) 허가 양도: 질의응답(Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers)」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2024-D-1528입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 11월 19일입니다. 의견은 regulations.gov의 해당 도켓에 온라인으로 제출할 수 있습니다.",
+    "한 510(k) 보유자에서 다른 보유자로 510(k) 허가를 양도하거나 판매하는 경우에 대해 자주 나오는 질문에 답합니다.",
+    "관련 법에 따라 양도·판매 시 새 보유자가 새 510(k)를 제출하지 않아도 되는 경우를 다룹니다.",
+    "기기를 등재할 때 해당 510(k)에 FDA가 부여한 시판 전 제출 번호를 사용해야 하는 경우를 다룹니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance with Q&A on transfer of a 510(k) clearance",
+   "sum": "In November 2026 FDA posted the final guidance \"Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2024-D-1528. The issuing office is CDRH and the page shows a posting date of 19 November 2026. Comments can be submitted online at regulations.gov under that docket.",
+    "It answers frequently asked questions about transferring or selling a 510(k) clearance from one 510(k) holder to another.",
+    "It covers when, under applicable law, a sale or transfer does not require the new holder to submit a new 510(k).",
+    "It covers when entities must use the FDA-assigned premarket submission number of the cleared 510(k) when listing their device."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布关于510(k)许可转让问答的最终指南",
+   "sum": "2026年11月,FDA发布了最终指南《510(k)上市前通知许可的转让:问答》(Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers)。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2024-D-1528。发布部门为CDRH,页面显示的发布日期为2026年11月19日。可在regulations.gov上针对该档案在线提交意见。",
+    "文件回答了将510(k)许可从一个510(k)持有人转让或出售给另一持有人时的常见问题。",
+    "文件说明了依照适用法律,转让或出售时新持有人无需提交新的510(k)的情形。",
+    "文件说明了实体在列名器械时须使用FDA为已获许可的510(k)指定的上市前提交编号的情形。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、510(k)クリアランスの譲渡に関するQ&A最終ガイダンスを発行",
+   "sum": "2026年11月、FDAは最終ガイダンス「510(k)クリアランスの譲渡:質疑応答(Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers)」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2024-D-1528です。発行部署はCDRHで、ページの掲載日は2026年11月19日です。意見はregulations.govの当該ドケットにオンラインで提出できます。",
+    "510(k)クリアランスを一方の510(k)保有者から別の保有者へ譲渡又は販売する場合のよくある質問に答えています。",
+    "適用法に基づき、譲渡・販売の際に新しい保有者が新たな510(k)を提出する必要がない場合を扱っています。",
+    "機器を登録(リスティング)する際に、当該510(k)にFDAが付与した市販前提出番号を使用しなければならない場合を扱っています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "La FDA emite la guía final con preguntas y respuestas sobre la transferencia de una autorización 510(k)",
+   "sum": "En noviembre de 2026, la FDA publicó la guía final «Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers» (transferencia de una autorización de notificación previa a la comercialización 510(k): preguntas y respuestas).",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2024-D-1528. La oficina emisora es el CDRH y la página muestra como fecha de publicación el 19 de noviembre de 2026. Se pueden enviar comentarios en línea en regulations.gov con ese expediente.",
+    "Responde a preguntas frecuentes sobre la transferencia o venta de una autorización 510(k) de un titular de 510(k) a otro.",
+    "Cubre los casos en que, conforme a la ley aplicable, una venta o transferencia no exige que el nuevo titular presente una nueva 510(k).",
+    "Cubre los casos en que las entidades deben usar el número de presentación previa a la comercialización asignado por la FDA a la 510(k) autorizada al registrar su producto."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "A FDA emite a orientação final com perguntas e respostas sobre a transferência de uma autorização 510(k)",
+   "sum": "Em novembro de 2026, a FDA publicou a orientação final «Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers» (transferência de uma autorização de notificação pré-comercialização 510(k): perguntas e respostas).",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2024-D-1528. O gabinete emissor é o CDRH e a página mostra como data de publicação 19 de novembro de 2026. Podem ser enviados comentários em linha em regulations.gov para esse processo.",
+    "Responde a perguntas frequentes sobre a transferência ou venda de uma autorização 510(k) de um titular de 510(k) para outro.",
+    "Abrange os casos em que, nos termos da lei aplicável, uma venda ou transferência não exige que o novo titular apresente um novo 510(k).",
+    "Abrange os casos em que as entidades têm de usar o número de submissão pré-comercialização atribuído pela FDA ao 510(k) autorizado ao listar o seu dispositivo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA выпустило окончательное руководство с вопросами и ответами о передаче разрешения 510(k)",
+   "sum": "В ноябре 2026 года FDA опубликовало окончательное руководство «Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers» (передача разрешения по предрыночному уведомлению 510(k): вопросы и ответы).",
+   "points": [
+    "Документ является окончательным руководством для отрасли и сотрудников FDA, номер досье — FDA-2024-D-1528. Выпускающее подразделение — CDRH, на странице указана дата публикации 19 ноября 2026 года. Комментарии можно подать онлайн на regulations.gov по этому досье.",
+    "В нём даны ответы на частые вопросы о передаче или продаже разрешения 510(k) от одного держателя 510(k) другому.",
+    "Рассматриваются случаи, когда в соответствии с применимым законодательством при продаже или передаче новому держателю не требуется подавать новое уведомление 510(k).",
+    "Рассматриваются случаи, когда организации обязаны использовать присвоенный FDA номер предрыночного представления разрешённого 510(k) при листинге своего изделия."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "La FDA publie la ligne directrice finale avec questions-réponses sur le transfert d'une autorisation 510(k)",
+   "sum": "En novembre 2026, la FDA a publié la ligne directrice finale « Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers » (transfert d'une autorisation de notification préalable à la mise sur le marché 510(k) : questions-réponses).",
+   "points": [
+    "Le document est une ligne directrice finale destinée à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2024-D-1528. Le bureau émetteur est le CDRH et la page indique comme date de publication le 19 novembre 2026. Des commentaires peuvent être soumis en ligne sur regulations.gov pour ce dossier.",
+    "Il répond aux questions fréquentes sur le transfert ou la vente d'une autorisation 510(k) d'un titulaire de 510(k) à un autre.",
+    "Il couvre les cas où, selon la loi applicable, une vente ou un transfert n'oblige pas le nouveau titulaire à soumettre une nouvelle 510(k).",
+    "Il couvre les cas où les entités doivent utiliser le numéro de soumission préalable à la mise sur le marché attribué par la FDA à la 510(k) autorisée lors de l'enregistrement de leur dispositif."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA veröffentlicht endgültigen Leitfaden mit Fragen und Antworten zur Übertragung einer 510(k)-Freigabe",
+   "sum": "Im November 2026 hat die FDA den endgültigen Leitfaden „Transfer of a Premarket Notification (510(k)) Clearance – Questions and Answers“ (Übertragung einer 510(k)-Freigabe: Fragen und Antworten) veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2024-D-1528. Herausgebende Stelle ist das CDRH; die Seite nennt als Veröffentlichungsdatum den 19. November 2026. Kommentare können online auf regulations.gov zu diesem Verfahren eingereicht werden.",
+    "Es beantwortet häufige Fragen zur Übertragung oder zum Verkauf einer 510(k)-Freigabe von einem 510(k)-Inhaber an einen anderen.",
+    "Es behandelt, wann nach geltendem Recht bei Verkauf oder Übertragung der neue Inhaber keine neue 510(k) einreichen muss.",
+    "Es behandelt, wann Unternehmen bei der Listung ihres Produkts die von der FDA vergebene Premarket-Submission-Nummer der freigegebenen 510(k) verwenden müssen."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/transfer-premarket-notification-510k-clearance-questions-and-answers",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-23668",
+    "Federal Register notice 2026-23668",
+    "https://www.federalregister.gov/d/2026-23668",
+    {
+     "zh": "联邦公报公告 2026-23668",
+     "ja": "連邦官報告示 2026-23668",
+     "es": "Aviso del Registro Federal 2026-23668",
+     "pt": "Aviso do Federal Register 2026-23668",
+     "ru": "Уведомление в Federal Register 2026-23668",
+     "fr": "Avis du Federal Register 2026-23668",
+     "de": "Bekanntmachung im Federal Register 2026-23668"
+    }
+   ]
+  ]
  }
 ]
