@@ -2209,5 +2209,671 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "us-fda-patient-matched-guides",
+  "date": "2026-05-06",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 정형외과 임플란트용 환자 맞춤형 가이드 최종 가이던스 발간",
+   "sum": "FDA가 2026년 5월 「Patient-Matched Guides for Orthopedic Implants」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2023-D-2370입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 5월 6일입니다.",
+    "정형외과 임플란트용 환자 맞춤형 가이드의 시판 전 제출에 포함할 정보에 대한 FDA의 현재 권고와, 이 기기의 설계 과정을 개발할 때 제조업체가 고려할 권고를 담고 있으며, 목표는 일관되고 효율적인 심사입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on patient-matched guides for orthopedic implants",
+   "sum": "In May 2026 FDA posted the final guidance \"Patient-Matched Guides for Orthopedic Implants\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2023-D-2370. The issuing office is CDRH and the page shows a posting date of 6 May 2026.",
+    "It gives FDA's current recommendations on the information to include in premarket submissions for patient-matched guides for orthopedic implants, and recommendations manufacturers should consider when developing the design process for these devices; the aim is consistent and efficient review.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布骨科植入物用患者匹配导板最终指南",
+   "sum": "2026年5月,FDA发布了最终指南《Patient-Matched Guides for Orthopedic Implants》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2023-D-2370。发布部门为CDRH,页面显示的发布日期为2026年5月6日。",
+    "文件给出了FDA关于骨科植入物用患者匹配导板上市前提交应包含信息的现行建议,以及生产企业在制定这类器械设计流程时应考虑的建议,目标是一致、高效的审评。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、整形外科インプラント用の患者適合型ガイドに関する最終ガイダンスを発行",
+   "sum": "2026年5月、FDAは最終ガイダンス「Patient-Matched Guides for Orthopedic Implants」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2023-D-2370です。発行部署はCDRHで、ページの掲載日は2026年5月6日です。",
+    "整形外科インプラント用の患者適合型ガイドの市販前提出に含めるべき情報に関するFDAの現行の推奨事項と、この機器の設計プロセスを策定する際に製造業者が考慮すべき推奨事項を示しており、目的は一貫した効率的な審査です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Patient-Matched Guides for Orthopedic Implants",
+   "sum": "En mayo de 2026, la FDA publicó la guía final «Patient-Matched Guides for Orthopedic Implants».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2023-D-2370. La oficina emisora es CDRH y la página muestra como fecha de publicación el 6 de mayo de 2026.",
+    "Ofrece las recomendaciones actuales de la FDA sobre la información que debe incluirse en las presentaciones previas a la comercialización de guías ajustadas al paciente para implantes ortopédicos, y recomendaciones que los fabricantes deben considerar al desarrollar el proceso de diseño de estos productos; el objetivo es una revisión coherente y eficiente.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Patient-Matched Guides for Orthopedic Implants",
+   "sum": "Em maio de 2026, a FDA publicou a orientação final «Patient-Matched Guides for Orthopedic Implants».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2023-D-2370. O gabinete emissor é CDRH e a página mostra como data de publicação 6 de maio de 2026.",
+    "Apresenta as recomendações atuais da FDA sobre a informação a incluir nas submissões pré-comercialização de guias personalizadas ao doente para implantes ortopédicos, e recomendações que os fabricantes devem ter em conta ao desenvolver o processo de conceção destes dispositivos; o objetivo é uma avaliação coerente e eficiente.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Patient-Matched Guides for Orthopedic Implants",
+   "sum": "В мае 2026 года FDA опубликовало окончательное руководство «Patient-Matched Guides for Orthopedic Implants».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2023-D-2370. Выпускающее подразделение — CDRH, на странице указана дата публикации 6 мая 2026 года.",
+    "В нём изложены текущие рекомендации FDA по сведениям, которые следует включать в предрыночные заявки на индивидуально подбираемые направляющие для ортопедических имплантатов, а также рекомендации, которые производителям следует учитывать при разработке процесса проектирования таких изделий; цель — единообразное и эффективное рассмотрение.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Patient-Matched Guides for Orthopedic Implants",
+   "sum": "En mai 2026, la FDA a publié la ligne directrice finale « Patient-Matched Guides for Orthopedic Implants ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2023-D-2370. Le bureau émetteur est CDRH et la page indique comme date de publication le 6 mai 2026.",
+    "Il présente les recommandations actuelles de la FDA sur les informations à inclure dans les soumissions préalables à la mise sur le marché de guides sur mesure pour implants orthopédiques, ainsi que des recommandations que les fabricants devraient prendre en compte lors de l'élaboration du processus de conception de ces dispositifs ; l'objectif est un examen cohérent et efficace.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Patient-Matched Guides for Orthopedic Implants",
+   "sum": "Im Mai 2026 hat die FDA den endgültigen Leitfaden „Patient-Matched Guides for Orthopedic Implants“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2023-D-2370. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 6. Mai 2026.",
+    "Er enthält die aktuellen Empfehlungen der FDA zu den Informationen, die in Premarket-Einreichungen für patientenspezifische Führungen für orthopädische Implantate aufzunehmen sind, sowie Empfehlungen, die Hersteller bei der Entwicklung des Designprozesses dieser Produkte berücksichtigen sollten; Ziel ist eine einheitliche und effiziente Prüfung.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/patient-matched-guides-orthopedic-implants",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-09023",
+    "Federal Register notice 2026-09023",
+    "https://www.federalregister.gov/d/2026-09023",
+    {
+     "zh": "联邦公报公告 2026-09023",
+     "ja": "連邦官報告示 2026-09023",
+     "es": "Aviso del Registro Federal 2026-09023",
+     "pt": "Aviso do Federal Register 2026-09023",
+     "ru": "Уведомление в Federal Register 2026-09023",
+     "fr": "Avis du Federal Register 2026-09023",
+     "de": "Bekanntmachung im Federal Register 2026-09023"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-intent-to-exempt-unclassified-510k",
+  "date": "2026-06-04",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 일부 미분류 의료기기의 시판 전 신고(510(k)) 면제 의향 최종 가이던스 발간",
+   "sum": "FDA가 2026년 6월 「Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2014-D-0967입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 6월 4일입니다.",
+    "일부 미분류 의료기기를 시판 전 신고(510(k)) 요건에서 면제하려는 FDA의 의향을 밝히며, FDA는 추가된 기기가 면제 기준을 충족한다고 보고 있습니다.",
+    "면제가 시행되기 전이나 FDA가 새 정보를 알게 되기 전까지, FDA는 이 기기들에 510(k) 요건을 집행할 의사가 없고 그 기간에 제조업체가 510(k)를 제출하리라 기대하지 않는다고 적혀 있습니다. 페이지 메타데이터에는 이번 갱신으로 제품코드 5개가 추가된다고 되어 있으나 페이지에는 목록이 없습니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on intent to exempt certain unclassified medical devices from premarket notification requirements",
+   "sum": "In June 2026 FDA posted the final guidance \"Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2014-D-0967. The issuing office is CDRH and the page shows a posting date of 4 June 2026.",
+    "It states FDA's intent to exempt certain unclassified medical devices from premarket notification (510(k)) requirements; FDA believes the devices added to it meet the exemption standards.",
+    "Until an exemption takes effect, or until FDA learns of new information, FDA does not intend to enforce 510(k) requirements for these devices and does not expect manufacturers to submit 510(k)s for them in that period. The page metadata says the update adds five product codes, but the page does not list them.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布拟豁免部分未分类医疗器械上市前通知要求的意向最终指南",
+   "sum": "2026年6月,FDA发布了最终指南《Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2014-D-0967。发布部门为CDRH,页面显示的发布日期为2026年6月4日。",
+    "文件阐明FDA拟将部分未分类医疗器械豁免于上市前通知(510(k))要求,FDA认为新增的器械符合豁免标准。",
+    "页面载明,在豁免生效前或FDA获知新信息前,FDA不打算对这些器械执行510(k)要求,也不期望生产企业在此期间为其提交510(k)。页面元数据称本次更新新增五个产品代码,但页面未列出。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、一部の未分類医療機器の市販前届出要件の適用除外意向に関する最終ガイダンスを発行",
+   "sum": "2026年6月、FDAは最終ガイダンス「Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2014-D-0967です。発行部署はCDRHで、ページの掲載日は2026年6月4日です。",
+    "一部の未分類医療機器を市販前届出(510(k))要件から適用除外とするFDAの意向を示しており、FDAは追加された機器が適用除外の基準を満たすと考えています。",
+    "ページには、適用除外が発効するまで、又はFDAが新たな情報を知るまで、FDAはこれらの機器に510(k)要件を執行する意図はなく、その間に製造業者が510(k)を提出することも期待しないと記載されています。ページのメタデータには今回の更新で製品コード5件が追加されるとありますが、ページに一覧はありません。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements",
+   "sum": "En junio de 2026, la FDA publicó la guía final «Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2014-D-0967. La oficina emisora es CDRH y la página muestra como fecha de publicación el 4 de junio de 2026.",
+    "Expone la intención de la FDA de eximir a determinados productos sanitarios no clasificados de los requisitos de notificación previa a la comercialización (510(k)); la FDA considera que los productos añadidos cumplen las normas de exención.",
+    "Hasta que entre en vigor una exención, o hasta que la FDA conozca nueva información, la FDA no pretende hacer cumplir los requisitos 510(k) para estos productos y no espera que los fabricantes presenten 510(k) en ese período. Los metadatos de la página indican que la actualización añade cinco códigos de producto, pero la página no los enumera.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements",
+   "sum": "Em junho de 2026, a FDA publicou a orientação final «Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2014-D-0967. O gabinete emissor é CDRH e a página mostra como data de publicação 4 de junho de 2026.",
+    "Expõe a intenção da FDA de isentar determinados dispositivos médicos não classificados dos requisitos de notificação pré-comercialização (510(k)); a FDA considera que os dispositivos acrescentados cumprem as normas de isenção.",
+    "Até que uma isenção entre em vigor, ou até que a FDA tome conhecimento de novas informações, a FDA não pretende fazer cumprir os requisitos 510(k) para estes dispositivos e não espera que os fabricantes apresentem 510(k) nesse período. Os metadados da página indicam que a atualização acrescenta cinco códigos de produto, mas a página não os enumera.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements",
+   "sum": "В июне 2026 года FDA опубликовало окончательное руководство «Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2014-D-0967. Выпускающее подразделение — CDRH, на странице указана дата публикации 4 июня 2026 года.",
+    "В нём изложено намерение FDA освободить отдельные неклассифицированные медицинские изделия от требований предрыночного уведомления (510(k)); FDA считает, что добавленные изделия соответствуют стандартам освобождения.",
+    "До вступления освобождения в силу или до получения FDA новой информации FDA не намерено обеспечивать соблюдение требований 510(k) для этих изделий и не ожидает, что производители будут подавать для них 510(k) в этот период. В метаданных страницы указано, что обновление добавляет пять кодов продукции, но на странице их перечня нет.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements",
+   "sum": "En juin 2026, la FDA a publié la ligne directrice finale « Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2014-D-0967. Le bureau émetteur est CDRH et la page indique comme date de publication le 4 juin 2026.",
+    "Il énonce l'intention de la FDA d'exempter certains dispositifs médicaux non classés des exigences de notification préalable à la mise sur le marché (510(k)) ; la FDA estime que les dispositifs ajoutés répondent aux normes d'exemption.",
+    "Jusqu'à l'entrée en vigueur d'une exemption, ou jusqu'à ce que la FDA ait connaissance de nouvelles informations, la FDA n'a pas l'intention d'appliquer les exigences 510(k) à ces dispositifs et n'attend pas des fabricants qu'ils soumettent des 510(k) pour ceux-ci durant cette période. Les métadonnées de la page indiquent que la mise à jour ajoute cinq codes de produit, mais la page ne les énumère pas.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements",
+   "sum": "Im Juni 2026 hat die FDA den endgültigen Leitfaden „Intent to Exempt Certain Unclassified Medical Devices from Premarket Notification Requirements“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2014-D-0967. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 4. Juni 2026.",
+    "Er legt die Absicht der FDA dar, bestimmte nicht klassifizierte Medizinprodukte von den Anforderungen der Premarket Notification (510(k)) auszunehmen; die FDA ist der Ansicht, dass die hinzugefügten Produkte die Ausnahmekriterien erfüllen.",
+    "Bis eine Ausnahme in Kraft tritt oder bis die FDA neue Informationen erhält, beabsichtigt die FDA nicht, die 510(k)-Anforderungen für diese Produkte durchzusetzen, und erwartet nicht, dass Hersteller in diesem Zeitraum 510(k) einreichen. Die Seitenmetadaten geben an, dass die Aktualisierung fünf Produktcodes hinzufügt, die Seite listet sie jedoch nicht auf.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/intent-exempt-certain-unclassified-medical-devices-premarket-notification-requirements",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-11303",
+    "Federal Register notice 2026-11303",
+    "https://www.federalregister.gov/d/2026-11303",
+    {
+     "zh": "联邦公报公告 2026-11303",
+     "ja": "連邦官報告示 2026-11303",
+     "es": "Aviso del Registro Federal 2026-11303",
+     "pt": "Aviso do Federal Register 2026-11303",
+     "ru": "Уведомление в Federal Register 2026-11303",
+     "fr": "Avis du Federal Register 2026-11303",
+     "de": "Bekanntmachung im Federal Register 2026-11303"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-payor-communications-draft",
+  "date": "2026-06-02",
+  "region": "us",
+  "svc": "license-holder",
+  "ko": {
+   "title": "FDA, 의약품·의료기기 제조업체의 지불자·처방집위원회 등에 대한 정보 제공 질의응답 가이던스 초안 발간",
+   "sum": "FDA가 2026년 6월 「Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2016-D-1307입니다. 발행 부서는 CDER, CBER 및 CDRH이고 페이지의 게시일은 2026년 6월 2일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "처방의약품과 의료기기에 관한 보건의료 경제 정보(HCEI)를 지불자, 처방집위원회 및 유사 기관에 어떻게 전달할 수 있는지에 대한 질의응답입니다.",
+    "아직 어떤 용도로도 승인·허가(clearance)되지 않은 의료제품에 대한 정보와, 승인·허가된 제품의 미승인 용도에 대한 정보를 지불자에게 전달하는 경우도 다룹니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on questions and answers on drug and device manufacturer communications with payors and formulary committees",
+   "sum": "In June 2026 FDA posted the draft guidance \"Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2016-D-1307. The issuing office is CDER, CBER and CDRH and the page shows a posting date of 2 June 2026. The page states it is not for implementation and contains non-binding recommendations.",
+    "It is a Q&A on how firms may communicate health care economic information (HCEI) about their prescription drugs and medical devices to payors, formulary committees and similar entities.",
+    "It also covers disseminating information to payors about medical products not yet approved or cleared for any use, and about unapproved uses of approved or cleared products.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布药品和器械生产企业与支付方、处方集委员会等沟通问答指南草案",
+   "sum": "2026年6月,FDA发布了指南草案《Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2016-D-1307。发布部门为CDER, CBER和CDRH,页面显示的发布日期为2026年6月2日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "文件为问答形式,说明企业如何向支付方、处方集委员会及类似机构传达其处方药和医疗器械的医疗保健经济信息(HCEI)。",
+    "文件还涉及向支付方传播尚未获批或获准用于任何用途的医疗产品的信息,以及已获批或获准产品的未获批用途的信息。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医薬品・医療機器製造業者による支払者・フォーミュラリー委員会等への情報提供Q&Aに関するガイダンス案を発行",
+   "sum": "2026年6月、FDAはガイダンス案「Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2016-D-1307です。発行部署はCDER, CBERとCDRHで、ページの掲載日は2026年6月2日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "処方医薬品及び医療機器に関する医療経済情報(HCEI)を、企業が支払者、フォーミュラリー委員会及び類似の機関にどのように伝えられるかについてのQ&Aです。",
+    "また、いかなる用途でもまだ承認・クリアランスされていない医療製品に関する情報や、承認・クリアランスされた製品の未承認用途に関する情報を支払者に伝える場合も扱っています。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers",
+   "sum": "En junio de 2026, la FDA publicó el borrador de guía «Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2016-D-1307. La oficina emisora es CDER, CBER y CDRH y la página muestra como fecha de publicación el 2 de junio de 2026. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "Es un documento de preguntas y respuestas sobre cómo las empresas pueden comunicar información económica sanitaria (HCEI) sobre sus medicamentos con receta y productos sanitarios a pagadores, comités de formulario y entidades similares.",
+    "También abarca la difusión a los pagadores de información sobre productos médicos aún no aprobados ni autorizados para ningún uso, y sobre usos no aprobados de productos aprobados o autorizados.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers",
+   "sum": "Em junho de 2026, a FDA publicou o projeto de orientação «Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2016-D-1307. O gabinete emissor é CDER, CBER e CDRH e a página mostra como data de publicação 2 de junho de 2026. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "É um documento de perguntas e respostas sobre como as empresas podem comunicar informação económica de saúde (HCEI) sobre os seus medicamentos sujeitos a receita médica e dispositivos médicos a pagadores, comités de formulário e entidades semelhantes.",
+    "Abrange também a divulgação aos pagadores de informação sobre produtos médicos ainda não aprovados nem autorizados para qualquer utilização, e sobre utilizações não aprovadas de produtos aprovados ou autorizados.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers",
+   "sum": "В июне 2026 года FDA опубликовало проект руководства «Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2016-D-1307. Выпускающее подразделение — CDER, CBER и CDRH, на странице указана дата публикации 2 июня 2026 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "Это вопросы и ответы о том, как компании могут сообщать плательщикам, формулярным комитетам и аналогичным организациям информацию о health care economic information (HCEI) в отношении своих рецептурных лекарств и медицинских изделий.",
+    "Рассматривается также распространение среди плательщиков сведений о медицинских продуктах, ещё не одобренных или не разрешённых ни для какого применения, и о неодобренных видах применения одобренных или разрешённых продуктов.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers",
+   "sum": "En juin 2026, la FDA a publié le projet de ligne directrice « Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2016-D-1307. Le bureau émetteur est CDER, CBER et CDRH et la page indique comme date de publication le 2 juin 2026. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "Il s'agit de questions-réponses sur la manière dont les entreprises peuvent communiquer des informations économiques de santé (HCEI) sur leurs médicaments soumis à prescription et leurs dispositifs médicaux aux payeurs, comités de formulaire et entités similaires.",
+    "Il couvre aussi la diffusion aux payeurs d'informations sur des produits médicaux non encore approuvés ou autorisés pour un usage quelconque, et sur des usages non approuvés de produits approuvés ou autorisés.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers",
+   "sum": "Im Juni 2026 hat die FDA den Leitfadenentwurf „Drug and Device Manufacturer Communications With Payors, Formulary Committees, and Similar Entities – Questions and Answers“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2016-D-1307. Herausgebende Stelle ist CDER, CBER und CDRH; die Seite nennt als Veröffentlichungsdatum den 2. Juni 2026. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Es handelt sich um Fragen und Antworten dazu, wie Unternehmen Informationen zur Gesundheitsökonomie (HCEI) über ihre verschreibungspflichtigen Arzneimittel und Medizinprodukte an Kostenträger, Formularausschüsse und ähnliche Stellen weitergeben dürfen.",
+    "Er behandelt auch die Weitergabe von Informationen an Kostenträger über Medizinprodukte, die noch für keine Verwendung zugelassen oder freigegeben sind, und über nicht zugelassene Verwendungen zugelassener oder freigegebener Produkte.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/drug-and-device-manufacturer-communications-payors-formulary-committees-and-similar-entities",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-11060",
+    "Federal Register notice 2026-11060",
+    "https://www.federalregister.gov/d/2026-11060",
+    {
+     "zh": "联邦公报公告 2026-11060",
+     "ja": "連邦官報告示 2026-11060",
+     "es": "Aviso del Registro Federal 2026-11060",
+     "pt": "Aviso do Federal Register 2026-11060",
+     "ru": "Уведомление в Federal Register 2026-11060",
+     "fr": "Avis du Federal Register 2026-11060",
+     "de": "Bekanntmachung im Federal Register 2026-11060"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-human-factors-content-final",
+  "date": "2026-08-03",
+  "region": "us",
+  "svc": "usability",
+  "ko": {
+   "title": "FDA, 의료기기 시판 제출 자료에 포함할 인적요인 정보의 내용 최종 가이던스 발간",
+   "sum": "FDA가 2026년 5월 「Content of Human Factors Information in Medical Device Marketing Submissions」 최종 가이던스를 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 최종 가이던스이며, 도켓 번호는 FDA-2015-D-4599입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 8월 3일입니다.",
+    "제조업체와 FDA 직원을 위해, 의료기기 시판 제출 자료에 문서화해 포함해야 할 인적요인 정보를 위험 기반으로 정리한 틀을 제시하며, 510(k), De Novo, PMA, HDE 신청서를 다룹니다. 목표는 내용의 일관성과 심사의 효율입니다.",
+    "문서는 최종 가이던스 「Applying Human Factors and Usability Engineering to Medical Devices」의 보완 문서로 의도되었습니다. 페이지의 문서 표기는 2026년 5월이고 게시 메타데이터 날짜는 2026년 8월 3일입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues final guidance on content of human factors information in medical device marketing submissions",
+   "sum": "In May 2026 FDA posted the final guidance \"Content of Human Factors Information in Medical Device Marketing Submissions\".",
+   "points": [
+    "The document is final guidance for industry and FDA staff under docket number FDA-2015-D-4599. The issuing office is CDRH and the page shows a posting date of 3 August 2026.",
+    "It gives manufacturers and FDA staff a risk-based framework for which human factors information should be documented and included in medical device marketing submissions, covering 510(k)s, De Novo requests, PMAs and HDE applications. The stated aim is consistent content and more efficient review.",
+    "It is meant as a companion to the final guidance \"Applying Human Factors and Usability Engineering to Medical Devices\". The page's document line reads May 2026, while its publication metadata date is 3 August 2026.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布医疗器械上市提交资料中人因信息的内容最终指南",
+   "sum": "2026年5月,FDA发布了最终指南《Content of Human Factors Information in Medical Device Marketing Submissions》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的最终指南,档案编号为FDA-2015-D-4599。发布部门为CDRH,页面显示的发布日期为2026年8月3日。",
+    "文件为生产企业和FDA工作人员提供了基于风险的框架,说明哪些人因信息应记录并纳入医疗器械上市提交资料,涵盖510(k)、De Novo申请、PMA和HDE申请。所述目标是内容一致、审评更高效。",
+    "该文件旨在作为最终指南《Applying Human Factors and Usability Engineering to Medical Devices》的配套文件。页面的文件标注为2026年5月,而其发布元数据日期为2026年8月3日。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、医療機器の市販提出資料に含めるヒューマンファクター情報の内容に関する最終ガイダンスを発行",
+   "sum": "2026年5月、FDAは最終ガイダンス「Content of Human Factors Information in Medical Device Marketing Submissions」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けの最終ガイダンスで、ドケット番号はFDA-2015-D-4599です。発行部署はCDRHで、ページの掲載日は2026年8月3日です。",
+    "製造業者とFDA職員に対し、医療機器の市販提出資料にどのヒューマンファクター情報を文書化して含めるべきかをリスクベースで整理した枠組みを示しており、510(k)、De Novo申請、PMA、HDE申請を対象とします。目的は内容の一貫性と審査の効率化です。",
+    "この文書は、最終ガイダンス「Applying Human Factors and Usability Engineering to Medical Devices」の補完文書として意図されています。ページの文書表記は2026年5月で、掲載メタデータの日付は2026年8月3日です。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: guía final — Content of Human Factors Information in Medical Device Marketing Submissions",
+   "sum": "En mayo de 2026, la FDA publicó la guía final «Content of Human Factors Information in Medical Device Marketing Submissions».",
+   "points": [
+    "El documento es una guía final para la industria y el personal de la FDA con el número de expediente FDA-2015-D-4599. La oficina emisora es CDRH y la página muestra como fecha de publicación el 3 de agosto de 2026.",
+    "Ofrece a fabricantes y personal de la FDA un marco basado en el riesgo sobre qué información de factores humanos debe documentarse e incluirse en las presentaciones de comercialización de productos sanitarios, que abarca 510(k), solicitudes De Novo, PMA y solicitudes HDE. El objetivo declarado es un contenido coherente y una revisión más eficiente.",
+    "Está concebido como complemento de la guía final «Applying Human Factors and Usability Engineering to Medical Devices». La línea del documento en la página indica mayo de 2026, mientras que la fecha de los metadatos de publicación es el 3 de agosto de 2026.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: orientação final — Content of Human Factors Information in Medical Device Marketing Submissions",
+   "sum": "Em maio de 2026, a FDA publicou a orientação final «Content of Human Factors Information in Medical Device Marketing Submissions».",
+   "points": [
+    "O documento é uma orientação final para a indústria e o pessoal da FDA, com o número de processo FDA-2015-D-4599. O gabinete emissor é CDRH e a página mostra como data de publicação 3 de agosto de 2026.",
+    "Apresenta a fabricantes e ao pessoal da FDA um quadro baseado no risco sobre que informação de fatores humanos deve ser documentada e incluída nas submissões de comercialização de dispositivos médicos, abrangendo 510(k), pedidos De Novo, PMA e pedidos HDE. O objetivo declarado é um conteúdo coerente e uma avaliação mais eficiente.",
+    "Destina-se a complementar a orientação final «Applying Human Factors and Usability Engineering to Medical Devices». A linha do documento na página indica maio de 2026, enquanto a data dos metadados de publicação é 3 de agosto de 2026.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: окончательное руководство — Content of Human Factors Information in Medical Device Marketing Submissions",
+   "sum": "В мае 2026 года FDA опубликовало окончательное руководство «Content of Human Factors Information in Medical Device Marketing Submissions».",
+   "points": [
+    "Документ является окончательное руководство для отрасли и сотрудников FDA, номер досье — FDA-2015-D-4599. Выпускающее подразделение — CDRH, на странице указана дата публикации 3 августа 2026 года.",
+    "Для производителей и сотрудников FDA предлагается основанная на оценке риска схема того, какие сведения о человеческом факторе следует документировать и включать в маркетинговые заявки на медицинские изделия: 510(k), запросы De Novo, PMA и заявки HDE. Заявленная цель — единообразное содержание и более эффективное рассмотрение.",
+    "Он предназначен как дополнение к окончательному руководству «Applying Human Factors and Usability Engineering to Medical Devices». В строке документа на странице указан май 2026 года, а дата в метаданных публикации — 3 августа 2026 года.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: ligne directrice finale — Content of Human Factors Information in Medical Device Marketing Submissions",
+   "sum": "En mai 2026, la FDA a publié la ligne directrice finale « Content of Human Factors Information in Medical Device Marketing Submissions ».",
+   "points": [
+    "Le document est une ligne directrice finale destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2015-D-4599. Le bureau émetteur est CDRH et la page indique comme date de publication le 3 août 2026.",
+    "Il offre aux fabricants et au personnel de la FDA un cadre fondé sur le risque indiquant quelles informations sur les facteurs humains doivent être documentées et incluses dans les soumissions de mise sur le marché des dispositifs médicaux, couvrant les 510(k), les demandes De Novo, les PMA et les demandes HDE. L'objectif déclaré est un contenu cohérent et un examen plus efficace.",
+    "Il est conçu comme un complément à la ligne directrice finale « Applying Human Factors and Usability Engineering to Medical Devices ». La ligne du document sur la page indique mai 2026, tandis que la date des métadonnées de publication est le 3 août 2026.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: endgültiger Leitfaden — Content of Human Factors Information in Medical Device Marketing Submissions",
+   "sum": "Im Mai 2026 hat die FDA den endgültigen Leitfaden „Content of Human Factors Information in Medical Device Marketing Submissions“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein endgültiger Leitfaden für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2015-D-4599. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 3. August 2026.",
+    "Er bietet Herstellern und FDA-Mitarbeitern einen risikobasierten Rahmen dafür, welche Human-Factors-Informationen in Marktzulassungseinreichungen für Medizinprodukte zu dokumentieren und aufzunehmen sind; er umfasst 510(k), De-Novo-Anträge, PMA und HDE-Anträge. Das angegebene Ziel sind einheitliche Inhalte und eine effizientere Prüfung.",
+    "Er ist als Ergänzung zum endgültigen Leitfaden „Applying Human Factors and Usability Engineering to Medical Devices“ gedacht. Die Dokumentzeile der Seite nennt Mai 2026, das Datum der Veröffentlichungsmetadaten ist der 3. August 2026.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-human-factors-information-medical-device-marketing-submissions",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-10734",
+    "Federal Register notice 2026-10734",
+    "https://www.federalregister.gov/d/2026-10734",
+    {
+     "zh": "联邦公报公告 2026-10734",
+     "ja": "連邦官報告示 2026-10734",
+     "es": "Aviso del Registro Federal 2026-10734",
+     "pt": "Aviso do Federal Register 2026-10734",
+     "ru": "Уведомление в Federal Register 2026-10734",
+     "fr": "Avis du Federal Register 2026-10734",
+     "de": "Bekanntmachung im Federal Register 2026-10734"
+    }
+   ]
+  ]
+ },
+ {
+  "slug": "us-fda-niosh-respirators-draft",
+  "date": "2026-04-17",
+  "region": "us",
+  "svc": "technical-documentation",
+  "ko": {
+   "title": "FDA, 일부 NIOSH 승인 공기정화식 호흡보호구의 시판 전 등 요건 관련 준수 정책 가이던스 초안 발간",
+   "sum": "FDA가 2026년 4월 「Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators」 가이던스 초안을 게시했습니다.",
+   "points": [
+    "문서는 산업계와 FDA 직원용 가이던스 초안이며, 도켓 번호는 FDA-2025-D-7121입니다. 발행 부서는 CDRH이고 페이지의 게시일은 2026년 4월 17일입니다. 페이지에는 시행 대상이 아니며 구속력 없는 권고를 담고 있다고 적혀 있습니다.",
+    "FDA가 준수 정책을 제안하고, 42 CFR part 84에 따른 NIOSH 승인 호흡보호구에 대한 정보를 제공합니다.",
+    "대상은 21 CFR 878.4040으로 분류되는 수술용 N95 호흡보호구와 N95 필터링 페이스피스 호흡보호구(FFR), PAPR·비동력 입자 FFR·재사용 탄성체 반면형·전면형 호흡보호구 등 그 밖의 비수술용 NIOSH 승인 호흡보호구, 그리고 21 CFR 880.6260으로 분류되는 공중보건 의료 비상 시 일반인용 FFR입니다.",
+    "의견은 언제든 regulations.gov의 해당 도켓에 제출할 수 있다고 페이지에 적혀 있습니다."
+   ],
+   "check": "세부 내용은 FDA 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "FDA issues draft guidance on compliance policy for premarket and other requirements for certain NIOSH-approved air-purifying respirators",
+   "sum": "In April 2026 FDA posted the draft guidance \"Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators\".",
+   "points": [
+    "The document is draft guidance for industry and FDA staff under docket number FDA-2025-D-7121. The issuing office is CDRH and the page shows a posting date of 17 April 2026. The page states it is not for implementation and contains non-binding recommendations.",
+    "FDA proposes a compliance policy and gives information on NIOSH-approved respirators under 42 CFR part 84.",
+    "It covers surgical N95 respirators and N95 filtering facepiece respirators (FFRs) classified under 21 CFR 878.4040; other non-surgical NIOSH-approved respirators, including powered air-purifying respirators (PAPRs), non-powered particulate FFRs and reusable elastomeric half and full facepiece respirators; and FFRs for use by the general public in public health medical emergencies, classified under 21 CFR 880.6260.",
+    "The page says comments can be submitted at any time at regulations.gov under that docket."
+   ],
+   "check": "Check the FDA original for details."
+  },
+  "zh": {
+   "title": "FDA发布部分NIOSH批准的空气净化呼吸器上市前等要求的合规政策指南草案",
+   "sum": "2026年4月,FDA发布了指南草案《Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators》。",
+   "points": [
+    "该文件为面向行业和FDA工作人员的指南草案,档案编号为FDA-2025-D-7121。发布部门为CDRH,页面显示的发布日期为2026年4月17日。 页面注明其不用于实施且包含不具约束力的建议。",
+    "FDA提出了一项合规政策,并提供了关于依据42 CFR part 84获NIOSH批准的呼吸器的信息。",
+    "涉及21 CFR 878.4040分类的外科用N95呼吸器和N95过滤式面罩呼吸器(FFR);其他非外科用NIOSH批准呼吸器,包括动力送风过滤式呼吸器(PAPR)、非动力颗粒物FFR以及可重复使用的弹性体半面罩和全面罩呼吸器;以及21 CFR 880.6260分类的公共卫生医疗突发事件中供公众使用的FFR。",
+    "页面载明,可随时在regulations.gov上针对该档案提交意见。"
+   ],
+   "check": "详细内容请查阅FDA原文。"
+  },
+  "ja": {
+   "title": "FDA、一部のNIOSH承認の空気浄化式呼吸用保護具の市販前等の要件に関するコンプライアンス方針に関するガイダンス案を発行",
+   "sum": "2026年4月、FDAはガイダンス案「Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators」を掲載しました。",
+   "points": [
+    "文書は産業界とFDA職員向けのガイダンス案で、ドケット番号はFDA-2025-D-7121です。発行部署はCDRHで、ページの掲載日は2026年4月17日です。 ページには、実施対象ではなく拘束力のない推奨事項を含むと記載されています。",
+    "FDAはコンプライアンス方針を提案し、42 CFR part 84に基づくNIOSH承認の呼吸用保護具に関する情報を示しています。",
+    "21 CFR 878.4040に分類される外科用N95呼吸用保護具とN95ろ過式フェイスピース呼吸用保護具(FFR)、電動ファン付き呼吸用保護具(PAPR)・非電動の粒子用FFR・再利用可能なエラストマー製半面形・全面形呼吸用保護具などの非外科用NIOSH承認呼吸用保護具、及び21 CFR 880.6260に分類される公衆衛生上の医療緊急事態で一般向けに使うFFRを扱います。",
+    "ページには、意見はregulations.govの当該ドケットにいつでも提出できると記載されています。"
+   ],
+   "check": "詳細はFDAの原文をご確認ください。"
+  },
+  "es": {
+   "title": "FDA: borrador de guía — Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators",
+   "sum": "En abril de 2026, la FDA publicó el borrador de guía «Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators».",
+   "points": [
+    "El documento es un borrador de guía para la industria y el personal de la FDA con el número de expediente FDA-2025-D-7121. La oficina emisora es CDRH y la página muestra como fecha de publicación el 17 de abril de 2026. La página indica que no es para su aplicación y contiene recomendaciones no vinculantes.",
+    "La FDA propone una política de cumplimiento y ofrece información sobre los respiradores aprobados por el NIOSH conforme a 42 CFR part 84.",
+    "Abarca los respiradores N95 quirúrgicos y los respiradores N95 de pieza facial filtrante (FFR) clasificados en 21 CFR 878.4040; otros respiradores no quirúrgicos aprobados por el NIOSH, incluidos los respiradores purificadores de aire motorizados (PAPR), los FFR de partículas no motorizados y los respiradores elastoméricos reutilizables de media máscara y máscara completa; y los FFR para uso del público general en emergencias médicas de salud pública, clasificados en 21 CFR 880.6260.",
+    "La página indica que se pueden enviar comentarios en cualquier momento en regulations.gov con ese expediente."
+   ],
+   "check": "Consulte el original de la FDA para los detalles."
+  },
+  "pt": {
+   "title": "FDA: projeto de orientação — Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators",
+   "sum": "Em abril de 2026, a FDA publicou o projeto de orientação «Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators».",
+   "points": [
+    "O documento é um projeto de orientação para a indústria e o pessoal da FDA, com o número de processo FDA-2025-D-7121. O gabinete emissor é CDRH e a página mostra como data de publicação 17 de abril de 2026. A página indica que não se destina a aplicação e contém recomendações não vinculativas.",
+    "A FDA propõe uma política de conformidade e apresenta informação sobre os respiradores aprovados pelo NIOSH nos termos do 42 CFR part 84.",
+    "Abrange os respiradores N95 cirúrgicos e os respiradores N95 de peça facial filtrante (FFR) classificados no 21 CFR 878.4040; outros respiradores não cirúrgicos aprovados pelo NIOSH, incluindo os respiradores purificadores de ar motorizados (PAPR), os FFR de partículas não motorizados e os respiradores elastoméricos reutilizáveis de meia máscara e máscara completa; e os FFR para uso do público em geral em emergências médicas de saúde pública, classificados no 21 CFR 880.6260.",
+    "A página indica que podem ser enviados comentários a qualquer momento em regulations.gov para esse processo."
+   ],
+   "check": "Consulte o original da FDA para os pormenores."
+  },
+  "ru": {
+   "title": "FDA: проект руководства — Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators",
+   "sum": "В апреле 2026 года FDA опубликовало проект руководства «Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators».",
+   "points": [
+    "Документ является проект руководства для отрасли и сотрудников FDA, номер досье — FDA-2025-D-7121. Выпускающее подразделение — CDRH, на странице указана дата публикации 17 апреля 2026 года. На странице указано, что документ не предназначен для применения и содержит необязательные рекомендации.",
+    "FDA предлагает политику соблюдения требований и приводит сведения о респираторах, одобренных NIOSH в соответствии с 42 CFR part 84.",
+    "Охватываются хирургические респираторы N95 и фильтрующие лицевые респираторы N95 (FFR), классифицированные по 21 CFR 878.4040; другие нехирургические респираторы, одобренные NIOSH, включая PAPR, неприводные FFR для частиц и многоразовые эластомерные полумаски и полнолицевые маски; а также FFR для использования населением при медицинских чрезвычайных ситуациях в области общественного здравоохранения, классифицированные по 21 CFR 880.6260.",
+    "На странице указано, что комментарии можно подавать в любое время на regulations.gov по этому досье."
+   ],
+   "check": "Подробности смотрите в оригинале FDA."
+  },
+  "fr": {
+   "title": "FDA: projet de ligne directrice — Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators",
+   "sum": "En avril 2026, la FDA a publié le projet de ligne directrice « Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators ».",
+   "points": [
+    "Le document est un projet de ligne directrice destiné à l'industrie et au personnel de la FDA, sous le numéro de dossier FDA-2025-D-7121. Le bureau émetteur est CDRH et la page indique comme date de publication le 17 avril 2026. La page indique qu'il n'est pas destiné à la mise en œuvre et contient des recommandations non contraignantes.",
+    "La FDA propose une politique de conformité et fournit des informations sur les respirateurs approuvés par le NIOSH au titre du 42 CFR part 84.",
+    "Il couvre les respirateurs chirurgicaux N95 et les respirateurs N95 à pièce faciale filtrante (FFR) classés au titre du 21 CFR 878.4040 ; les autres respirateurs non chirurgicaux approuvés par le NIOSH, y compris les respirateurs à ventilation assistée (PAPR), les FFR à particules non motorisés et les respirateurs élastomères réutilisables demi-masque et masque complet ; et les FFR destinés au grand public lors d'urgences médicales de santé publique, classés au titre du 21 CFR 880.6260.",
+    "La page indique que des commentaires peuvent être soumis à tout moment sur regulations.gov pour ce dossier."
+   ],
+   "check": "Consultez l'original de la FDA pour les détails."
+  },
+  "de": {
+   "title": "FDA: Leitfadenentwurf — Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators",
+   "sum": "Im April 2026 hat die FDA den Leitfadenentwurf „Compliance Policy Regarding Premarket and Other Requirements for Certain NIOSH Approved Air-Purifying Respirators“ veröffentlicht.",
+   "points": [
+    "Das Dokument ist ein Leitfadenentwurf für die Industrie und FDA-Mitarbeiter mit der Aktenzeichen-Nummer FDA-2025-D-7121. Herausgebende Stelle ist CDRH; die Seite nennt als Veröffentlichungsdatum den 17. April 2026. Die Seite gibt an, dass er nicht zur Umsetzung bestimmt ist und unverbindliche Empfehlungen enthält.",
+    "Die FDA schlägt eine Compliance-Politik vor und gibt Informationen zu NIOSH-zugelassenen Atemschutzgeräten nach 42 CFR part 84.",
+    "Er umfasst chirurgische N95-Atemschutzmasken und N95-filtrierende Halbmasken (FFR) nach 21 CFR 878.4040; andere nicht chirurgische NIOSH-zugelassene Atemschutzgeräte, einschließlich gebläseunterstützter Atemschutzgeräte (PAPR), nicht gebläseunterstützter Partikel-FFR und wiederverwendbarer Elastomer-Halb- und Vollmasken; sowie FFR für die Verwendung durch die Allgemeinheit bei gesundheitlichen Notlagen, klassifiziert nach 21 CFR 880.6260.",
+    "Die Seite gibt an, dass Kommentare jederzeit auf regulations.gov zu diesem Verfahren eingereicht werden können."
+   ],
+   "check": "Einzelheiten finden Sie im Original der FDA."
+  },
+  "src": [
+   [
+    "FDA 가이던스 문서 페이지",
+    "FDA guidance document page",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/compliance-policy-regarding-premarket-and-other-requirements-certain-niosh-approved-air-purifying",
+    {
+     "zh": "FDA指南文件页面",
+     "ja": "FDAガイダンス文書ページ",
+     "es": "Página del documento de orientación de la FDA",
+     "pt": "Página do documento de orientação da FDA",
+     "ru": "Страница документа-руководства FDA",
+     "fr": "Page du document d'orientation de la FDA",
+     "de": "Seite des FDA-Leitfadendokuments"
+    }
+   ],
+   [
+    "연방관보 고시 2026-07613",
+    "Federal Register notice 2026-07613",
+    "https://www.federalregister.gov/d/2026-07613",
+    {
+     "zh": "联邦公报公告 2026-07613",
+     "ja": "連邦官報告示 2026-07613",
+     "es": "Aviso del Registro Federal 2026-07613",
+     "pt": "Aviso do Federal Register 2026-07613",
+     "ru": "Уведомление в Federal Register 2026-07613",
+     "fr": "Avis du Federal Register 2026-07613",
+     "de": "Bekanntmachung im Federal Register 2026-07613"
+    }
+   ]
+  ]
  }
 ]
