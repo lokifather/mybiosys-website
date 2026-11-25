@@ -361,5 +361,126 @@
     }
    ]
   ]
+ },
+ {
+  "slug": "kr-gmp-usability-guide",
+  "date": "2026-11-18",
+  "region": "kr",
+  "svc": "usability",
+  "ko": {
+   "title": "식약처, 의료기기 GMP 기준 중 사용적합성 가이드라인(민원인 안내서) 게시",
+   "sum": "식품의약품안전처가 2026년 11월 18일 의료기기 GMP 기준 중 사용적합성 요구사항을 제조업체가 쉽게 적용하도록 하는 가이드라인 민원인 안내서를 등록했습니다.",
+   "points": [
+    "문서명은 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」(민원인 안내서)이며, 등록번호는 안내서-1548-01입니다.",
+    "고시일과 등록일은 모두 2026년 11월 18일입니다.",
+    "게시글에 적힌 마련 목적은 의료기기의 안전하고 올바른 사용을 보장하기 위한 사용적합성 요구사항을 제조업체가 쉽게 적용하도록 하는 것입니다.",
+    "대상은 의료기기 제조업체입니다."
+   ],
+   "check": "세부 내용은 식약처 원문에서 확인하세요."
+  },
+  "en": {
+   "title": "MFDS posts usability guideline under medical device GMP standards (guidance for applicants)",
+   "sum": "On 18 November 2026 the Ministry of Food and Drug Safety registered a guidance for applicants on usability under the medical device GMP standards, intended to let manufacturers apply usability requirements easily.",
+   "points": [
+    "The document is titled 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (Guideline on Usability under the Medical Device GMP Standards, guidance for applicants) and carries registration number 안내서-1548-01.",
+    "Both the notification date and the registration date are 18 November 2026.",
+    "The post states that the guidance was prepared so that manufacturers can easily apply the usability requirements that ensure the safe and correct use of medical devices.",
+    "It is addressed to medical device manufacturers."
+   ],
+   "check": "Check the MFDS original for details."
+  },
+  "zh": {
+   "title": "食品医药品安全处发布医疗器械GMP标准中的可用性指南(申请人指南)",
+   "sum": "2026年11月18日,食品医药品安全处登记了关于医疗器械GMP标准中可用性要求的申请人指南,旨在使生产企业便于应用可用性要求。",
+   "points": [
+    "文件名为「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」(医疗器械GMP标准中的可用性指南,申请人指南),登记编号为안내서-1548-01。",
+    "公告日期和登记日期均为2026年11月18日。",
+    "帖子中载明,编制该指南是为了让生产企业便于应用确保医疗器械安全、正确使用的可用性要求。",
+    "对象为医疗器械生产企业。"
+   ],
+   "check": "详细内容请查阅食品医药品安全处原文。"
+  },
+  "ja": {
+   "title": "食品医薬品安全処、医療機器GMP基準のうち使用適合性ガイドライン(申請者向けガイド)を掲載",
+   "sum": "2026年11月18日、食品医薬品安全処は、医療機器GMP基準のうち使用適合性要求事項を製造業者が容易に適用できるようにするガイドラインの申請者向けガイドを登録しました。",
+   "points": [
+    "文書名は「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」(医療機器GMP基準のうち使用適合性ガイドライン、申請者向けガイド)で、登録番号は안내서-1548-01です。",
+    "告示日と登録日はいずれも2026年11月18日です。",
+    "投稿に記載された目的は、医療機器の安全で正しい使用を保証するための使用適合性要求事項を製造業者が容易に適用できるようにすることです。",
+    "対象は医療機器の製造業者です。"
+   ],
+   "check": "詳細は食品医薬品安全処の原文をご確認ください。"
+  },
+  "es": {
+   "title": "El MFDS publica la guía de usabilidad dentro de los criterios GMP de productos sanitarios (guía para solicitantes)",
+   "sum": "El 18 de noviembre de 2026, el Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) registró una guía para solicitantes sobre usabilidad dentro de los criterios GMP de productos sanitarios, destinada a que los fabricantes apliquen con facilidad los requisitos de usabilidad.",
+   "points": [
+    "El documento se titula 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (Directriz de usabilidad dentro de los criterios GMP de productos sanitarios, guía para solicitantes) y tiene el número de registro 안내서-1548-01.",
+    "La fecha de notificación y la fecha de registro son ambas el 18 de noviembre de 2026.",
+    "La publicación indica que la guía se elaboró para que los fabricantes apliquen con facilidad los requisitos de usabilidad que garantizan el uso seguro y correcto de los productos sanitarios.",
+    "Está dirigida a fabricantes de productos sanitarios."
+   ],
+   "check": "Consulte el original del MFDS para los detalles."
+  },
+  "pt": {
+   "title": "O MFDS publica a orientação de usabilidade nos critérios GMP de dispositivos médicos (guia para requerentes)",
+   "sum": "Em 18 de novembro de 2026, o Ministério da Segurança Alimentar e dos Medicamentos (MFDS) registou um guia para requerentes sobre usabilidade nos critérios GMP de dispositivos médicos, destinado a que os fabricantes apliquem facilmente os requisitos de usabilidade.",
+   "points": [
+    "O documento intitula-se 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (Orientação de usabilidade nos critérios GMP de dispositivos médicos, guia para requerentes) e tem o número de registo 안내서-1548-01.",
+    "A data de notificação e a data de registo são ambas 18 de novembro de 2026.",
+    "A publicação indica que o guia foi elaborado para que os fabricantes apliquem facilmente os requisitos de usabilidade que garantem a utilização segura e correta dos dispositivos médicos.",
+    "Destina-se a fabricantes de dispositivos médicos."
+   ],
+   "check": "Consulte o original do MFDS para os pormenores."
+  },
+  "ru": {
+   "title": "MFDS опубликовало руководство по применимости к использованию (usability) в рамках критериев GMP для медицинских изделий (руководство для заявителей)",
+   "sum": "18 ноября 2026 года Министерство безопасности пищевых продуктов и лекарств (MFDS) зарегистрировало руководство для заявителей по требованиям к применимости к использованию в рамках критериев GMP для медицинских изделий, призванное помочь производителям легко применять эти требования.",
+   "points": [
+    "Документ называется 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (руководство по применимости к использованию в рамках критериев GMP для медицинских изделий, руководство для заявителей), регистрационный номер — 안내서-1548-01.",
+    "Дата объявления и дата регистрации — 18 ноября 2026 года.",
+    "В публикации указано, что руководство подготовлено для того, чтобы производители могли легко применять требования к применимости к использованию, обеспечивающие безопасное и правильное использование медицинских изделий.",
+    "Оно адресовано производителям медицинских изделий."
+   ],
+   "check": "Подробности смотрите в оригинале MFDS."
+  },
+  "fr": {
+   "title": "Le MFDS publie la ligne directrice sur l'aptitude à l'utilisation dans les critères GMP des dispositifs médicaux (guide pour les demandeurs)",
+   "sum": "Le 18 novembre 2026, le Ministère de la sécurité des aliments et des médicaments (MFDS) a enregistré un guide pour les demandeurs sur l'aptitude à l'utilisation dans les critères GMP des dispositifs médicaux, destiné à permettre aux fabricants d'appliquer facilement ces exigences.",
+   "points": [
+    "Le document s'intitule 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (ligne directrice sur l'aptitude à l'utilisation dans les critères GMP des dispositifs médicaux, guide pour les demandeurs) et porte le numéro d'enregistrement 안내서-1548-01.",
+    "La date de notification et la date d'enregistrement sont toutes deux le 18 novembre 2026.",
+    "La publication indique que le guide a été élaboré pour que les fabricants appliquent facilement les exigences d'aptitude à l'utilisation garantissant l'utilisation sûre et correcte des dispositifs médicaux.",
+    "Il s'adresse aux fabricants de dispositifs médicaux."
+   ],
+   "check": "Consultez l'original du MFDS pour les détails."
+  },
+  "de": {
+   "title": "MFDS veröffentlicht Leitlinie zur Gebrauchstauglichkeit innerhalb der GMP-Kriterien für Medizinprodukte (Leitfaden für Antragsteller)",
+   "sum": "Am 18. November 2026 hat das Ministerium für Lebensmittel- und Arzneimittelsicherheit (MFDS) einen Leitfaden für Antragsteller zur Gebrauchstauglichkeit innerhalb der GMP-Kriterien für Medizinprodukte registriert, der Herstellern die einfache Anwendung der Anforderungen ermöglichen soll.",
+   "points": [
+    "Das Dokument trägt den Titel 「의료기기 GMP 기준 중 사용적합성 가이드라인(의료용 경)」 (Leitlinie zur Gebrauchstauglichkeit innerhalb der GMP-Kriterien für Medizinprodukte, Leitfaden für Antragsteller) und hat die Registrierungsnummer 안내서-1548-01.",
+    "Bekanntmachungsdatum und Registrierungsdatum sind beide der 18. November 2026.",
+    "Laut Beitrag wurde der Leitfaden erstellt, damit Hersteller die Anforderungen an die Gebrauchstauglichkeit, die die sichere und korrekte Verwendung von Medizinprodukten gewährleisten, leicht anwenden können.",
+    "Er richtet sich an Hersteller von Medizinprodukten."
+   ],
+   "check": "Einzelheiten finden Sie im Original des MFDS."
+  },
+  "src": [
+   [
+    "식품의약품안전처 지침서·안내서 게시판",
+    "MFDS (Ministry of Food and Drug Safety) guidance board",
+    "https://www.mfds.go.kr/brd/m_1060/list.do",
+    {
+     "zh": "食品医药品安全处指南公告栏",
+     "ja": "食品医薬品安全処 ガイドライン掲示板",
+     "es": "Tablón de directrices del MFDS",
+     "pt": "Quadro de orientações do MFDS",
+     "ru": "Доска руководств MFDS",
+     "fr": "Tableau des lignes directrices du MFDS",
+     "de": "Leitlinien-Tafel des MFDS"
+    }
+   ]
+  ]
  }
 ]
